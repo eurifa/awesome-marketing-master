@@ -1,0 +1,1063 @@
+# FORMAT:  Name | url | pricing | description        (pricing: F=free, M=freemium, P=paid, O=open source)
+# "## " = category, "### " = subcategory. Lines starting with # are comments.
+# Compiled Nov 2026 from 21 awesome-lists + manual curation. Run scripts/build.py to regenerate README.md + tools.csv.
+
+## Strategy, Planning & Project Management
+### Planning & Roadmaps
+Notion | https://www.notion.com | M | All-in-one workspace for marketing wikis, calendars, and databases.
+Airtable | https://www.airtable.com | M | Spreadsheet-database hybrid for content calendars and campaign trackers.
+Asana | https://asana.com | M | Work management for campaign plans and cross-team projects.
+Trello | https://trello.com | M | Simple kanban boards for content and campaign pipelines.
+Monday.com | https://monday.com | M | Visual work OS with marketing templates and automations.
+ClickUp | https://clickup.com | M | Tasks, docs, and goals in one app; popular with small marketing teams.
+Wrike | https://www.wrike.com | M | Enterprise-grade project and approval workflows.
+Linear | https://linear.app | M | Fast issue tracker; good for growth-engineering backlogs.
+CoSchedule | https://coschedule.com | P | Marketing calendar combining content, social, and campaign scheduling.
+Miro | https://miro.com | M | Whiteboard for journey maps, funnels, and brainstorming.
+Lucidchart | https://www.lucidchart.com | M | Diagramming for funnels and customer journey maps.
+Whimsical | https://whimsical.com | M | Quick flowcharts, wireframes, and mind maps.
+Smaply | https://www.smaply.com | P | Customer journey mapping and persona software.
+### Personas & Segmentation
+HubSpot Make My Persona | https://www.hubspot.com/make-my-persona | F | Free guided buyer-persona builder.
+Xtensio | https://xtensio.com | M | Templates for personas, user journeys, and strategy docs.
+Claritas PRIZM | https://claritas.com | P | Consumer segmentation and geo-demographic data.
+### Budgeting & Forecasting
+Float | https://www.float.com | P | Resource planning and capacity forecasting for agencies.
+Productive | https://productive.io | P | Agency management: budgets, time, and profitability.
+Planful | https://planful.com | P | Financial planning and budgeting (formerly Host Analytics).
+### Frameworks & Templates
+Reforge | https://www.reforge.com | P | Growth, marketing, and product programs from operators.
+Demand Curve | https://www.demandcurve.com | M | Growth playbooks and training for startups.
+GrowthMentor | https://www.growthmentor.com | P | 1:1 sessions with vetted growth marketers.
+Lenny's Newsletter Templates | https://www.lennysnewsletter.com | M | Product and growth templates from a top operator newsletter.
+
+## Market & Competitor Research
+### Competitive Intelligence
+Similarweb | https://www.similarweb.com | M | Website and app traffic, audience, and channel estimates.
+Semrush Traffic Analytics | https://www.semrush.com/analytics/traffic/ | P | Competitor traffic and audience overlap.
+SpyFu | https://www.spyfu.com | P | Competitor keyword and PPC history.
+Crayon | https://www.crayon.co | P | Competitive intelligence and battlecard platform.
+Klue | https://klue.com | P | Competitive enablement for sales and product marketing.
+Kompyte | https://www.kompyte.com | P | Automated competitor tracking (now part of Semrush).
+Owler | https://www.owler.com | M | Company profiles, news alerts, and competitor tracking.
+BuiltWith | https://builtwith.com | M | See which technologies any site uses.
+Wappalyzer | https://www.wappalyzer.com | M | Tech-stack detection via extension and API.
+Wayback Machine | https://web.archive.org | F | Historical snapshots of competitor sites and pricing pages.
+Visualping | https://visualping.io | M | Monitor competitor pages for changes.
+Foreplay | https://www.foreplay.co | P | Ad library saving and swipe-file tool.
+Meta Ad Library | https://www.facebook.com/ads/library/ | F | Free searchable archive of active Meta ads.
+Google Ads Transparency Center | https://adstransparency.google.com | F | Free search of ads advertisers run on Google.
+TikTok Creative Center | https://ads.tiktok.com/business/creativecenter | F | Top ads, trends, hashtags, and songs on TikTok.
+LinkedIn Ad Library | https://www.linkedin.com/ad-library | F | Free search of ads running on LinkedIn.
+### Market Data & Trends
+Google Trends | https://trends.google.com | F | Search interest over time by topic and region.
+Exploding Topics | https://explodingtopics.com | M | Spot rising trends before they peak.
+Statista | https://www.statista.com | M | Market statistics and industry reports.
+Crunchbase | https://www.crunchbase.com | M | Company, funding, and market data.
+SparkToro | https://sparktoro.com | M | Audience research: where your audience hangs out and what they follow.
+Glimpse | https://meetglimpse.com | M | Google Trends extension with absolute volumes.
+Think with Google | https://www.thinkwithgoogle.com | F | Google's consumer insights and trend research.
+Pew Research Center | https://www.pewresearch.org | F | Free public data on demographics and tech/media use.
+Gartner | https://www.gartner.com | P | Analyst research and market guides.
+G2 | https://www.g2.com | M | Software reviews, category data, and buyer intent.
+
+## Customer Research, Surveys & Feedback
+Typeform | https://www.typeform.com | M | Conversational forms and surveys.
+Tally | https://tally.so | M | Free, generous form builder.
+SurveyMonkey | https://www.surveymonkey.com | M | Classic survey platform with templates.
+Google Forms | https://www.google.com/forms/about/ | F | Free basic surveys and quizzes.
+Qualtrics | https://www.qualtrics.com | P | Enterprise experience management and research.
+Sprig | https://sprig.com | M | In-product surveys and user research.
+Hotjar Surveys | https://www.hotjar.com | M | On-site feedback widgets and surveys.
+Canny | https://canny.io | M | Feature requests and public roadmaps.
+Dovetail | https://dovetail.com | M | Research repository and interview analysis.
+Grain | https://grain.com | M | Meeting recorder that clips customer calls.
+Gong | https://www.gong.io | P | Call recording and revenue intelligence; mine sales calls for messaging.
+UserTesting | https://www.usertesting.com | P | On-demand user tests and video feedback.
+Maze | https://maze.co | M | Rapid usability and concept testing.
+Lyssna | https://www.lyssna.com | M | Quick usability tests, first-click tests, surveys (formerly UsabilityHub).
+Prolific | https://www.prolific.com | P | High-quality participant recruitment for studies.
+Respondent | https://www.respondent.io | P | Recruit B2B interview participants.
+Birdeye | https://birdeye.com | P | Review and feedback management for local businesses.
+Delighted | https://delighted.com | M | NPS, CSAT, and CES surveys.
+Refiner | https://refiner.io | M | In-app NPS and micro-surveys.
+AnswerThePublic | https://answerthepublic.com | M | Questions people ask around any keyword.
+AlsoAsked | https://alsoasked.com | M | People Also Ask maps for content research.
+Reddit | https://www.reddit.com | F | Mine subreddits for raw customer language and objections.
+
+## SEO
+### All-in-One Suites
+Ahrefs | https://ahrefs.com | P | Backlinks, keywords, site audit, rank tracking, and Brand Radar.
+Semrush | https://www.semrush.com | P | Broadest SEO + content + ads suite; AI Toolkit for LLM visibility.
+Moz Pro | https://moz.com | P | Keyword research, link analysis, and the Domain Authority metric.
+SE Ranking | https://seranking.com | P | Affordable all-in-one with rank tracking and SE Visible for AI search.
+Mangools | https://mangools.com | P | Beginner-friendly suite: KWFinder, SERPChecker, SiteProfiler.
+Serpstat | https://serpstat.com | P | Budget all-in-one for keywords, audits, and competitors.
+Sistrix | https://www.sistrix.com | P | European-favored visibility index and SEO toolbox.
+Seobility | https://www.seobility.net | M | Site audits, rank tracking, and content tools.
+Ubersuggest | https://neilpatel.com/ubersuggest/ | M | Entry-level keyword and site audit tool from Neil Patel.
+SEO PowerSuite | https://www.seopowersuite.com | M | Desktop SEO toolkit (Rank Tracker, WebSite Auditor, SEO SpyGlass).
+Search Atlas | https://searchatlas.com | P | All-in-one SEO platform with automation and AI agents.
+BrightEdge | https://www.brightedge.com | P | Enterprise SEO and content performance platform.
+seoClarity | https://www.seoclarity.net | P | Enterprise SEO platform with AI search tracking.
+Conductor | https://www.conductor.com | P | Enterprise SEO/content intelligence (owns ContentKing).
+### Keyword Research
+Google Keyword Planner | https://ads.google.com/home/tools/keyword-planner/ | F | Free keyword volumes (requires a Google Ads account).
+Keywords Everywhere | https://keywordseverywhere.com | P | Inline volume and related keywords in the browser.
+KeywordTool.io | https://keywordtool.io | M | Autocomplete-based keyword ideas across many platforms.
+Keyword Insights | https://www.keywordinsights.ai | P | Keyword clustering and content briefs from SERP overlap.
+LowFruits | https://lowfruits.io | P | Find low-competition keywords by weak SERP results.
+Keysearch | https://www.keysearch.co | P | Cheap keyword research and difficulty scoring.
+Long Tail Pro | https://longtailpro.com | P | Long-tail keyword discovery and rank tracking.
+Ahrefs Webmaster Tools | https://ahrefs.com/webmaster-tools | F | Free site audit and backlink data for sites you verify.
+Google Search Console | https://search.google.com/search-console | F | The ground truth for your own queries, clicks, and indexing.
+Bing Webmaster Tools | https://www.bing.com/webmasters | F | Bing/Copilot search data; also IndexNow submission.
+Answer Socrates | https://answersocrates.com | M | People-also-ask and question keyword research.
+### Content Optimization
+Surfer SEO | https://surferseo.com | P | Content editor scoring against top SERP results.
+Clearscope | https://www.clearscope.io | P | Premium content optimization and briefs.
+Frase | https://www.frase.io | P | SEO briefs, AI writing, and AI-search optimization.
+MarketMuse | https://www.marketmuse.com | P | Topic modeling and content planning.
+NeuronWriter | https://neuronwriter.com | P | Affordable NLP-based content optimizer.
+Page Optimizer Pro | https://pageoptimizer.pro | P | Data-driven on-page optimization against competitors.
+Rankability | https://www.rankability.com | P | Content optimizer with brief generation.
+Yoast SEO | https://yoast.com | M | WordPress on-page SEO plugin.
+Rank Math | https://rankmath.com | M | Feature-rich WordPress SEO plugin.
+### Technical SEO & Auditing
+Screaming Frog SEO Spider | https://www.screamingfrog.co.uk/seo-spider/ | M | The standard desktop site crawler.
+Sitebulb | https://sitebulb.com | P | Visual, hint-based desktop crawler.
+Lumar | https://www.lumar.io | P | Enterprise crawling and site health (formerly DeepCrawl).
+Oncrawl | https://www.oncrawl.com | P | Technical SEO crawler with log analysis.
+JetOctopus | https://jetoctopus.com | P | Fast cloud crawler and log analyzer.
+Botify | https://www.botify.com | P | Enterprise crawl, logs, and AI-bot visibility.
+Siteliner | https://www.siteliner.com | M | Duplicate content and broken-link scan.
+Google PageSpeed Insights | https://pagespeed.web.dev | F | Core Web Vitals lab and field data.
+WebPageTest | https://www.webpagetest.org | F | Deep waterfall performance testing.
+GTmetrix | https://gtmetrix.com | M | Page speed reports and monitoring.
+DebugBear | https://www.debugbear.com | P | Web-performance monitoring with Core Web Vitals trends.
+Lighthouse | https://developer.chrome.com/docs/lighthouse | O | Open-source audits for performance, SEO, and accessibility.
+LibreCrawl | https://github.com/PhialsBasement/LibreCrawl | O | Open-source desktop crawler alternative.
+SEOnaut | https://seonaut.org | O | Open-source SEO auditor.
+Rich Results Test | https://search.google.com/test/rich-results | F | Validate structured data eligibility.
+Schema.org | https://schema.org | F | The structured-data vocabulary reference.
+Merkle Schema Markup Generator | https://technicalseo.com/tools/schema-markup-generator/ | F | Free JSON-LD generator.
+Google Search Central | https://developers.google.com/search | F | Official documentation straight from Google.
+IndexNow | https://www.indexnow.org | F | Instantly notify participating engines of URL changes.
+### Rank Tracking
+AccuRanker | https://www.accuranker.com | P | Fast, accurate daily rank tracking.
+Advanced Web Ranking | https://www.advancedwebranking.com | P | Rank tracking and reporting for agencies.
+Nightwatch | https://nightwatch.io | P | Rank tracking with local and AI-search tracking.
+Wincher | https://www.wincher.com | P | Simple rank tracker for small sites.
+SerpBear | https://github.com/towfiqi/serpbear | O | Self-hosted open-source rank tracker.
+SERPWatcher | https://mangools.com/serpwatcher | P | Mangools' lightweight rank tracker.
+### Backlinks & Link Building
+Majestic | https://majestic.com | P | Link graph with Trust Flow and Citation Flow.
+OpenLinkProfiler | https://www.openlinkprofiler.org | F | Free backlink checker.
+Monitor Backlinks | https://monitorbacklinks.com | P | Backlink monitoring and outreach tracking.
+BuzzStream | https://www.buzzstream.com | P | Link-building CRM and outreach.
+Pitchbox | https://pitchbox.com | P | Outreach automation for link building and PR.
+Respona | https://respona.com | P | AI-assisted outreach and link prospecting.
+Hunter | https://hunter.io | M | Find and verify email addresses; outreach campaigns.
+LinkDR | https://www.linkdr.com | P | Link prospecting and outreach.
+Loganix | https://loganix.com | P | White-label link building and SEO services.
+Qwoted | https://www.qwoted.com | M | Journalist-expert matching (HARO alternative).
+Featured | https://featured.com | M | Expert answers for journalist queries (HARO alternative).
+Source of Sources | https://sourceofsources.com | F | Free journalist-query alerts by Peter Shankman.
+### Internal Linking
+Link Whisper | https://linkwhisper.com | P | WordPress internal-link suggestions.
+InLinks | https://inlinks.com | P | Entity-based internal linking and schema.
+LinkBoss | https://linkboss.io | P | Automated internal linking.
+### Local SEO
+BrightLocal | https://www.brightlocal.com | P | Local rank tracking, citations, and review management.
+Whitespark | https://whitespark.ca | P | Local citation finder and rank tracker.
+Local Falcon | https://www.localfalcon.com | P | Geo-grid local rank tracking for Maps.
+Moz Local | https://moz.com/products/local | P | Listings management.
+Yext | https://www.yext.com | P | Enterprise listings and knowledge graph.
+Google Business Profile | https://www.google.com/business/ | F | Free local listing: essential for local SEO.
+### Browser Extensions
+SEOquake | https://www.seoquake.com | F | On-page metrics overlay on SERPs.
+MozBar | https://moz.com/products/pro/seo-toolbar | M | Quick DA/PA and on-page checks.
+Ahrefs SEO Toolbar | https://ahrefs.com/seo-toolbar | F | Free on-page and SERP overlays.
+Detailed SEO Extension | https://detailed.com/extension/ | F | Fast on-page SEO info by Detailed.
+Keyword Surfer | https://surferseo.com/keyword-surfer-extension/ | F | Free search volume in Google results.
+Redirect Path | https://chromewebstore.google.com/detail/redirect-path/aomidfkchockcldhbkggjokdkkebmdll | F | See HTTP status codes and redirect chains.
+Web Developer | https://chromewebstore.google.com/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm | F | Toolbar of developer utilities for audits.
+### SEO Automation & Data
+DataForSEO | https://dataforseo.com | P | SEO data APIs (SERPs, keywords, backlinks).
+SerpApi | https://serpapi.com | M | Real-time search-results API.
+SearchAPI | https://www.searchapi.io | M | SERP API with generous free tier.
+Gumloop | https://www.gumloop.com | M | No-code AI workflow builder popular for SEO automation.
+AirOps | https://www.airops.com | P | Content engineering and AI-search workflow platform.
+Google Search Console MCP | https://github.com/AminForou/mcp-gsc | O | Query Search Console from Claude via MCP.
+Advertools | https://github.com/eliasdabbas/advertools | O | Python library for SEO/SEM analysis and crawling.
+
+## AI Search Visibility (GEO / AEO)
+### Tracking Platforms
+Profound | https://www.tryprofound.com | P | Enterprise AI-answer visibility tracking across many engines.
+Peec AI | https://peec.ai | P | Prompt-level brand tracking in ChatGPT, Perplexity, and others.
+Otterly.AI | https://otterly.ai | P | Affordable brand-mention monitoring in AI search.
+AthenaHQ | https://www.athenahq.ai | P | GEO platform for tracking and optimizing AI citations.
+Scrunch AI | https://scrunch.com | P | AI-agent-friendly content delivery plus monitoring.
+Ahrefs Brand Radar | https://ahrefs.com/brand-radar | P | AI Overviews and chatbot mentions inside Ahrefs.
+Semrush AI Toolkit | https://www.semrush.com/ai-seo/ | P | AI visibility reports inside Semrush.
+SE Visible | https://visible.seranking.com | P | SE Ranking's AI-visibility tracker.
+ZipTie | https://ziptie.dev | P | Track brand visibility in AI Overviews, ChatGPT, and Perplexity.
+Rankscale | https://rankscale.ai | P | Lightweight AI search rank tracking.
+Writesonic GEO | https://writesonic.com | P | Combines GEO tracking and content creation.
+Gauge | https://withgauge.com | P | AI visibility measurement and recommendations.
+Goodie AI | https://higoodie.com | P | AEO analytics and content optimization.
+### Content & Technical Readiness
+llms.txt spec | https://llmstxt.org | F | Proposal for a site file that guides LLM crawlers.
+Cloudflare AI Crawl Control | https://www.cloudflare.com/ai-crawl-control/ | M | See and control which AI bots crawl your site.
+OpenAI crawler docs | https://platform.openai.com/docs/bots | F | GPTBot / OAI-SearchBot user agents and robots.txt rules.
+Perplexity bots docs | https://docs.perplexity.ai/guides/bots | F | PerplexityBot behavior and controls.
+Dejan AI Tools | https://dejan.ai/tools/ | F | Free experiments for AI grounding, query fan-out, and chunking.
+Qforia | https://ipullrank.com/tools/qforia | F | Generate query fan-out simulations for AI Mode (iPullRank).
+### Open-Source & Research
+Awesome-GEO | https://github.com/DavidHuji/Awesome-GEO | O | Research paper list on generative engine optimization.
+GEO paper (Aggarwal et al.) | https://arxiv.org/abs/2311.09735 | F | The original Generative Engine Optimization research.
+GEO/AEO Tracker | https://github.com/danishashko/geo-aeo-tracker | O | Open-source tracker for AI-search citations.
+Elmo | https://github.com/elmohq/elmo | O | Open-source AI visibility tracking.
+
+## Content Marketing & Creation
+### AI Writing & Assistants
+Claude | https://claude.ai | M | AI assistant for drafting, research, and marketing analysis.
+ChatGPT | https://chatgpt.com | M | General-purpose AI assistant and custom GPTs.
+Gemini | https://gemini.google.com | M | Google's AI assistant, strong with Workspace data.
+Perplexity | https://www.perplexity.ai | M | Answer engine with citations; great for research.
+NotebookLM | https://notebooklm.google.com | F | Source-grounded research notebook that makes audio overviews.
+Jasper | https://www.jasper.ai | P | Brand-voice AI platform for marketing teams.
+Copy.ai | https://www.copy.ai | M | AI workflows for go-to-market content.
+Writesonic | https://writesonic.com | M | AI writing plus SEO and GEO features.
+Rytr | https://rytr.me | M | Low-cost AI writing assistant.
+Anyword | https://anyword.com | P | Copy generation with predictive performance scoring.
+Lavender | https://www.lavender.ai | M | Email coaching and writing assistant for sales.
+Typefully | https://typefully.com | M | Draft and schedule X/LinkedIn threads with AI help.
+### Editing & Quality
+Grammarly | https://www.grammarly.com | M | Grammar, tone, and clarity checks.
+Hemingway Editor | https://hemingwayapp.com | M | Readability and plain-language editing.
+ProWritingAid | https://prowritingaid.com | M | Style and long-form editing reports.
+Vale | https://vale.sh | O | Linter for prose that enforces your style guide.
+CoSchedule Headline Studio | https://coschedule.com/headline-studio | M | Score and improve headlines.
+Originality.ai | https://originality.ai | P | AI-content and plagiarism detection.
+Copyscape | https://www.copyscape.com | P | Plagiarism checker for web content.
+### CMS & Blogging Platforms
+WordPress | https://wordpress.org | O | Dominant open-source CMS.
+Ghost | https://ghost.org | O | Open-source publishing with memberships and newsletters built in.
+Webflow | https://webflow.com | M | Visual site builder with CMS.
+Framer | https://www.framer.com | M | Design-first site builder popular for landing pages.
+Squarespace | https://www.squarespace.com | P | All-in-one site builder.
+Contentful | https://www.contentful.com | M | Headless enterprise CMS.
+Sanity | https://www.sanity.io | M | Headless CMS with real-time collaboration.
+Strapi | https://strapi.io | O | Open-source headless CMS.
+Payload | https://payloadcms.com | O | Open-source TypeScript headless CMS.
+Astro | https://astro.build | O | Fast static-site framework for content sites.
+Hugo | https://gohugo.io | O | Very fast static-site generator.
+Medium | https://medium.com | M | Distribution platform with built-in audience.
+Substack | https://substack.com | M | Newsletter + publishing platform with discovery.
+Hashnode | https://hashnode.com | F | Developer blogging platform.
+DEV Community | https://dev.to | F | Developer community and blogging.
+LinkedIn Articles | https://www.linkedin.com | F | Native long-form publishing on LinkedIn.
+### Content Curation & Research
+Feedly | https://feedly.com | M | RSS reader and market-intelligence feeds.
+BuzzSumo | https://buzzsumo.com | P | Top-performing content and influencer discovery.
+Readwise | https://readwise.io | P | Resurface highlights; great for research notes.
+Ground News | https://ground.news | M | Compare media coverage across sources.
+Pinboard | https://pinboard.in | P | Minimalist bookmarking (Pocket replacement option).
+Raindrop.io | https://raindrop.io | M | Bookmark manager (Pocket replacement option).
+### Design & Creative
+Canva | https://www.canva.com | M | Templates for social, ads, decks, and video.
+Figma | https://www.figma.com | M | Collaborative design for landing pages and brand assets.
+Adobe Express | https://www.adobe.com/express/ | M | Quick social graphics and video (successor to Adobe Spark).
+Photopea | https://www.photopea.com | F | Free browser-based Photoshop alternative.
+Remove.bg | https://www.remove.bg | M | One-click background removal.
+Midjourney | https://www.midjourney.com | P | AI image generation for concepts and visuals.
+Ideogram | https://ideogram.ai | M | AI images with strong text rendering.
+Recraft | https://www.recraft.ai | M | AI design with vector output and brand styles.
+Piktochart | https://piktochart.com | M | Infographics and presentations.
+Coolors | https://coolors.co | M | Color palette generator.
+Unsplash | https://unsplash.com | F | Free high-quality stock photos.
+Pexels | https://www.pexels.com | F | Free stock photos and videos.
+Noun Project | https://thenounproject.com | M | Icon library.
+Google Fonts | https://fonts.google.com | F | Free open-source web fonts.
+Shots | https://shots.so | M | Beautiful device mockups.
+Screely | https://www.screely.com | M | Browser mockups for screenshots.
+### Video, Audio & Podcasts
+Descript | https://www.descript.com | M | Edit audio and video by editing text.
+CapCut | https://www.capcut.com | M | Short-form video editor popular for TikTok/Reels.
+Loom | https://www.loom.com | M | Quick screen-recorded videos.
+Riverside | https://riverside.com | M | Studio-quality remote recording for podcasts and video.
+Opus Clip | https://www.opus.pro | M | Turn long videos into short clips.
+Wistia | https://wistia.com | M | Marketing-focused video hosting and analytics.
+Vidyard | https://www.vidyard.com | M | Video hosting and sales video.
+Lumen5 | https://lumen5.com | M | Turn articles into videos.
+HeyGen | https://www.heygen.com | M | AI avatar videos and translation.
+Synthesia | https://www.synthesia.io | P | AI presenter videos.
+ElevenLabs | https://elevenlabs.io | M | Realistic AI voiceovers.
+Transistor | https://transistor.fm | P | Podcast hosting with analytics.
+Buzzsprout | https://www.buzzsprout.com | M | Beginner-friendly podcast hosting.
+Spotify for Creators | https://creators.spotify.com | F | Free podcast hosting and distribution.
+Auphonic | https://auphonic.com | M | Automatic audio leveling and cleanup.
+Repurpose.io | https://repurpose.io | P | Auto-distribute video/audio across platforms.
+### Content Distribution & Syndication
+Taboola | https://www.taboola.com | P | Native content recommendation network.
+Outbrain | https://www.outbrain.com | P | Native discovery advertising.
+
+## Social Media Marketing
+### Scheduling & Management
+Buffer | https://buffer.com | M | Simple scheduling, analytics, and engagement.
+Hootsuite | https://www.hootsuite.com | P | Enterprise social management and listening.
+Sprout Social | https://sproutsocial.com | P | Publishing, social inbox, analytics, and listening.
+Later | https://later.com | M | Visual planner strong for Instagram and TikTok.
+Agorapulse | https://www.agorapulse.com | P | Social inbox, scheduling, and reporting.
+SocialBee | https://socialbee.com | P | Category-based evergreen scheduling.
+Metricool | https://metricool.com | M | Scheduling, analytics, and ads reporting in one.
+Publer | https://publer.com | M | Affordable multi-platform scheduling.
+Postiz | https://postiz.com | O | Open-source social scheduling (self-host or cloud).
+Mixpost | https://mixpost.app | O | Self-hosted social media management.
+Typefully | https://typefully.com | M | Best-in-class writing/scheduling for X and LinkedIn.
+Hypefury | https://hypefury.com | P | X/LinkedIn scheduling and growth automation.
+Taplio | https://taplio.com | P | LinkedIn content, scheduling, and lead tools.
+Shield Analytics | https://www.shieldapp.ai | P | LinkedIn analytics for creators and teams.
+Planable | https://planable.io | M | Collaborative social content approvals.
+Linktree | https://linktr.ee | M | Link-in-bio pages.
+Beacons | https://beacons.ai | M | Creator link-in-bio and storefront.
+### Listening & Monitoring
+Brand24 | https://brand24.com | P | Social listening and sentiment.
+Mention | https://mention.com | P | Web and social mention monitoring.
+Brandwatch | https://www.brandwatch.com | P | Enterprise consumer intelligence.
+Talkwalker | https://www.talkwalker.com | P | Social listening and analytics.
+Meltwater | https://www.meltwater.com | P | Media and social monitoring plus PR tools.
+Awario | https://awario.com | P | Affordable social listening and lead discovery.
+F5Bot | https://f5bot.com | F | Free Reddit/HN/Lobsters keyword email alerts.
+Google Alerts | https://www.google.com/alerts | F | Free web keyword alerts.
+Syften | https://syften.com | P | Real-time alerts for social, forum, and Reddit mentions.
+Redreach | https://redreach.ai | P | Find Reddit threads where your product fits.
+Social Blade | https://socialblade.com | F | Public stats for YouTube, Twitch, and more.
+### Short-form & Community Platforms
+Instagram | https://business.instagram.com | F | Business tools and insights for Reels and Stories.
+TikTok for Business | https://www.tiktok.com/business/ | F | Ads, organic tools, and Creative Center.
+YouTube Studio | https://studio.youtube.com | F | Channel analytics and publishing.
+LinkedIn Campaign Manager | https://www.linkedin.com/campaignmanager | F | LinkedIn ads management.
+Pinterest Business | https://business.pinterest.com | F | Pinterest ads and analytics.
+Discord | https://discord.com | F | Real-time community platform.
+Slack Communities Directory | https://slofile.com | F | Directory of public Slack communities.
+Reddit Ads | https://ads.reddit.com | M | Paid placements on Reddit.
+
+## Email & Newsletter Marketing
+### Email Service Providers (Marketing)
+Mailchimp | https://mailchimp.com | M | Long-standing all-in-one email platform.
+Kit | https://kit.com | M | Email for creators (formerly ConvertKit).
+MailerLite | https://www.mailerlite.com | M | Affordable, clean email and automations.
+Brevo | https://www.brevo.com | M | Email, SMS, and CRM (formerly Sendinblue).
+ActiveCampaign | https://www.activecampaign.com | P | Email with deep automation and CRM.
+Klaviyo | https://www.klaviyo.com | M | Leading ecommerce email and SMS.
+Drip | https://www.drip.com | P | Ecommerce-focused email automation.
+Customer.io | https://customer.io | P | Behavior-triggered messaging for product-led companies.
+Loops | https://loops.so | M | Email for SaaS: product, transactional, and campaigns.
+Campaign Monitor | https://www.campaignmonitor.com | P | Email design and automation.
+Constant Contact | https://www.constantcontact.com | P | SMB email and events marketing.
+GetResponse | https://www.getresponse.com | P | Email, webinars, and funnels.
+AWeber | https://www.aweber.com | M | Veteran email platform for small businesses.
+Moosend | https://moosend.com | P | Affordable email automation.
+EmailOctopus | https://emailoctopus.com | M | Low-cost email using Amazon SES.
+Omnisend | https://www.omnisend.com | M | Ecommerce email + SMS.
+Ortto | https://ortto.com | P | Customer-data and journey platform (formerly Autopilot).
+Encharge | https://encharge.io | P | Behavior-based email automation for SaaS.
+Userlist | https://userlist.com | P | Lifecycle email for B2B SaaS.
+Sequenzy | https://www.sequenzy.com | P | Email for SaaS with AI-assisted sequences.
+### Newsletter Platforms
+beehiiv | https://www.beehiiv.com | M | Newsletter platform with growth network and monetization.
+Substack | https://substack.com | M | Newsletter publishing with built-in discovery.
+Ghost | https://ghost.org | O | Publishing + memberships + newsletters.
+Buttondown | https://buttondown.com | M | Minimal newsletter tool loved by indie writers.
+Letterdrop | https://letterdrop.com | M | Newsletter hosting with RSS-to-email.
+Flodesk | https://flodesk.com | P | Design-forward email for creators.
+SparkLoop | https://sparkloop.app | M | Newsletter referral and recommendation growth.
+Paved | https://www.paved.com | P | Newsletter sponsorship marketplace.
+Swapstack | https://swapstack.co | M | Newsletter ad and swap marketplace.
+Letterlist | https://letterlist.com | F | Directory of newsletters.
+### Open-Source & Self-Hosted
+listmonk | https://listmonk.app | O | Self-hosted newsletter and mailing-list manager.
+Mautic | https://www.mautic.org | O | Open-source marketing automation.
+Keila | https://www.keila.io | O | Open-source newsletter tool.
+Sendy | https://sendy.co | P | Self-hosted newsletter app on Amazon SES (one-time license).
+Postal | https://postalserver.io | O | Self-hosted mail server for delivery.
+Plunk | https://www.useplunk.com | O | Open-source email platform for developers.
+MailPoet | https://www.mailpoet.com | M | Email marketing for WordPress.
+### Transactional Email
+Postmark | https://postmarkapp.com | P | Reliable transactional email with great deliverability.
+Resend | https://resend.com | M | Developer-first email API.
+SendGrid | https://sendgrid.com | M | High-volume email API from Twilio.
+Mailgun | https://www.mailgun.com | M | Email API for developers.
+Amazon SES | https://aws.amazon.com/ses/ | P | Cheapest bulk email delivery at scale.
+MailerSend | https://www.mailersend.com | M | Transactional email by MailerLite.
+Mailtrap | https://mailtrap.io | M | Email testing sandbox and sending.
+### Design, Templates & Inspiration
+Really Good Emails | https://reallygoodemails.com | F | Gallery of email design inspiration.
+Milled | https://milled.com | F | Archive of brand marketing emails.
+MJML | https://mjml.io | O | Responsive email markup framework.
+React Email | https://react.email | O | Build email templates with React components.
+Maizzle | https://maizzle.com | O | Tailwind-based HTML email framework.
+Stripo | https://stripo.email | M | Drag-and-drop email template builder.
+Beefree | https://beefree.io | M | Email editor with SDK for embedding.
+Unlayer | https://unlayer.com | M | Embeddable drag-and-drop email builder.
+Chamaileon | https://chamaileon.io | M | Collaborative email design and review.
+Litmus | https://www.litmus.com | P | Email previews, QA, and analytics.
+Email on Acid | https://www.emailonacid.com | P | Email testing and previews.
+Can I email | https://www.caniemail.com | F | CSS and HTML support across email clients.
+### Deliverability & List Hygiene
+Mail-Tester | https://www.mail-tester.com | F | Spam score test for your emails.
+GlockApps | https://glockapps.com | P | Inbox placement and spam testing.
+Google Postmaster Tools | https://postmaster.google.com | F | Domain reputation for Gmail senders.
+MXToolbox | https://mxtoolbox.com | M | DNS, blacklist, and SPF/DKIM/DMARC checks.
+dmarcian | https://dmarcian.com | M | DMARC monitoring and reporting.
+Warmup Inbox | https://www.warmupinbox.com | P | Email warm-up for new sending domains.
+ZeroBounce | https://www.zerobounce.net | M | Email verification and validation.
+NeverBounce | https://neverbounce.com | P | Real-time email verification.
+Kickbox | https://kickbox.com | M | Email verification service.
+Bouncer | https://www.usebouncer.com | M | Email verification and deliverability toolkit.
+Sender Score | https://senderscore.org | F | Check your sending IP reputation.
+### Learning
+Email Geeks Slack | https://email.geeks.chat | F | Community of email professionals.
+Litmus Blog | https://www.litmus.com/blog/ | F | Email marketing best practices.
+
+## Marketing Automation & CRM
+### Marketing Automation Platforms
+HubSpot | https://www.hubspot.com | M | CRM + marketing, sales, service hubs with free tier.
+Marketo Engage | https://business.adobe.com/products/marketo/adobe-marketo.html | P | Enterprise B2B marketing automation (Adobe).
+Salesforce Marketing Cloud Account Engagement | https://www.salesforce.com/marketing/b2b-automation/ | P | B2B automation formerly known as Pardot.
+Eloqua | https://www.oracle.com/cx/marketing/automation/ | P | Oracle's enterprise marketing automation.
+Zoho Marketing Automation | https://www.zoho.com/marketingautomation/ | P | Affordable automation in the Zoho suite.
+Keap | https://keap.com | P | CRM and automation for small businesses (formerly Infusionsoft).
+Brevo | https://www.brevo.com | M | Email, SMS, WhatsApp, and CRM in one.
+Mautic | https://www.mautic.org | O | Open-source marketing automation platform.
+Dittofeed | https://www.dittofeed.com | O | Open-source customer-engagement platform.
+Listmonk | https://listmonk.app | O | Lightweight self-hosted campaign manager.
+Hightouch | https://hightouch.com | P | Reverse ETL that syncs warehouse data to marketing tools.
+Census | https://www.getcensus.com | P | Reverse ETL for activating warehouse data.
+### CRM
+HubSpot CRM | https://www.hubspot.com/products/crm | M | Generous free CRM used by many startups.
+Salesforce | https://www.salesforce.com | P | Enterprise CRM standard.
+Pipedrive | https://www.pipedrive.com | P | Sales-pipeline-focused CRM.
+Zoho CRM | https://www.zoho.com/crm/ | M | Flexible, affordable CRM.
+Attio | https://attio.com | M | Modern, customizable CRM built on a data model.
+Folk | https://www.folk.app | M | Lightweight CRM for relationships.
+Close | https://www.close.com | P | CRM with built-in calling and email for sales teams.
+Freshsales | https://www.freshworks.com/crm/sales/ | M | CRM with phone, email, and AI scoring.
+Copper | https://www.copper.com | P | CRM that integrates natively with Google Workspace.
+Twenty | https://twenty.com | O | Open-source CRM.
+Monica | https://www.monicahq.com | O | Open-source personal relationship CRM.
+EspoCRM | https://www.espocrm.com | O | Open-source CRM.
+SuiteCRM | https://suitecrm.com | O | Open-source CRM.
+### Integration & Workflow Automation
+Zapier | https://zapier.com | M | The most popular app-to-app automation platform.
+Make | https://www.make.com | M | Visual automation builder (formerly Integromat).
+n8n | https://n8n.io | O | Open-source, self-hostable workflow automation with AI nodes.
+Activepieces | https://www.activepieces.com | O | Open-source Zapier alternative.
+Pipedream | https://pipedream.com | M | Code-friendly workflow automation.
+IFTTT | https://ifttt.com | M | Simple consumer-grade triggers and actions.
+Workato | https://www.workato.com | P | Enterprise integration and automation.
+Tray.ai | https://tray.ai | P | Enterprise automation and AI agents.
+Clay | https://www.clay.com | P | Data enrichment and outbound workflows from 100+ sources.
+### Chat, Support & Engagement
+Intercom | https://www.intercom.com | P | Messenger, support, and AI agent (Fin).
+Drift | https://www.drift.com | P | Conversational marketing (now Salesloft).
+Crisp | https://crisp.chat | M | Affordable chat and support inbox.
+Tidio | https://www.tidio.com | M | Chat and AI bots for SMBs.
+Zendesk | https://www.zendesk.com | P | Customer service platform.
+Freshdesk | https://freshdesk.com | M | Helpdesk with generous free plan.
+Help Scout | https://www.helpscout.com | P | Customer support inbox and help center.
+Chatwoot | https://www.chatwoot.com | O | Open-source customer engagement suite.
+Typebot | https://typebot.io | O | Open-source conversational forms and chatbots.
+ManyChat | https://manychat.com | M | Instagram/WhatsApp/Messenger automation.
+
+## Lead Generation, Prospecting & Outbound
+### Data & Enrichment
+Apollo | https://www.apollo.io | M | B2B contact database plus sequences.
+ZoomInfo | https://www.zoominfo.com | P | Enterprise B2B data and intent.
+Cognism | https://www.cognism.com | P | Compliant B2B contact data (strong in EMEA).
+Lusha | https://www.lusha.com | M | Contact data and browser extension.
+UpLead | https://www.uplead.com | P | B2B data with verification.
+Clearbit / Breeze Intelligence | https://www.hubspot.com/artificial-intelligence | P | Enrichment now inside HubSpot.
+People Data Labs | https://www.peopledatalabs.com | P | Enrichment API for people and companies.
+Prospeo | https://prospeo.io | M | Email finder and verification.
+Findymail | https://www.findymail.com | P | Verified email finder.
+Dropcontact | https://www.dropcontact.com | P | GDPR-compliant enrichment.
+Wiza | https://wiza.co | M | Export LinkedIn leads with verified emails.
+Hunter | https://hunter.io | M | Domain search and email verification.
+Snov.io | https://snov.io | M | Lead finder plus drip campaigns.
+LinkedIn Sales Navigator | https://business.linkedin.com/sales-solutions/sales-navigator | P | Advanced LinkedIn prospecting.
+Crunchbase | https://www.crunchbase.com | M | Company and funding lead lists.
+Common Room | https://www.commonroom.io | P | Community and signal-based prospecting.
+RB2B | https://www.rb2b.com | M | Identify anonymous US website visitors.
+Koala | https://getkoala.com | P | Intent signals for B2B sites.
+### Cold Email & Sequencing
+Instantly | https://instantly.ai | P | High-volume cold email with warm-up.
+Smartlead | https://www.smartlead.ai | P | Cold email at scale with inbox rotation.
+Lemlist | https://www.lemlist.com | P | Personalized multichannel outreach.
+Woodpecker | https://woodpecker.co | P | Cold email with follow-ups and deliverability tools.
+Reply.io | https://reply.io | P | Multichannel sales engagement.
+Outreach | https://www.outreach.io | P | Enterprise sales engagement.
+Salesloft | https://www.salesloft.com | P | Sales engagement and conversation intelligence.
+Mailshake | https://mailshake.com | P | Simple cold-email and phone outreach.
+GMass | https://www.gmass.co | M | Mail merge and campaigns from Gmail.
+Saleshandy | https://www.saleshandy.com | P | Cold email with unlimited accounts.
+Mailforge | https://www.mailforge.ai | P | Provision cold-email domains and inboxes.
+La Growth Machine | https://lagrowthmachine.com | P | Multichannel (LinkedIn + email + X) prospecting.
+Expandi | https://expandi.io | P | LinkedIn outreach automation.
+HeyReach | https://www.heyreach.io | P | LinkedIn outreach at scale across accounts.
+### Lead Capture
+OptinMonster | https://optinmonster.com | P | Popups and on-site lead capture.
+Sleeknote | https://sleeknote.com | P | Popups and on-site messages for ecommerce.
+Poptin | https://www.poptin.com | M | Popups and forms.
+Typeform | https://www.typeform.com | M | Interactive forms for lead qualification.
+Tally | https://tally.so | M | Free form builder with unlimited submissions.
+Calendly | https://calendly.com | M | Scheduling links for lead conversion.
+Cal.com | https://cal.com | O | Open-source scheduling.
+SavvyCal | https://savvycal.com | P | Scheduling with better UX and booking attribution.
+Leadfeeder | https://www.leadfeeder.com | P | See which companies visit your site.
+Hellobar | https://www.hellobar.com | M | Banners and popups for list building.
+### Lead Magnets & Calculators
+Outgrow | https://outgrow.co | P | Interactive calculators and quizzes.
+Involve.me | https://www.involve.me | M | Quizzes, calculators, and funnels.
+Riddle | https://www.riddle.com | M | Quizzes and polls.
+Interact | https://www.tryinteract.com | M | Quiz funnels for lead generation.
+
+## Paid Advertising & Media Buying
+### Ad Platforms
+Google Ads | https://ads.google.com | P | Search, Shopping, YouTube, and Performance Max.
+Meta Ads Manager | https://www.facebook.com/adsmanager | P | Facebook, Instagram, and Threads ads.
+LinkedIn Ads | https://business.linkedin.com/marketing-solutions/ads | P | B2B targeting by job, industry, and company.
+Microsoft Advertising | https://ads.microsoft.com | P | Bing, Copilot, and partner network ads.
+TikTok Ads | https://ads.tiktok.com | P | Short-video ads with strong CPMs.
+X Ads | https://ads.x.com | P | Promoted posts and conversation targeting.
+Reddit Ads | https://ads.reddit.com | P | Community-targeted ads.
+Pinterest Ads | https://ads.pinterest.com | P | Visual discovery ads.
+Snap Ads | https://forbusiness.snapchat.com | P | Snapchat advertising.
+Amazon Ads | https://advertising.amazon.com | P | Sponsored products and DSP.
+Apple Search Ads | https://searchads.apple.com | P | App Store search ads.
+Google Merchant Center | https://merchants.google.com | F | Product feeds for Shopping ads.
+### Ad Management & Optimization
+Optmyzr | https://www.optmyzr.com | P | PPC optimization and scripts.
+Adalysis | https://adalysis.com | P | PPC testing and audits.
+WordStream | https://www.wordstream.com | P | PPC management and the 20-Minute Work Week.
+Madgicx | https://madgicx.com | P | Meta ads optimization with AI.
+Bïrch | https://bir.ch | P | Meta/Google/TikTok automation rules (formerly Revealbot).
+Smartly.io | https://www.smartly.io | P | Enterprise social ad automation.
+Albert.ai | https://albert.ai | P | Autonomous digital advertising.
+Supermetrics | https://supermetrics.com | P | Pull ad data into Sheets, Looker Studio, and warehouses.
+Funnel.io | https://funnel.io | P | Marketing data hub for ad spend reporting.
+Northbeam | https://www.northbeam.io | P | Ecommerce attribution for paid media.
+Triple Whale | https://www.triplewhale.com | P | Shopify-first analytics and attribution.
+### Creative & Ad Intelligence
+AdCreative.ai | https://www.adcreative.ai | P | Generate ad creatives and predict performance.
+Pencil | https://trypencil.com | P | AI ad creative generation and prediction.
+Motion | https://motionapp.com | P | Creative analytics for paid social.
+Segwise | https://segwise.ai | P | Creative tagging and analysis.
+Minea | https://www.minea.com | P | Ad spy tool for social ads.
+BigSpy | https://bigspy.com | M | Ad spy across platforms.
+Foreplay | https://www.foreplay.co | P | Swipe file and creative briefs.
+Meta Ad Library | https://www.facebook.com/ads/library/ | F | See any active ad on Meta.
+### Programmatic & Native
+The Trade Desk | https://www.thetradedesk.com | P | Independent demand-side platform.
+DV360 | https://marketingplatform.google.com/about/display-video-360/ | P | Google's programmatic buying platform.
+Criteo | https://www.criteo.com | P | Retargeting and commerce media.
+AdRoll | https://www.adroll.com | P | Retargeting and cross-channel ads for SMBs.
+Taboola | https://www.taboola.com | P | Native advertising.
+Outbrain | https://www.outbrain.com | P | Native advertising.
+Nativo | https://www.nativo.com | P | Native ad platform.
+### Keywords & Bid Tools
+Google Ads Editor | https://ads.google.com/home/tools/ads-editor/ | F | Bulk-edit Google Ads campaigns offline.
+Google Ads Scripts | https://developers.google.com/google-ads/scripts | F | Automate Google Ads with JavaScript.
+
+## Affiliate, Referral & Partnerships
+### Affiliate Networks & Software
+Impact | https://impact.com | P | Partnership automation across affiliates, creators, and partners.
+PartnerStack | https://partnerstack.com | P | Partner programs for SaaS.
+Rewardful | https://www.rewardful.com | P | Affiliate and referral tracking for Stripe businesses.
+FirstPromoter | https://firstpromoter.com | P | SaaS affiliate tracking.
+Tolt | https://tolt.com | P | Affiliate tracking for SaaS on Stripe/Paddle.
+Tapfiliate | https://tapfiliate.com | P | Affiliate tracking software.
+Refersion | https://www.refersion.com | P | Ecommerce affiliate and influencer tracking.
+CJ Affiliate | https://www.cj.com | P | Large affiliate network.
+ShareASale | https://www.shareasale.com | P | Affiliate network (now Awin).
+Awin | https://www.awin.com | P | Global affiliate network.
+Rakuten Advertising | https://rakutenadvertising.com | P | Affiliate and performance marketing network.
+Everflow | https://everflow.io | P | Partner and performance tracking platform.
+Post Affiliate Pro | https://www.postaffiliatepro.com | P | Self-hosted or cloud affiliate software.
+### Referral & Loyalty
+ReferralCandy | https://www.referralcandy.com | P | Ecommerce referral programs.
+Viral Loops | https://viral-loops.com | P | Referral and viral campaign templates.
+Mention Me | https://www.mention-me.com | P | Enterprise referral marketing.
+Friendbuy | https://www.friendbuy.com | P | Referral and loyalty for ecommerce.
+Smile.io | https://smile.io | M | Loyalty and rewards for Shopify.
+LoyaltyLion | https://loyaltylion.com | P | Loyalty and referral program platform.
+Yotpo | https://www.yotpo.com | M | Reviews, loyalty, and referrals.
+### Co-Marketing & Partner Discovery
+
+## Influencer & Creator Marketing
+Aspire | https://www.aspire.io | P | Influencer and creator marketing platform (formerly AspireIQ).
+Upfluence | https://www.upfluence.com | P | Influencer search and management.
+GRIN | https://grin.co | P | Creator management for ecommerce.
+CreatorIQ | https://www.creatoriq.com | P | Enterprise influencer marketing.
+Traackr | https://www.traackr.com | P | Influencer discovery and measurement.
+Modash | https://www.modash.io | P | Search 250M+ influencer profiles with audience data.
+HypeAuditor | https://hypeauditor.com | P | Influencer analytics and fraud detection.
+Heepsy | https://www.heepsy.com | M | Influencer discovery and analytics.
+Collabstr | https://collabstr.com | M | Marketplace for UGC creators and influencers.
+Insense | https://insense.pro | P | UGC and influencer marketplace for brands.
+Billo | https://billo.app | P | Quick UGC video ads from creators.
+#paid | https://www.hashtagpaid.com | P | Creator-brand partnerships platform.
+Passionfroot | https://www.passionfroot.xyz | M | B2B creator and newsletter sponsorship marketplace.
+Patreon | https://www.patreon.com | M | Membership platform for creators.
+Gumroad | https://gumroad.com | M | Sell digital products directly.
+Beehiiv Ad Network | https://www.beehiiv.com/ad-network | M | Sponsor or monetize newsletters.
+
+## Analytics, Attribution & Reporting
+### Web Analytics
+Google Analytics 4 | https://analytics.google.com | F | The default web analytics tool.
+Plausible | https://plausible.io | O | Privacy-first lightweight analytics (cloud or self-host).
+Fathom | https://usefathom.com | P | Simple privacy-first analytics.
+Umami | https://umami.is | O | Open-source, privacy-focused analytics.
+Matomo | https://matomo.org | O | Full open-source GA alternative (formerly Piwik).
+PostHog | https://posthog.com | O | Product analytics, session replay, flags, and A/B tests in one.
+Simple Analytics | https://www.simpleanalytics.com | P | Privacy-friendly analytics.
+Pirsch | https://pirsch.io | P | Cookie-free analytics.
+Cloudflare Web Analytics | https://www.cloudflare.com/web-analytics/ | F | Free, privacy-first analytics.
+GoatCounter | https://www.goatcounter.com | O | Minimal open-source analytics.
+Piwik PRO | https://piwik.pro | M | Enterprise analytics suite with consent management.
+Adobe Analytics | https://business.adobe.com/products/analytics/adobe-analytics.html | P | Enterprise web analytics.
+### Product Analytics
+Mixpanel | https://mixpanel.com | M | Event-based product analytics.
+Amplitude | https://amplitude.com | M | Product analytics with experimentation.
+Heap | https://www.heap.io | P | Autocapture-based product analytics (Contentsquare).
+June | https://www.june.so | P | Product analytics for B2B SaaS.
+Statsig | https://statsig.com | M | Feature flags, experiments, and analytics.
+GrowthBook | https://www.growthbook.io | O | Open-source feature flags and experimentation.
+Pendo | https://www.pendo.io | P | Product analytics and in-app guides.
+### Tag Management & Customer Data
+Google Tag Manager | https://tagmanager.google.com | F | Manage tags without code deploys.
+Server-side GTM | https://developers.google.com/tag-platform/tag-manager/server-side | F | First-party tagging and data control.
+Segment | https://segment.com | M | Customer data platform from Twilio.
+RudderStack | https://www.rudderstack.com | M | Warehouse-first, open-core CDP.
+Jitsu | https://jitsu.com | O | Open-source event collection.
+Snowplow | https://snowplow.io | O | Behavioral data collection and CDP.
+Stape | https://stape.io | P | Server-side tagging hosting.
+Elevar | https://www.getelevar.com | P | Server-side tracking for Shopify.
+Cookiebot | https://www.cookiebot.com | M | Consent management platform.
+Usercentrics | https://usercentrics.com | M | Consent management platform.
+Cookie Information | https://cookieinformation.com | P | Consent management platform.
+### Heatmaps, Session Replay & UX
+Hotjar | https://www.hotjar.com | M | Heatmaps, recordings, and surveys.
+Microsoft Clarity | https://clarity.microsoft.com | F | Free heatmaps and session recordings.
+Crazy Egg | https://www.crazyegg.com | P | Heatmaps and A/B testing.
+FullStory | https://www.fullstory.com | P | Digital experience analytics.
+LogRocket | https://logrocket.com | M | Session replay for web apps.
+Lucky Orange | https://www.luckyorange.com | M | Heatmaps, recordings, and chat.
+Smartlook | https://www.smartlook.com | M | Session recording and funnels.
+Contentsquare | https://contentsquare.com | P | Enterprise digital experience analytics.
+### Attribution & Measurement
+Triple Whale | https://www.triplewhale.com | P | Ecommerce attribution and analytics.
+Northbeam | https://www.northbeam.io | P | Multi-touch attribution for ecommerce.
+Rockerbox | https://www.rockerbox.com | P | Multi-touch attribution and MMM.
+Dreamdata | https://dreamdata.io | P | B2B revenue attribution.
+HockeyStack | https://www.hockeystack.com | P | B2B revenue analytics.
+Hyros | https://hyros.com | P | Call and ad tracking attribution.
+Wicked Reports | https://www.wickedreports.com | P | Attribution for ecommerce and lead gen.
+UTM.io | https://utm.io | P | UTM governance for teams.
+Google Campaign URL Builder | https://ga-dev-tools.google/campaign-url-builder/ | F | Build UTM-tagged URLs.
+Bitly | https://bitly.com | M | Short links and click analytics.
+Short.io | https://short.io | M | Branded short links.
+### Marketing Mix Modeling & Incrementality (Open Source)
+Meridian | https://github.com/google/meridian | O | Google's Bayesian marketing mix model.
+Robyn | https://github.com/facebookexperimental/Robyn | O | Meta's automated MMM in R.
+PyMC-Marketing | https://github.com/pymc-labs/pymc-marketing | O | Bayesian MMM and customer lifetime value in Python.
+LightweightMMM | https://github.com/google/lightweight_mmm | O | Google's earlier MMM library.
+GeoLift | https://github.com/facebookincubator/GeoLift | O | Meta's geo-experiment incrementality tool.
+CausalImpact | https://github.com/google/CausalImpact | O | Measure the causal effect of a campaign over time.
+Awesome Marketing Science | https://github.com/shakostats/Awesome-Marketing-Science | O | Curated MMM, attribution, and incrementality resources.
+### Dashboards & Reporting
+Looker Studio | https://lookerstudio.google.com | F | Free dashboards (formerly Data Studio).
+Databox | https://databox.com | M | KPI dashboards from many marketing tools.
+AgencyAnalytics | https://agencyanalytics.com | P | White-label client reporting.
+DashThis | https://dashthis.com | P | Automated marketing reports.
+Klipfolio | https://www.klipfolio.com | P | Metrics dashboards.
+Supermetrics | https://supermetrics.com | P | Marketing data connectors.
+Windsor.ai | https://windsor.ai | M | Connect marketing data to dashboards and warehouses.
+Funnel.io | https://funnel.io | P | Marketing data hub.
+Metabase | https://www.metabase.com | O | Open-source BI for teams.
+Looker | https://cloud.google.com/looker | P | Enterprise BI.
+Tableau | https://www.tableau.com | P | Enterprise data visualization.
+Power BI | https://powerbi.microsoft.com | M | Microsoft's BI platform.
+Mode | https://mode.com | P | SQL-based analytics.
+Hex | https://hex.tech | M | Collaborative data notebooks.
+Julius AI | https://julius.ai | M | Chat with spreadsheets and datasets.
+### Revenue Metrics (SaaS)
+Baremetrics | https://baremetrics.com | P | Stripe-based SaaS metrics.
+ChartMogul | https://chartmogul.com | M | Subscription analytics.
+ProfitWell Metrics (Paddle) | https://www.paddle.com/profitwell-metrics | F | Free subscription metrics from Paddle.
+Stripe Sigma | https://stripe.com/sigma | P | SQL on your Stripe data.
+
+## Conversion Rate Optimization & Experimentation
+### A/B Testing & Personalization
+Optimizely | https://www.optimizely.com | P | Enterprise experimentation and CMS.
+VWO | https://vwo.com | P | A/B testing, heatmaps, and personalization.
+AB Tasty | https://www.abtasty.com | P | Experimentation and personalization.
+Convert | https://www.convert.com | P | Privacy-focused A/B testing.
+Statsig | https://statsig.com | M | Experimentation with feature flags.
+GrowthBook | https://www.growthbook.io | O | Open-source experimentation platform.
+PostHog Experiments | https://posthog.com/experiments | O | A/B tests inside your analytics.
+Kirro | https://www.kirro.io | P | Simple A/B testing for small sites.
+Mutiny | https://www.mutinyhq.com | P | B2B website personalization.
+Dynamic Yield | https://www.dynamicyield.com | P | Enterprise personalization.
+Evan Miller's A/B Calculators | https://www.evanmiller.org/ab-testing/ | F | Sample size and significance calculators.
+CXL Calculators | https://cxl.com/ab-test-calculator/ | F | A/B test significance calculator.
+Speero | https://speero.com | P | CRO consultancy and frameworks.
+### Landing Page Builders
+Unbounce | https://unbounce.com | P | Landing pages with AI optimization.
+Instapage | https://instapage.com | P | Enterprise landing pages.
+Leadpages | https://www.leadpages.com | P | Landing pages and popups for SMBs.
+Carrd | https://carrd.co | M | Cheap single-page sites.
+Framer | https://www.framer.com | M | Design-quality landing pages.
+Webflow | https://webflow.com | M | Visual builder with CMS.
+Landingi | https://landingi.com | P | Landing pages and funnels.
+Replo | https://replo.app | P | Shopify landing page builder.
+Unicorn Platform | https://unicornplatform.com | P | Landing pages for startups.
+Super | https://super.so | P | Notion-powered websites.
+Lovable | https://lovable.dev | M | AI app and landing-page builder.
+v0 | https://v0.dev | M | AI-generated UI from Vercel.
+Bolt | https://bolt.new | M | AI full-stack app builder in the browser.
+### Funnels & Checkout
+ClickFunnels | https://www.clickfunnels.com | P | Sales funnels and course sales.
+Kajabi | https://kajabi.com | P | Courses, memberships, and funnels.
+Systeme.io | https://systeme.io | M | All-in-one funnel, email, and course tool.
+Stripe Checkout | https://stripe.com/payments/checkout | P | Hosted checkout pages.
+Paddle | https://www.paddle.com | P | Merchant of record for SaaS.
+Lemon Squeezy | https://www.lemonsqueezy.com | P | Merchant of record for digital products.
+Polar | https://polar.sh | O | Open-source merchant of record for developers.
+### Popups & On-Site Messaging
+OptinMonster | https://optinmonster.com | P | Popups and exit-intent offers.
+Privy | https://www.privy.com | M | Popups and email for ecommerce.
+Justuno | https://www.justuno.com | P | Onsite conversion and merchandising.
+ConvertBox | https://convertbox.com | P | Smart on-site messages.
+Wisepops | https://wisepops.com | M | Popups and notifications.
+Proof (UseProof) | https://www.useproof.com | P | Social proof notifications.
+Senja | https://senja.io | M | Collect and display testimonials.
+Testimonial.to | https://testimonial.to | M | Video and text testimonial collection.
+### Forms
+Tally | https://tally.so | M | Free forms.
+Fillout | https://www.fillout.com | M | Forms with logic and integrations.
+Jotform | https://www.jotform.com | M | Form builder.
+Formspree | https://formspree.io | M | Form backends for static sites.
+Basin | https://usebasin.com | M | Form endpoint service.
+Formbricks | https://formbricks.com | O | Open-source surveys and forms.
+
+## Website, SEO-Friendly Hosting & No-Code
+Vercel | https://vercel.com | M | Frontend hosting with fast global edge network.
+Netlify | https://www.netlify.com | M | Static hosting and forms.
+Cloudflare Pages | https://pages.cloudflare.com | M | Free static hosting at the edge.
+Bubble | https://bubble.io | M | No-code web app builder.
+Glide | https://www.glideapps.com | M | Apps from spreadsheets.
+Softr | https://www.softr.io | M | Portals and apps on Airtable/Sheets.
+Zapier Interfaces / Tables | https://zapier.com/interfaces | M | Simple apps and databases with automation.
+Notion Sites | https://www.notion.com/product/sites | M | Publish Notion pages as websites.
+Cursor | https://cursor.com | M | AI code editor for shipping marketing sites/tools faster.
+Claude Code | https://claude.com/product/claude-code | P | Terminal AI coding agent; build marketing tools and automations.
+
+## PR, Brand & Reputation
+### PR & Media Outreach
+Muck Rack | https://muckrack.com | P | Journalist database and PR monitoring.
+Cision | https://www.cision.com | P | PR newswire and media database.
+Prezly | https://www.prezly.com | P | PR CRM and newsroom.
+Notified | https://www.notified.com | P | Newswire and IR/PR tools.
+PR Newswire | https://www.prnewswire.com | P | Press-release distribution.
+Business Wire | https://www.businesswire.com | P | Press-release distribution.
+EIN Presswire | https://www.einpresswire.com | P | Low-cost press-release distribution.
+Qwoted | https://www.qwoted.com | M | Journalist-source matching.
+Featured | https://featured.com | M | Expert quote opportunities.
+Help a B2B Writer | https://helpab2bwriter.com | F | Free journalist queries for B2B experts.
+Terkel | https://terkel.io | M | Expert quote requests from publishers.
+Podchaser | https://www.podchaser.com | M | Podcast database for guest pitching.
+Listen Notes | https://www.listennotes.com | M | Podcast search engine.
+Rephonic | https://rephonic.com | P | Podcast database for guest outreach.
+### Reputation & Reviews
+Trustpilot | https://www.trustpilot.com | M | Consumer review platform.
+G2 | https://www.g2.com | M | B2B software review marketplace.
+Capterra | https://www.capterra.com | M | Software reviews and lead gen.
+TrustRadius | https://www.trustradius.com | P | B2B tech review platform.
+Podium | https://www.podium.com | P | Local business messaging and reviews.
+Birdeye | https://birdeye.com | P | Reviews and local listings management.
+Reputology | https://www.reputology.com | P | Review monitoring.
+Yotpo | https://www.yotpo.com | M | Reviews and loyalty.
+Judge.me | https://judge.me | M | Shopify product reviews.
+### Brand Management & Assets
+Brandfolder | https://brandfolder.com | P | Digital asset management.
+Bynder | https://www.bynder.com | P | Enterprise DAM.
+Frontify | https://www.frontify.com | P | Brand guidelines and DAM.
+Namelix | https://namelix.com | F | AI business name and logo generator.
+Namecheap | https://www.namecheap.com | P | Domain registration.
+Instant Domain Search | https://instantdomainsearch.com | F | Fast domain availability search.
+Brand Guidelines Gallery | https://brandguidelines.net | F | Examples of brand books for inspiration.
+
+## Community, Events & Webinars
+### Community Platforms
+Discord | https://discord.com | F | Real-time community chat.
+Slack | https://slack.com | M | Workspace chat for private communities.
+Circle | https://circle.so | P | Community, courses, and events.
+Discourse | https://www.discourse.org | O | Open-source forum platform.
+Skool | https://www.skool.com | P | Community plus classroom platform.
+Mighty Networks | https://www.mightynetworks.com | P | Branded communities and courses.
+Common Room | https://www.commonroom.io | P | Community and signal intelligence.
+Commsor | https://www.commsor.com | P | Community-led growth platform.
+Reddit | https://www.reddit.com | F | Subreddits for community and listening.
+Hacker News | https://news.ycombinator.com | F | Technical audience for launches and discussions.
+Indie Hackers | https://www.indiehackers.com | F | Community for bootstrapped founders.
+### Webinars & Virtual Events
+Zoom Webinars | https://zoom.us/webinar | P | Mainstream webinar hosting.
+Riverside | https://riverside.com | M | Studio-quality recording and live streaming.
+StreamYard | https://streamyard.com | M | Browser-based live streaming studio.
+Demio | https://demio.com | P | Marketing-focused webinar platform.
+WebinarJam | https://webinarjam.com | P | Live webinars for lead gen.
+EverWebinar | https://everwebinar.com | P | Evergreen automated webinars.
+Livestorm | https://livestorm.co | M | Webinars, events, and engagement.
+### In-Person Events
+Eventbrite | https://www.eventbrite.com | M | Ticketing and event pages.
+Luma | https://lu.ma | M | Beautiful event pages and RSVPs.
+Meetup | https://www.meetup.com | P | Local community events.
+Sessionize | https://sessionize.com | M | Call-for-papers management.
+Bizzabo | https://www.bizzabo.com | P | Enterprise event platform.
+Cvent | https://www.cvent.com | P | Event management and lead capture.
+
+## Launch, Directories & Distribution
+### Launch Platforms
+Product Hunt | https://www.producthunt.com | F | The main launch platform for new products.
+Hacker News (Show HN) | https://news.ycombinator.com/showhn.html | F | Show HN launches for technical audiences.
+BetaList | https://betalist.com | M | Early-stage startup directory.
+Uneed | https://www.uneed.best | M | Launch platform for indie products.
+Peerlist | https://peerlist.io | F | Professional network with Launchpad.
+MicroLaunch | https://microlaunch.net | M | Indie launch platform.
+Launching Next | https://www.launchingnext.com | M | Startup discovery list.
+Indie Hackers | https://www.indiehackers.com | F | Share milestones and launches.
+Tiny Startups | https://www.tinystartups.com | M | Showcase for small startups.
+Fazier | https://fazier.com | M | Launch platform and directory.
+Startup Stash | https://startupstash.com | M | Directory of startup tools and resources.
+### Software & Review Directories
+G2 | https://www.g2.com | M | Largest B2B software review site.
+Capterra | https://www.capterra.com | M | Software discovery and reviews.
+GetApp | https://www.getapp.com | M | Software discovery (Gartner Digital Markets).
+Software Advice | https://www.softwareadvice.com | M | Software discovery (Gartner Digital Markets).
+TrustRadius | https://www.trustradius.com | P | B2B reviews.
+AlternativeTo | https://alternativeto.net | F | Alternative software discovery.
+SaaSHub | https://www.saashub.com | F | Software alternatives and comparisons.
+Slant | https://www.slant.co | F | Recommendation engine for tools.
+Crozdesk | https://crozdesk.com | M | Software discovery.
+### AI & Agent Directories
+There's An AI For That | https://theresanaiforthat.com | M | Largest AI tool directory.
+Futurepedia | https://www.futurepedia.io | M | AI tools directory.
+Toolify | https://www.toolify.ai | M | AI tools directory.
+Future Tools | https://www.futuretools.io | M | Matt Wolfe's AI tool directory.
+Product Hunt AI | https://www.producthunt.com/topics/artificial-intelligence | F | AI launches on PH.
+MCP Registry | https://registry.modelcontextprotocol.io | F | Official registry of MCP servers.
+Smithery | https://smithery.ai | M | MCP server marketplace.
+Glama | https://glama.ai/mcp/servers | F | MCP server directory.
+### Deal & Lifetime-Deal Platforms
+AppSumo | https://appsumo.com | P | Lifetime deals to reach early adopters.
+PitchGround | https://pitchground.com | P | Lifetime deals marketplace.
+Stacksocial | https://www.stacksocial.com | P | Software deals marketplace.
+### Directory Submission Aids
+Directory lists — awesome-saas-directories | https://github.com/mahseema/awesome-saas-directories | O | Community list of SaaS launch directories.
+Directory lists — awesome-launch-directories | https://github.com/0xvibly/awesome-launch-directories | O | List of places to launch with costs and rules.
+Dub | https://dub.co | O | Short links and link analytics for launch campaigns.
+Open Graph Preview | https://www.opengraph.xyz | F | Preview social cards before launching.
+OG Image Generators (Vercel OG) | https://vercel.com/docs/og-image-generation | F | Programmatic social preview images.
+
+## Developer & Technical Marketing
+Mintlify | https://mintlify.com | M | Beautiful API docs (also SEO/AI-friendly).
+ReadMe | https://readme.com | P | Interactive API documentation.
+Docusaurus | https://docusaurus.io | O | Open-source docs framework.
+GitBook | https://www.gitbook.com | M | Docs and knowledge-base publishing.
+Postman | https://www.postman.com | M | API platform used in dev-rel demos.
+Swagger | https://swagger.io | O | OpenAPI tooling.
+DevRel.net | https://devrel.net | F | Developer relations resources.
+Draft.dev | https://draft.dev | P | Technical content writing for developer audiences.
+Sessionize | https://sessionize.com | M | Manage conference talk submissions.
+Hashnode | https://hashnode.com | F | Developer blog platform.
+DEV Community | https://dev.to | F | Developer community and blogging.
+Hacker Noon | https://hackernoon.com | M | Tech publishing platform.
+freeCodeCamp | https://www.freecodecamp.org | F | Large developer audience and publication.
+GitHub Sponsors | https://github.com/sponsors | F | Monetize open-source work.
+Open Source Guides | https://opensource.guide | F | How to run and market open-source projects.
+EveryDeveloper | https://www.everydeveloper.com | F | Developer marketing and DevRel community.
+Markepear | https://www.markepear.dev | F | Developer-marketing teardowns and guides.
+Developer Marketing Guide | https://www.devmarketingguide.com | F | Guide to marketing to developers.
+Scarf | https://about.scarf.sh | M | Analytics for open-source usage and community.
+Common Room | https://www.commonroom.io | P | Track developer signals across GitHub, Discord, and more.
+Reo.dev | https://www.reo.dev | P | Developer-intent signals for dev-tool GTM.
+
+## Ecommerce & Retention Marketing
+### Platforms & Storefronts
+Shopify | https://www.shopify.com | P | Leading ecommerce platform with huge app ecosystem.
+WooCommerce | https://woocommerce.com | O | Open-source commerce on WordPress.
+BigCommerce | https://www.bigcommerce.com | P | SaaS ecommerce platform.
+Medusa | https://medusajs.com | O | Open-source headless commerce.
+Gumroad | https://gumroad.com | M | Sell digital products simply.
+### Retention, SMS & Reviews
+Klaviyo | https://www.klaviyo.com | M | Email + SMS built for ecommerce.
+Postscript | https://postscript.io | P | SMS marketing for Shopify.
+Attentive | https://www.attentive.com | P | SMS and email personalization.
+Yotpo | https://www.yotpo.com | M | Reviews, loyalty, and SMS.
+Okendo | https://www.okendo.io | P | Reviews and UGC for Shopify.
+Loop Returns | https://www.loopreturns.com | P | Returns that drive exchanges.
+Recharge | https://rechargepayments.com | P | Subscription payments for ecommerce.
+Gorgias | https://www.gorgias.com | P | Ecommerce helpdesk.
+Judge.me | https://judge.me | M | Affordable product reviews.
+### Product Feeds & Marketplaces
+DataFeedWatch | https://www.datafeedwatch.com | P | Product feed management.
+Feedonomics | https://feedonomics.com | P | Enterprise feed optimization.
+Helium 10 | https://www.helium10.com | P | Amazon seller research and SEO.
+Jungle Scout | https://www.junglescout.com | P | Amazon product research.
+
+## Pricing, Churn & Lifecycle
+### Pricing & Monetization
+Stripe | https://stripe.com | P | Payments infrastructure and billing.
+Paddle | https://www.paddle.com | P | Merchant of record and billing for SaaS.
+Lemon Squeezy | https://www.lemonsqueezy.com | P | Merchant of record for digital products.
+Orb | https://www.withorb.com | P | Usage-based billing.
+Chargebee | https://www.chargebee.com | P | Subscription billing and revenue ops.
+Recurly | https://recurly.com | P | Subscription management.
+Superwall | https://superwall.com | M | Paywall testing for mobile apps.
+RevenueCat | https://www.revenuecat.com | M | In-app subscriptions infrastructure.
+### Onboarding, Retention & Churn
+Userflow | https://www.userflow.com | P | In-app onboarding flows and checklists.
+Appcues | https://www.appcues.com | P | In-app onboarding and announcements.
+Chameleon | https://www.chameleon.io | P | Product tours and in-app messaging.
+UserGuiding | https://userguiding.com | P | No-code onboarding guides.
+Churnkey | https://churnkey.co | P | Cancel flows and dunning.
+ProsperStack | https://prosperstack.com | P | Cancellation flows and retention offers.
+Baremetrics Recover | https://baremetrics.com/recover | P | Failed-payment recovery.
+Stunning | https://stunning.co | P | Dunning emails for Stripe.
+Gainsight | https://www.gainsight.com | P | Customer success platform.
+Vitally | https://www.vitally.io | P | Customer success platform for B2B SaaS.
+Planhat | https://www.planhat.com | P | Customer platform for retention and growth.
+Canny | https://canny.io | M | Feature requests and roadmap.
+Headway | https://headwayapp.co | M | Changelog widgets for product updates.
+Beamer | https://www.getbeamer.com | M | Changelogs and announcements.
+
+## Sales Enablement & Revenue Operations
+Highspot | https://www.highspot.com | P | Sales enablement content and coaching.
+Seismic | https://seismic.com | P | Enterprise sales enablement.
+Showpad | https://www.showpad.com | P | Sales content and coaching.
+Gong | https://www.gong.io | P | Revenue intelligence.
+Chorus | https://www.zoominfo.com/products/chorus | P | Conversation intelligence.
+Pitch | https://pitch.com | M | Collaborative decks.
+Gamma | https://gamma.app | M | AI presentations and microsites.
+PandaDoc | https://www.pandadoc.com | P | Proposals and e-signatures.
+DocSend | https://www.docsend.com | P | Share and track documents.
+Loom | https://www.loom.com | M | Async video for sales and onboarding.
+Clari | https://www.clari.com | P | Revenue forecasting platform.
+Metadata.io | https://metadata.io | P | B2B demand-gen automation.
+6sense | https://6sense.com | P | ABM and intent data.
+Demandbase | https://www.demandbase.com | P | ABM platform.
+Bombora | https://bombora.com | P | B2B intent data.
+Warmly | https://www.warmly.ai | M | Website visitor identification and outreach.
+
+## Learning: Blogs, Newsletters, Podcasts, Books, Courses
+### Blogs & Publications
+Search Engine Land | https://searchengineland.com | F | Authoritative SEO/SEM news.
+Search Engine Journal | https://www.searchenginejournal.com | F | SEO and digital marketing news.
+Search Engine Roundtable | https://www.seroundtable.com | F | Daily SEO news by Barry Schwartz.
+Ahrefs Blog | https://ahrefs.com/blog/ | F | In-depth SEO and content guides.
+Backlinko | https://backlinko.com | F | SEO strategy by Brian Dean.
+Moz Blog | https://moz.com/blog | F | SEO education.
+HubSpot Marketing Blog | https://blog.hubspot.com/marketing | F | Broad marketing guides and stats.
+Content Marketing Institute | https://contentmarketinginstitute.com | F | Content marketing strategy.
+Marketing Week | https://www.marketingweek.com | M | UK marketing industry news.
+Ad Age | https://adage.com | M | Advertising industry news.
+Adweek | https://www.adweek.com | M | Advertising and brand news.
+Marketing Brew | https://www.marketingbrew.com | F | Daily marketing news newsletter.
+Growth Unhinged | https://www.growthunhinged.com | M | Growth tactics by Kyle Poyar.
+Lenny's Newsletter | https://www.lennysnewsletter.com | M | Product and growth insights.
+Demand Curve Blog | https://www.demandcurve.com/blog | F | Startup growth marketing guides.
+Reforge Blog | https://www.reforge.com/blog | F | Growth and product frameworks.
+CXL Blog | https://cxl.com/blog/ | F | CRO and analytics research.
+Copyhackers | https://copyhackers.com | M | Conversion copywriting resources.
+First Round Review | https://review.firstround.com | F | Startup operator advice.
+Y Combinator Library | https://www.ycombinator.com/library | F | Startup advice including growth and marketing.
+### Newsletters
+The Marketing Newsletter | https://www.themarketingnewsletter.org | F | Weekly marketing news and tools.
+SEOFOMO | https://seofomo.co | F | Weekly SEO newsletter by Aleyda Solis.
+Marketing Examples | https://marketingexamples.com | M | Real-world marketing case studies.
+Morning Brew | https://www.morningbrew.com | F | Daily business news.
+Search Engine Land Newsletter | https://searchengineland.com/newsletters | F | SEO and PPC daily brief.
+Indie Hackers Newsletter | https://www.indiehackers.com/newsletter | F | Stories from bootstrapped founders.
+Growth Memo | https://www.growth-memo.com | M | SEO strategy by Kevin Indig.
+Marketing Against the Grain | https://blog.hubspot.com/marketing/podcast | F | HubSpot's marketing strategy podcast.
+awesome-newsletters | https://github.com/zudochkin/awesome-newsletters | O | Huge curated list of newsletters.
+### Podcasts
+Marketing Over Coffee | https://marketingovercoffee.com | F | Weekly marketing podcast.
+Marketing Against the Grain | https://blog.hubspot.com/marketing/podcast | F | HubSpot's marketing strategy podcast.
+My First Million | https://www.mfmpod.com | F | Business ideas and marketing tactics.
+Lenny's Podcast | https://www.lennyspodcast.com | F | Product and growth interviews.
+Acquired | https://www.acquired.fm | F | Deep dives on company strategy.
+The SaaS Podcast | https://saasclub.io | F | SaaS growth interviews.
+### Books
+Obviously Awesome | https://www.aprildunford.com/obviously-awesome | P | April Dunford on positioning.
+Building a StoryBrand | https://buildingastorybrand.com | P | Donald Miller on clear messaging.
+Hooked | https://www.nirandfar.com/hooked/ | P | Nir Eyal on habit-forming products.
+Influence | https://www.influenceatwork.com | P | Cialdini on persuasion.
+Contagious | https://jonahberger.com/books/contagious/ | P | Jonah Berger on why things catch on.
+Crossing the Chasm | https://www.harpercollins.com/products/crossing-the-chasm-geoffrey-a-moore | P | Geoffrey Moore on tech adoption.
+Ca$hvertising | https://www.drewericwhitman.com | P | Direct-response copywriting principles.
+Don't Make Me Think | https://sensible.com/dont-make-me-think/ | P | Steve Krug on usability.
+Trustworthy Online Controlled Experiments | https://experimentguide.com | P | The A/B testing bible.
+awesome-marketing-books | https://github.com/marketingtoolslist/awesome-marketing-books | O | Hand-curated list of the best digital marketing books.
+### Courses & Certifications
+Google Skillshop | https://skillshop.withgoogle.com | F | Free certifications for Google Ads, Analytics, and more.
+HubSpot Academy | https://academy.hubspot.com | F | Free marketing, sales, and CRM courses.
+Meta Blueprint | https://www.facebook.com/business/learn | F | Free Meta advertising training.
+Semrush Academy | https://www.semrush.com/academy/ | F | Free SEO and marketing courses.
+Ahrefs Academy | https://ahrefs.com/academy | F | Free SEO courses.
+CXL | https://cxl.com | P | Evidence-based marketing training.
+Reforge | https://www.reforge.com | P | Advanced growth programs.
+Coursera Digital Marketing | https://www.coursera.org/browse/business/marketing | M | University and Google marketing certificates.
+Google Digital Garage | https://learndigital.withgoogle.com/digitalgarage | F | Free digital marketing fundamentals.
+### Communities
+Indie Hackers | https://www.indiehackers.com | F | Community for bootstrapped founders.
+Online Geniuses | https://www.onlinegeniuses.com | F | Large Slack community for digital marketers.
+GrowthHackers | https://growthhackers.com | F | Growth marketing community (now Sean Ellis' community).
+Superpath | https://www.superpath.co | M | Community for content marketers.
+RevGenius | https://www.revgenius.com | F | Revenue and go-to-market community.
+Demand Curve Community | https://www.demandcurve.com | M | Startup marketers community.
+Women in Tech SEO | https://womenintechseo.com | F | Community for women in SEO.
+r/marketing | https://www.reddit.com/r/marketing/ | F | General marketing subreddit.
+r/SEO | https://www.reddit.com/r/SEO/ | F | SEO subreddit.
+r/PPC | https://www.reddit.com/r/PPC/ | F | Paid media subreddit.
+r/emailmarketing | https://www.reddit.com/r/emailmarketing/ | F | Email marketing subreddit.
+r/startups | https://www.reddit.com/r/startups/ | F | Startup founders subreddit.
+r/SaaS | https://www.reddit.com/r/SaaS/ | F | SaaS founders subreddit.
+
+## Related Awesome Lists (Sources)
+awesome-marketing (marketingtoolslist) | https://github.com/marketingtoolslist/awesome-marketing | O | The list that inspired this repo.
+awesome-marketing (ronakganatra) | https://github.com/ronakganatra/awesome-marketing | O | Living document of marketer resources.
+awesome-marketing (ninjasort) | https://github.com/ninjasort/awesome-marketing | O | Original internet-marketing list.
+awesome-seo-tools (serpapi) | https://github.com/serpapi/awesome-seo-tools | O | Curated SEO tools, including AI visibility.
+awesome-seo-tools (Suganthan) | https://github.com/Suganthan-Mohanadasan/awesome-seo-tools | O | 200+ SEO tools by category.
+awesome-ai-marketing | https://github.com/alternbits/awesome-ai-marketing | O | AI tools for marketing.
+awesome-ai-visibility | https://github.com/alternbits/awesome-ai-visibility | O | AI search visibility and GEO resources.
+awesome-growth-hacking | https://github.com/bekatom/awesome-growth-hacking | O | Growth hacking resources.
+awesome-digital-marketing | https://github.com/paulbradish/awesome-digital-marketing | O | Digital marketing guides and services.
+awesome-email-marketing | https://github.com/LLazyEmail/awesome-email-marketing | O | Email marketing resources.
+awesome-newsletter-tools | https://github.com/marcelkooi/awesome-newsletter-tools | O | Newsletter tools, platforms, and media.
+awesome-marketing-newsletters | https://github.com/marketinguys/awesome-marketing-newsletters | O | Top marketing newsletters.
+awesome-content-marketing | https://github.com/marketinguys/awesome-content-marketing | O | Content marketing tools.
+awesome-saas-directories | https://github.com/mahseema/awesome-saas-directories | O | Places to launch a SaaS.
+awesome-indie-hackers-tools | https://github.com/Alex0x47/awesome-indie-hackers-tools | O | Tools for indie makers.
+awesome-marketing-tools (tractiongroup) | https://github.com/tractiongroup/awesome-marketing-tools | O | Marketing tools list.
+awesome-developer-tools-marketing | https://github.com/tyaga001/awesome-developer-tools-marketing | O | Developer-tools marketing resources.
+awesome-marketing-machine-learning | https://github.com/station-10/awesome-marketing-machine-learning | O | ML libraries for marketing (MMM, attribution, uplift).
+Awesome-Marketing-Science | https://github.com/shakostats/Awesome-Marketing-Science | O | MMM, incrementality, and causal inference resources.
+awesome-Marketing-Analytics | https://github.com/vkoul/awesome-Marketing-Analytics | O | Marketing analytics learning resources.
+awesome-saas-services | https://github.com/GetStream/awesome-saas-services | O | SaaS services for developers and business owners.
+awesome-newsletters | https://github.com/zudochkin/awesome-newsletters | O | Newsletters across topics.
+Mautic | https://github.com/mautic/mautic | O | Open-source marketing automation (10k+ stars).

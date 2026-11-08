@@ -1,0 +1,922 @@
+category,subcategory,name,url,pricing,description
+"Strategy, Planning & Project Management",Planning & Roadmaps,Notion,https://www.notion.com,Freemium,"All-in-one workspace for marketing wikis, calendars, and databases."
+"Strategy, Planning & Project Management",Planning & Roadmaps,Airtable,https://www.airtable.com,Freemium,Spreadsheet-database hybrid for content calendars and campaign trackers.
+"Strategy, Planning & Project Management",Planning & Roadmaps,Asana,https://asana.com,Freemium,Work management for campaign plans and cross-team projects.
+"Strategy, Planning & Project Management",Planning & Roadmaps,Trello,https://trello.com,Freemium,Simple kanban boards for content and campaign pipelines.
+"Strategy, Planning & Project Management",Planning & Roadmaps,Monday.com,https://monday.com,Freemium,Visual work OS with marketing templates and automations.
+"Strategy, Planning & Project Management",Planning & Roadmaps,ClickUp,https://clickup.com,Freemium,"Tasks, docs, and goals in one app; popular with small marketing teams."
+"Strategy, Planning & Project Management",Planning & Roadmaps,Wrike,https://www.wrike.com,Freemium,Enterprise-grade project and approval workflows.
+"Strategy, Planning & Project Management",Planning & Roadmaps,Linear,https://linear.app,Freemium,Fast issue tracker; good for growth-engineering backlogs.
+"Strategy, Planning & Project Management",Planning & Roadmaps,CoSchedule,https://coschedule.com,Paid,"Marketing calendar combining content, social, and campaign scheduling."
+"Strategy, Planning & Project Management",Planning & Roadmaps,Miro,https://miro.com,Freemium,"Whiteboard for journey maps, funnels, and brainstorming."
+"Strategy, Planning & Project Management",Planning & Roadmaps,Lucidchart,https://www.lucidchart.com,Freemium,Diagramming for funnels and customer journey maps.
+"Strategy, Planning & Project Management",Planning & Roadmaps,Whimsical,https://whimsical.com,Freemium,"Quick flowcharts, wireframes, and mind maps."
+"Strategy, Planning & Project Management",Planning & Roadmaps,Smaply,https://www.smaply.com,Paid,Customer journey mapping and persona software.
+"Strategy, Planning & Project Management",Personas & Segmentation,HubSpot Make My Persona,https://www.hubspot.com/make-my-persona,Free,Free guided buyer-persona builder.
+"Strategy, Planning & Project Management",Personas & Segmentation,Xtensio,https://xtensio.com,Freemium,"Templates for personas, user journeys, and strategy docs."
+"Strategy, Planning & Project Management",Personas & Segmentation,Claritas PRIZM,https://claritas.com,Paid,Consumer segmentation and geo-demographic data.
+"Strategy, Planning & Project Management",Budgeting & Forecasting,Float,https://www.float.com,Paid,Resource planning and capacity forecasting for agencies.
+"Strategy, Planning & Project Management",Budgeting & Forecasting,Productive,https://productive.io,Paid,"Agency management: budgets, time, and profitability."
+"Strategy, Planning & Project Management",Budgeting & Forecasting,Planful,https://planful.com,Paid,Financial planning and budgeting (formerly Host Analytics).
+"Strategy, Planning & Project Management",Frameworks & Templates,Reforge,https://www.reforge.com,Paid,"Growth, marketing, and product programs from operators."
+"Strategy, Planning & Project Management",Frameworks & Templates,Demand Curve,https://www.demandcurve.com,Freemium,Growth playbooks and training for startups.
+"Strategy, Planning & Project Management",Frameworks & Templates,GrowthMentor,https://www.growthmentor.com,Paid,1:1 sessions with vetted growth marketers.
+"Strategy, Planning & Project Management",Frameworks & Templates,Lenny's Newsletter Templates,https://www.lennysnewsletter.com,Freemium,Product and growth templates from a top operator newsletter.
+Market & Competitor Research,Competitive Intelligence,Similarweb,https://www.similarweb.com,Freemium,"Website and app traffic, audience, and channel estimates."
+Market & Competitor Research,Competitive Intelligence,Semrush Traffic Analytics,https://www.semrush.com/analytics/traffic/,Paid,Competitor traffic and audience overlap.
+Market & Competitor Research,Competitive Intelligence,SpyFu,https://www.spyfu.com,Paid,Competitor keyword and PPC history.
+Market & Competitor Research,Competitive Intelligence,Crayon,https://www.crayon.co,Paid,Competitive intelligence and battlecard platform.
+Market & Competitor Research,Competitive Intelligence,Klue,https://klue.com,Paid,Competitive enablement for sales and product marketing.
+Market & Competitor Research,Competitive Intelligence,Kompyte,https://www.kompyte.com,Paid,Automated competitor tracking (now part of Semrush).
+Market & Competitor Research,Competitive Intelligence,Owler,https://www.owler.com,Freemium,"Company profiles, news alerts, and competitor tracking."
+Market & Competitor Research,Competitive Intelligence,BuiltWith,https://builtwith.com,Freemium,See which technologies any site uses.
+Market & Competitor Research,Competitive Intelligence,Wappalyzer,https://www.wappalyzer.com,Freemium,Tech-stack detection via extension and API.
+Market & Competitor Research,Competitive Intelligence,Wayback Machine,https://web.archive.org,Free,Historical snapshots of competitor sites and pricing pages.
+Market & Competitor Research,Competitive Intelligence,Visualping,https://visualping.io,Freemium,Monitor competitor pages for changes.
+Market & Competitor Research,Competitive Intelligence,Foreplay,https://www.foreplay.co,Paid,Ad library saving and swipe-file tool.
+Market & Competitor Research,Competitive Intelligence,Meta Ad Library,https://www.facebook.com/ads/library/,Free,Free searchable archive of active Meta ads.
+Market & Competitor Research,Competitive Intelligence,Google Ads Transparency Center,https://adstransparency.google.com,Free,Free search of ads advertisers run on Google.
+Market & Competitor Research,Competitive Intelligence,TikTok Creative Center,https://ads.tiktok.com/business/creativecenter,Free,"Top ads, trends, hashtags, and songs on TikTok."
+Market & Competitor Research,Competitive Intelligence,LinkedIn Ad Library,https://www.linkedin.com/ad-library,Free,Free search of ads running on LinkedIn.
+Market & Competitor Research,Market Data & Trends,Google Trends,https://trends.google.com,Free,Search interest over time by topic and region.
+Market & Competitor Research,Market Data & Trends,Exploding Topics,https://explodingtopics.com,Freemium,Spot rising trends before they peak.
+Market & Competitor Research,Market Data & Trends,Statista,https://www.statista.com,Freemium,Market statistics and industry reports.
+Market & Competitor Research,Market Data & Trends,Crunchbase,https://www.crunchbase.com,Freemium,"Company, funding, and market data."
+Market & Competitor Research,Market Data & Trends,SparkToro,https://sparktoro.com,Freemium,Audience research: where your audience hangs out and what they follow.
+Market & Competitor Research,Market Data & Trends,Glimpse,https://meetglimpse.com,Freemium,Google Trends extension with absolute volumes.
+Market & Competitor Research,Market Data & Trends,Think with Google,https://www.thinkwithgoogle.com,Free,Google's consumer insights and trend research.
+Market & Competitor Research,Market Data & Trends,Pew Research Center,https://www.pewresearch.org,Free,Free public data on demographics and tech/media use.
+Market & Competitor Research,Market Data & Trends,Gartner,https://www.gartner.com,Paid,Analyst research and market guides.
+Market & Competitor Research,Market Data & Trends,G2,https://www.g2.com,Freemium,"Software reviews, category data, and buyer intent."
+"Customer Research, Surveys & Feedback",,Typeform,https://www.typeform.com,Freemium,Conversational forms and surveys.
+"Customer Research, Surveys & Feedback",,Tally,https://tally.so,Freemium,"Free, generous form builder."
+"Customer Research, Surveys & Feedback",,SurveyMonkey,https://www.surveymonkey.com,Freemium,Classic survey platform with templates.
+"Customer Research, Surveys & Feedback",,Google Forms,https://www.google.com/forms/about/,Free,Free basic surveys and quizzes.
+"Customer Research, Surveys & Feedback",,Qualtrics,https://www.qualtrics.com,Paid,Enterprise experience management and research.
+"Customer Research, Surveys & Feedback",,Sprig,https://sprig.com,Freemium,In-product surveys and user research.
+"Customer Research, Surveys & Feedback",,Hotjar Surveys,https://www.hotjar.com,Freemium,On-site feedback widgets and surveys.
+"Customer Research, Surveys & Feedback",,Canny,https://canny.io,Freemium,Feature requests and public roadmaps.
+"Customer Research, Surveys & Feedback",,Dovetail,https://dovetail.com,Freemium,Research repository and interview analysis.
+"Customer Research, Surveys & Feedback",,Grain,https://grain.com,Freemium,Meeting recorder that clips customer calls.
+"Customer Research, Surveys & Feedback",,Gong,https://www.gong.io,Paid,Call recording and revenue intelligence; mine sales calls for messaging.
+"Customer Research, Surveys & Feedback",,UserTesting,https://www.usertesting.com,Paid,On-demand user tests and video feedback.
+"Customer Research, Surveys & Feedback",,Maze,https://maze.co,Freemium,Rapid usability and concept testing.
+"Customer Research, Surveys & Feedback",,Lyssna,https://www.lyssna.com,Freemium,"Quick usability tests, first-click tests, surveys (formerly UsabilityHub)."
+"Customer Research, Surveys & Feedback",,Prolific,https://www.prolific.com,Paid,High-quality participant recruitment for studies.
+"Customer Research, Surveys & Feedback",,Respondent,https://www.respondent.io,Paid,Recruit B2B interview participants.
+"Customer Research, Surveys & Feedback",,Birdeye,https://birdeye.com,Paid,Review and feedback management for local businesses.
+"Customer Research, Surveys & Feedback",,Delighted,https://delighted.com,Freemium,"NPS, CSAT, and CES surveys."
+"Customer Research, Surveys & Feedback",,Refiner,https://refiner.io,Freemium,In-app NPS and micro-surveys.
+"Customer Research, Surveys & Feedback",,AnswerThePublic,https://answerthepublic.com,Freemium,Questions people ask around any keyword.
+"Customer Research, Surveys & Feedback",,AlsoAsked,https://alsoasked.com,Freemium,People Also Ask maps for content research.
+"Customer Research, Surveys & Feedback",,Reddit,https://www.reddit.com,Free,Mine subreddits for raw customer language and objections.
+SEO,All-in-One Suites,Ahrefs,https://ahrefs.com,Paid,"Backlinks, keywords, site audit, rank tracking, and Brand Radar."
+SEO,All-in-One Suites,Semrush,https://www.semrush.com,Paid,Broadest SEO + content + ads suite; AI Toolkit for LLM visibility.
+SEO,All-in-One Suites,Moz Pro,https://moz.com,Paid,"Keyword research, link analysis, and the Domain Authority metric."
+SEO,All-in-One Suites,SE Ranking,https://seranking.com,Paid,Affordable all-in-one with rank tracking and SE Visible for AI search.
+SEO,All-in-One Suites,Mangools,https://mangools.com,Paid,"Beginner-friendly suite: KWFinder, SERPChecker, SiteProfiler."
+SEO,All-in-One Suites,Serpstat,https://serpstat.com,Paid,"Budget all-in-one for keywords, audits, and competitors."
+SEO,All-in-One Suites,Sistrix,https://www.sistrix.com,Paid,European-favored visibility index and SEO toolbox.
+SEO,All-in-One Suites,Seobility,https://www.seobility.net,Freemium,"Site audits, rank tracking, and content tools."
+SEO,All-in-One Suites,Ubersuggest,https://neilpatel.com/ubersuggest/,Freemium,Entry-level keyword and site audit tool from Neil Patel.
+SEO,All-in-One Suites,SEO PowerSuite,https://www.seopowersuite.com,Freemium,"Desktop SEO toolkit (Rank Tracker, WebSite Auditor, SEO SpyGlass)."
+SEO,All-in-One Suites,Search Atlas,https://searchatlas.com,Paid,All-in-one SEO platform with automation and AI agents.
+SEO,All-in-One Suites,BrightEdge,https://www.brightedge.com,Paid,Enterprise SEO and content performance platform.
+SEO,All-in-One Suites,seoClarity,https://www.seoclarity.net,Paid,Enterprise SEO platform with AI search tracking.
+SEO,All-in-One Suites,Conductor,https://www.conductor.com,Paid,Enterprise SEO/content intelligence (owns ContentKing).
+SEO,Keyword Research,Google Keyword Planner,https://ads.google.com/home/tools/keyword-planner/,Free,Free keyword volumes (requires a Google Ads account).
+SEO,Keyword Research,Keywords Everywhere,https://keywordseverywhere.com,Paid,Inline volume and related keywords in the browser.
+SEO,Keyword Research,KeywordTool.io,https://keywordtool.io,Freemium,Autocomplete-based keyword ideas across many platforms.
+SEO,Keyword Research,Keyword Insights,https://www.keywordinsights.ai,Paid,Keyword clustering and content briefs from SERP overlap.
+SEO,Keyword Research,LowFruits,https://lowfruits.io,Paid,Find low-competition keywords by weak SERP results.
+SEO,Keyword Research,Keysearch,https://www.keysearch.co,Paid,Cheap keyword research and difficulty scoring.
+SEO,Keyword Research,Long Tail Pro,https://longtailpro.com,Paid,Long-tail keyword discovery and rank tracking.
+SEO,Keyword Research,Ahrefs Webmaster Tools,https://ahrefs.com/webmaster-tools,Free,Free site audit and backlink data for sites you verify.
+SEO,Keyword Research,Google Search Console,https://search.google.com/search-console,Free,"The ground truth for your own queries, clicks, and indexing."
+SEO,Keyword Research,Bing Webmaster Tools,https://www.bing.com/webmasters,Free,Bing/Copilot search data; also IndexNow submission.
+SEO,Keyword Research,Answer Socrates,https://answersocrates.com,Freemium,People-also-ask and question keyword research.
+SEO,Content Optimization,Surfer SEO,https://surferseo.com,Paid,Content editor scoring against top SERP results.
+SEO,Content Optimization,Clearscope,https://www.clearscope.io,Paid,Premium content optimization and briefs.
+SEO,Content Optimization,Frase,https://www.frase.io,Paid,"SEO briefs, AI writing, and AI-search optimization."
+SEO,Content Optimization,MarketMuse,https://www.marketmuse.com,Paid,Topic modeling and content planning.
+SEO,Content Optimization,NeuronWriter,https://neuronwriter.com,Paid,Affordable NLP-based content optimizer.
+SEO,Content Optimization,Page Optimizer Pro,https://pageoptimizer.pro,Paid,Data-driven on-page optimization against competitors.
+SEO,Content Optimization,Rankability,https://www.rankability.com,Paid,Content optimizer with brief generation.
+SEO,Content Optimization,Yoast SEO,https://yoast.com,Freemium,WordPress on-page SEO plugin.
+SEO,Content Optimization,Rank Math,https://rankmath.com,Freemium,Feature-rich WordPress SEO plugin.
+SEO,Technical SEO & Auditing,Screaming Frog SEO Spider,https://www.screamingfrog.co.uk/seo-spider/,Freemium,The standard desktop site crawler.
+SEO,Technical SEO & Auditing,Sitebulb,https://sitebulb.com,Paid,"Visual, hint-based desktop crawler."
+SEO,Technical SEO & Auditing,Lumar,https://www.lumar.io,Paid,Enterprise crawling and site health (formerly DeepCrawl).
+SEO,Technical SEO & Auditing,Oncrawl,https://www.oncrawl.com,Paid,Technical SEO crawler with log analysis.
+SEO,Technical SEO & Auditing,JetOctopus,https://jetoctopus.com,Paid,Fast cloud crawler and log analyzer.
+SEO,Technical SEO & Auditing,Botify,https://www.botify.com,Paid,"Enterprise crawl, logs, and AI-bot visibility."
+SEO,Technical SEO & Auditing,Siteliner,https://www.siteliner.com,Freemium,Duplicate content and broken-link scan.
+SEO,Technical SEO & Auditing,Google PageSpeed Insights,https://pagespeed.web.dev,Free,Core Web Vitals lab and field data.
+SEO,Technical SEO & Auditing,WebPageTest,https://www.webpagetest.org,Free,Deep waterfall performance testing.
+SEO,Technical SEO & Auditing,GTmetrix,https://gtmetrix.com,Freemium,Page speed reports and monitoring.
+SEO,Technical SEO & Auditing,DebugBear,https://www.debugbear.com,Paid,Web-performance monitoring with Core Web Vitals trends.
+SEO,Technical SEO & Auditing,Lighthouse,https://developer.chrome.com/docs/lighthouse,Open source,"Open-source audits for performance, SEO, and accessibility."
+SEO,Technical SEO & Auditing,LibreCrawl,https://github.com/PhialsBasement/LibreCrawl,Open source,Open-source desktop crawler alternative.
+SEO,Technical SEO & Auditing,SEOnaut,https://seonaut.org,Open source,Open-source SEO auditor.
+SEO,Technical SEO & Auditing,Rich Results Test,https://search.google.com/test/rich-results,Free,Validate structured data eligibility.
+SEO,Technical SEO & Auditing,Schema.org,https://schema.org,Free,The structured-data vocabulary reference.
+SEO,Technical SEO & Auditing,Merkle Schema Markup Generator,https://technicalseo.com/tools/schema-markup-generator/,Free,Free JSON-LD generator.
+SEO,Technical SEO & Auditing,Google Search Central,https://developers.google.com/search,Free,Official documentation straight from Google.
+SEO,Technical SEO & Auditing,IndexNow,https://www.indexnow.org,Free,Instantly notify participating engines of URL changes.
+SEO,Rank Tracking,AccuRanker,https://www.accuranker.com,Paid,"Fast, accurate daily rank tracking."
+SEO,Rank Tracking,Advanced Web Ranking,https://www.advancedwebranking.com,Paid,Rank tracking and reporting for agencies.
+SEO,Rank Tracking,Nightwatch,https://nightwatch.io,Paid,Rank tracking with local and AI-search tracking.
+SEO,Rank Tracking,Wincher,https://www.wincher.com,Paid,Simple rank tracker for small sites.
+SEO,Rank Tracking,SerpBear,https://github.com/towfiqi/serpbear,Open source,Self-hosted open-source rank tracker.
+SEO,Rank Tracking,SERPWatcher,https://mangools.com/serpwatcher,Paid,Mangools' lightweight rank tracker.
+SEO,Backlinks & Link Building,Majestic,https://majestic.com,Paid,Link graph with Trust Flow and Citation Flow.
+SEO,Backlinks & Link Building,OpenLinkProfiler,https://www.openlinkprofiler.org,Free,Free backlink checker.
+SEO,Backlinks & Link Building,Monitor Backlinks,https://monitorbacklinks.com,Paid,Backlink monitoring and outreach tracking.
+SEO,Backlinks & Link Building,BuzzStream,https://www.buzzstream.com,Paid,Link-building CRM and outreach.
+SEO,Backlinks & Link Building,Pitchbox,https://pitchbox.com,Paid,Outreach automation for link building and PR.
+SEO,Backlinks & Link Building,Respona,https://respona.com,Paid,AI-assisted outreach and link prospecting.
+SEO,Backlinks & Link Building,Hunter,https://hunter.io,Freemium,Find and verify email addresses; outreach campaigns.
+SEO,Backlinks & Link Building,LinkDR,https://www.linkdr.com,Paid,Link prospecting and outreach.
+SEO,Backlinks & Link Building,Loganix,https://loganix.com,Paid,White-label link building and SEO services.
+SEO,Backlinks & Link Building,Qwoted,https://www.qwoted.com,Freemium,Journalist-expert matching (HARO alternative).
+SEO,Backlinks & Link Building,Featured,https://featured.com,Freemium,Expert answers for journalist queries (HARO alternative).
+SEO,Backlinks & Link Building,Source of Sources,https://sourceofsources.com,Free,Free journalist-query alerts by Peter Shankman.
+SEO,Internal Linking,Link Whisper,https://linkwhisper.com,Paid,WordPress internal-link suggestions.
+SEO,Internal Linking,InLinks,https://inlinks.com,Paid,Entity-based internal linking and schema.
+SEO,Internal Linking,LinkBoss,https://linkboss.io,Paid,Automated internal linking.
+SEO,Local SEO,BrightLocal,https://www.brightlocal.com,Paid,"Local rank tracking, citations, and review management."
+SEO,Local SEO,Whitespark,https://whitespark.ca,Paid,Local citation finder and rank tracker.
+SEO,Local SEO,Local Falcon,https://www.localfalcon.com,Paid,Geo-grid local rank tracking for Maps.
+SEO,Local SEO,Moz Local,https://moz.com/products/local,Paid,Listings management.
+SEO,Local SEO,Yext,https://www.yext.com,Paid,Enterprise listings and knowledge graph.
+SEO,Local SEO,Google Business Profile,https://www.google.com/business/,Free,Free local listing: essential for local SEO.
+SEO,Browser Extensions,SEOquake,https://www.seoquake.com,Free,On-page metrics overlay on SERPs.
+SEO,Browser Extensions,MozBar,https://moz.com/products/pro/seo-toolbar,Freemium,Quick DA/PA and on-page checks.
+SEO,Browser Extensions,Ahrefs SEO Toolbar,https://ahrefs.com/seo-toolbar,Free,Free on-page and SERP overlays.
+SEO,Browser Extensions,Detailed SEO Extension,https://detailed.com/extension/,Free,Fast on-page SEO info by Detailed.
+SEO,Browser Extensions,Keyword Surfer,https://surferseo.com/keyword-surfer-extension/,Free,Free search volume in Google results.
+SEO,Browser Extensions,Redirect Path,https://chromewebstore.google.com/detail/redirect-path/aomidfkchockcldhbkggjokdkkebmdll,Free,See HTTP status codes and redirect chains.
+SEO,Browser Extensions,Web Developer,https://chromewebstore.google.com/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm,Free,Toolbar of developer utilities for audits.
+SEO,SEO Automation & Data,DataForSEO,https://dataforseo.com,Paid,"SEO data APIs (SERPs, keywords, backlinks)."
+SEO,SEO Automation & Data,SerpApi,https://serpapi.com,Freemium,Real-time search-results API.
+SEO,SEO Automation & Data,SearchAPI,https://www.searchapi.io,Freemium,SERP API with generous free tier.
+SEO,SEO Automation & Data,Gumloop,https://www.gumloop.com,Freemium,No-code AI workflow builder popular for SEO automation.
+SEO,SEO Automation & Data,AirOps,https://www.airops.com,Paid,Content engineering and AI-search workflow platform.
+SEO,SEO Automation & Data,Google Search Console MCP,https://github.com/AminForou/mcp-gsc,Open source,Query Search Console from Claude via MCP.
+SEO,SEO Automation & Data,Advertools,https://github.com/eliasdabbas/advertools,Open source,Python library for SEO/SEM analysis and crawling.
+AI Search Visibility (GEO / AEO),Tracking Platforms,Profound,https://www.tryprofound.com,Paid,Enterprise AI-answer visibility tracking across many engines.
+AI Search Visibility (GEO / AEO),Tracking Platforms,Peec AI,https://peec.ai,Paid,"Prompt-level brand tracking in ChatGPT, Perplexity, and others."
+AI Search Visibility (GEO / AEO),Tracking Platforms,Otterly.AI,https://otterly.ai,Paid,Affordable brand-mention monitoring in AI search.
+AI Search Visibility (GEO / AEO),Tracking Platforms,AthenaHQ,https://www.athenahq.ai,Paid,GEO platform for tracking and optimizing AI citations.
+AI Search Visibility (GEO / AEO),Tracking Platforms,Scrunch AI,https://scrunch.com,Paid,AI-agent-friendly content delivery plus monitoring.
+AI Search Visibility (GEO / AEO),Tracking Platforms,Ahrefs Brand Radar,https://ahrefs.com/brand-radar,Paid,AI Overviews and chatbot mentions inside Ahrefs.
+AI Search Visibility (GEO / AEO),Tracking Platforms,Semrush AI Toolkit,https://www.semrush.com/ai-seo/,Paid,AI visibility reports inside Semrush.
+AI Search Visibility (GEO / AEO),Tracking Platforms,SE Visible,https://visible.seranking.com,Paid,SE Ranking's AI-visibility tracker.
+AI Search Visibility (GEO / AEO),Tracking Platforms,ZipTie,https://ziptie.dev,Paid,"Track brand visibility in AI Overviews, ChatGPT, and Perplexity."
+AI Search Visibility (GEO / AEO),Tracking Platforms,Rankscale,https://rankscale.ai,Paid,Lightweight AI search rank tracking.
+AI Search Visibility (GEO / AEO),Tracking Platforms,Writesonic GEO,https://writesonic.com,Paid,Combines GEO tracking and content creation.
+AI Search Visibility (GEO / AEO),Tracking Platforms,Gauge,https://withgauge.com,Paid,AI visibility measurement and recommendations.
+AI Search Visibility (GEO / AEO),Tracking Platforms,Goodie AI,https://higoodie.com,Paid,AEO analytics and content optimization.
+AI Search Visibility (GEO / AEO),Content & Technical Readiness,llms.txt spec,https://llmstxt.org,Free,Proposal for a site file that guides LLM crawlers.
+AI Search Visibility (GEO / AEO),Content & Technical Readiness,Cloudflare AI Crawl Control,https://www.cloudflare.com/ai-crawl-control/,Freemium,See and control which AI bots crawl your site.
+AI Search Visibility (GEO / AEO),Content & Technical Readiness,OpenAI crawler docs,https://platform.openai.com/docs/bots,Free,GPTBot / OAI-SearchBot user agents and robots.txt rules.
+AI Search Visibility (GEO / AEO),Content & Technical Readiness,Perplexity bots docs,https://docs.perplexity.ai/guides/bots,Free,PerplexityBot behavior and controls.
+AI Search Visibility (GEO / AEO),Content & Technical Readiness,Dejan AI Tools,https://dejan.ai/tools/,Free,"Free experiments for AI grounding, query fan-out, and chunking."
+AI Search Visibility (GEO / AEO),Content & Technical Readiness,Qforia,https://ipullrank.com/tools/qforia,Free,Generate query fan-out simulations for AI Mode (iPullRank).
+AI Search Visibility (GEO / AEO),Open-Source & Research,Awesome-GEO,https://github.com/DavidHuji/Awesome-GEO,Open source,Research paper list on generative engine optimization.
+AI Search Visibility (GEO / AEO),Open-Source & Research,GEO paper (Aggarwal et al.),https://arxiv.org/abs/2311.09735,Free,The original Generative Engine Optimization research.
+AI Search Visibility (GEO / AEO),Open-Source & Research,GEO/AEO Tracker,https://github.com/danishashko/geo-aeo-tracker,Open source,Open-source tracker for AI-search citations.
+AI Search Visibility (GEO / AEO),Open-Source & Research,Elmo,https://github.com/elmohq/elmo,Open source,Open-source AI visibility tracking.
+Content Marketing & Creation,AI Writing & Assistants,Claude,https://claude.ai,Freemium,"AI assistant for drafting, research, and marketing analysis."
+Content Marketing & Creation,AI Writing & Assistants,ChatGPT,https://chatgpt.com,Freemium,General-purpose AI assistant and custom GPTs.
+Content Marketing & Creation,AI Writing & Assistants,Gemini,https://gemini.google.com,Freemium,"Google's AI assistant, strong with Workspace data."
+Content Marketing & Creation,AI Writing & Assistants,Perplexity,https://www.perplexity.ai,Freemium,Answer engine with citations; great for research.
+Content Marketing & Creation,AI Writing & Assistants,NotebookLM,https://notebooklm.google.com,Free,Source-grounded research notebook that makes audio overviews.
+Content Marketing & Creation,AI Writing & Assistants,Jasper,https://www.jasper.ai,Paid,Brand-voice AI platform for marketing teams.
+Content Marketing & Creation,AI Writing & Assistants,Copy.ai,https://www.copy.ai,Freemium,AI workflows for go-to-market content.
+Content Marketing & Creation,AI Writing & Assistants,Writesonic,https://writesonic.com,Freemium,AI writing plus SEO and GEO features.
+Content Marketing & Creation,AI Writing & Assistants,Rytr,https://rytr.me,Freemium,Low-cost AI writing assistant.
+Content Marketing & Creation,AI Writing & Assistants,Anyword,https://anyword.com,Paid,Copy generation with predictive performance scoring.
+Content Marketing & Creation,AI Writing & Assistants,Lavender,https://www.lavender.ai,Freemium,Email coaching and writing assistant for sales.
+Content Marketing & Creation,AI Writing & Assistants,Typefully,https://typefully.com,Freemium,Draft and schedule X/LinkedIn threads with AI help.
+Content Marketing & Creation,Editing & Quality,Grammarly,https://www.grammarly.com,Freemium,"Grammar, tone, and clarity checks."
+Content Marketing & Creation,Editing & Quality,Hemingway Editor,https://hemingwayapp.com,Freemium,Readability and plain-language editing.
+Content Marketing & Creation,Editing & Quality,ProWritingAid,https://prowritingaid.com,Freemium,Style and long-form editing reports.
+Content Marketing & Creation,Editing & Quality,Vale,https://vale.sh,Open source,Linter for prose that enforces your style guide.
+Content Marketing & Creation,Editing & Quality,CoSchedule Headline Studio,https://coschedule.com/headline-studio,Freemium,Score and improve headlines.
+Content Marketing & Creation,Editing & Quality,Originality.ai,https://originality.ai,Paid,AI-content and plagiarism detection.
+Content Marketing & Creation,Editing & Quality,Copyscape,https://www.copyscape.com,Paid,Plagiarism checker for web content.
+Content Marketing & Creation,CMS & Blogging Platforms,WordPress,https://wordpress.org,Open source,Dominant open-source CMS.
+Content Marketing & Creation,CMS & Blogging Platforms,Ghost,https://ghost.org,Open source,Open-source publishing with memberships and newsletters built in.
+Content Marketing & Creation,CMS & Blogging Platforms,Webflow,https://webflow.com,Freemium,Visual site builder with CMS.
+Content Marketing & Creation,CMS & Blogging Platforms,Framer,https://www.framer.com,Freemium,Design-first site builder popular for landing pages.
+Content Marketing & Creation,CMS & Blogging Platforms,Squarespace,https://www.squarespace.com,Paid,All-in-one site builder.
+Content Marketing & Creation,CMS & Blogging Platforms,Contentful,https://www.contentful.com,Freemium,Headless enterprise CMS.
+Content Marketing & Creation,CMS & Blogging Platforms,Sanity,https://www.sanity.io,Freemium,Headless CMS with real-time collaboration.
+Content Marketing & Creation,CMS & Blogging Platforms,Strapi,https://strapi.io,Open source,Open-source headless CMS.
+Content Marketing & Creation,CMS & Blogging Platforms,Payload,https://payloadcms.com,Open source,Open-source TypeScript headless CMS.
+Content Marketing & Creation,CMS & Blogging Platforms,Astro,https://astro.build,Open source,Fast static-site framework for content sites.
+Content Marketing & Creation,CMS & Blogging Platforms,Hugo,https://gohugo.io,Open source,Very fast static-site generator.
+Content Marketing & Creation,CMS & Blogging Platforms,Medium,https://medium.com,Freemium,Distribution platform with built-in audience.
+Content Marketing & Creation,CMS & Blogging Platforms,Substack,https://substack.com,Freemium,Newsletter + publishing platform with discovery.
+Content Marketing & Creation,CMS & Blogging Platforms,Hashnode,https://hashnode.com,Free,Developer blogging platform.
+Content Marketing & Creation,CMS & Blogging Platforms,DEV Community,https://dev.to,Free,Developer community and blogging.
+Content Marketing & Creation,CMS & Blogging Platforms,LinkedIn Articles,https://www.linkedin.com,Free,Native long-form publishing on LinkedIn.
+Content Marketing & Creation,Content Curation & Research,Feedly,https://feedly.com,Freemium,RSS reader and market-intelligence feeds.
+Content Marketing & Creation,Content Curation & Research,BuzzSumo,https://buzzsumo.com,Paid,Top-performing content and influencer discovery.
+Content Marketing & Creation,Content Curation & Research,Readwise,https://readwise.io,Paid,Resurface highlights; great for research notes.
+Content Marketing & Creation,Content Curation & Research,Ground News,https://ground.news,Freemium,Compare media coverage across sources.
+Content Marketing & Creation,Content Curation & Research,Pinboard,https://pinboard.in,Paid,Minimalist bookmarking (Pocket replacement option).
+Content Marketing & Creation,Content Curation & Research,Raindrop.io,https://raindrop.io,Freemium,Bookmark manager (Pocket replacement option).
+Content Marketing & Creation,Design & Creative,Canva,https://www.canva.com,Freemium,"Templates for social, ads, decks, and video."
+Content Marketing & Creation,Design & Creative,Figma,https://www.figma.com,Freemium,Collaborative design for landing pages and brand assets.
+Content Marketing & Creation,Design & Creative,Adobe Express,https://www.adobe.com/express/,Freemium,Quick social graphics and video (successor to Adobe Spark).
+Content Marketing & Creation,Design & Creative,Photopea,https://www.photopea.com,Free,Free browser-based Photoshop alternative.
+Content Marketing & Creation,Design & Creative,Remove.bg,https://www.remove.bg,Freemium,One-click background removal.
+Content Marketing & Creation,Design & Creative,Midjourney,https://www.midjourney.com,Paid,AI image generation for concepts and visuals.
+Content Marketing & Creation,Design & Creative,Ideogram,https://ideogram.ai,Freemium,AI images with strong text rendering.
+Content Marketing & Creation,Design & Creative,Recraft,https://www.recraft.ai,Freemium,AI design with vector output and brand styles.
+Content Marketing & Creation,Design & Creative,Piktochart,https://piktochart.com,Freemium,Infographics and presentations.
+Content Marketing & Creation,Design & Creative,Coolors,https://coolors.co,Freemium,Color palette generator.
+Content Marketing & Creation,Design & Creative,Unsplash,https://unsplash.com,Free,Free high-quality stock photos.
+Content Marketing & Creation,Design & Creative,Pexels,https://www.pexels.com,Free,Free stock photos and videos.
+Content Marketing & Creation,Design & Creative,Noun Project,https://thenounproject.com,Freemium,Icon library.
+Content Marketing & Creation,Design & Creative,Google Fonts,https://fonts.google.com,Free,Free open-source web fonts.
+Content Marketing & Creation,Design & Creative,Shots,https://shots.so,Freemium,Beautiful device mockups.
+Content Marketing & Creation,Design & Creative,Screely,https://www.screely.com,Freemium,Browser mockups for screenshots.
+Content Marketing & Creation,"Video, Audio & Podcasts",Descript,https://www.descript.com,Freemium,Edit audio and video by editing text.
+Content Marketing & Creation,"Video, Audio & Podcasts",CapCut,https://www.capcut.com,Freemium,Short-form video editor popular for TikTok/Reels.
+Content Marketing & Creation,"Video, Audio & Podcasts",Loom,https://www.loom.com,Freemium,Quick screen-recorded videos.
+Content Marketing & Creation,"Video, Audio & Podcasts",Riverside,https://riverside.com,Freemium,Studio-quality remote recording for podcasts and video.
+Content Marketing & Creation,"Video, Audio & Podcasts",Opus Clip,https://www.opus.pro,Freemium,Turn long videos into short clips.
+Content Marketing & Creation,"Video, Audio & Podcasts",Wistia,https://wistia.com,Freemium,Marketing-focused video hosting and analytics.
+Content Marketing & Creation,"Video, Audio & Podcasts",Vidyard,https://www.vidyard.com,Freemium,Video hosting and sales video.
+Content Marketing & Creation,"Video, Audio & Podcasts",Lumen5,https://lumen5.com,Freemium,Turn articles into videos.
+Content Marketing & Creation,"Video, Audio & Podcasts",HeyGen,https://www.heygen.com,Freemium,AI avatar videos and translation.
+Content Marketing & Creation,"Video, Audio & Podcasts",Synthesia,https://www.synthesia.io,Paid,AI presenter videos.
+Content Marketing & Creation,"Video, Audio & Podcasts",ElevenLabs,https://elevenlabs.io,Freemium,Realistic AI voiceovers.
+Content Marketing & Creation,"Video, Audio & Podcasts",Transistor,https://transistor.fm,Paid,Podcast hosting with analytics.
+Content Marketing & Creation,"Video, Audio & Podcasts",Buzzsprout,https://www.buzzsprout.com,Freemium,Beginner-friendly podcast hosting.
+Content Marketing & Creation,"Video, Audio & Podcasts",Spotify for Creators,https://creators.spotify.com,Free,Free podcast hosting and distribution.
+Content Marketing & Creation,"Video, Audio & Podcasts",Auphonic,https://auphonic.com,Freemium,Automatic audio leveling and cleanup.
+Content Marketing & Creation,"Video, Audio & Podcasts",Repurpose.io,https://repurpose.io,Paid,Auto-distribute video/audio across platforms.
+Content Marketing & Creation,Content Distribution & Syndication,Taboola,https://www.taboola.com,Paid,Native content recommendation network.
+Content Marketing & Creation,Content Distribution & Syndication,Outbrain,https://www.outbrain.com,Paid,Native discovery advertising.
+Social Media Marketing,Scheduling & Management,Buffer,https://buffer.com,Freemium,"Simple scheduling, analytics, and engagement."
+Social Media Marketing,Scheduling & Management,Hootsuite,https://www.hootsuite.com,Paid,Enterprise social management and listening.
+Social Media Marketing,Scheduling & Management,Sprout Social,https://sproutsocial.com,Paid,"Publishing, social inbox, analytics, and listening."
+Social Media Marketing,Scheduling & Management,Later,https://later.com,Freemium,Visual planner strong for Instagram and TikTok.
+Social Media Marketing,Scheduling & Management,Agorapulse,https://www.agorapulse.com,Paid,"Social inbox, scheduling, and reporting."
+Social Media Marketing,Scheduling & Management,SocialBee,https://socialbee.com,Paid,Category-based evergreen scheduling.
+Social Media Marketing,Scheduling & Management,Metricool,https://metricool.com,Freemium,"Scheduling, analytics, and ads reporting in one."
+Social Media Marketing,Scheduling & Management,Publer,https://publer.com,Freemium,Affordable multi-platform scheduling.
+Social Media Marketing,Scheduling & Management,Postiz,https://postiz.com,Open source,Open-source social scheduling (self-host or cloud).
+Social Media Marketing,Scheduling & Management,Mixpost,https://mixpost.app,Open source,Self-hosted social media management.
+Social Media Marketing,Scheduling & Management,Typefully,https://typefully.com,Freemium,Best-in-class writing/scheduling for X and LinkedIn.
+Social Media Marketing,Scheduling & Management,Hypefury,https://hypefury.com,Paid,X/LinkedIn scheduling and growth automation.
+Social Media Marketing,Scheduling & Management,Taplio,https://taplio.com,Paid,"LinkedIn content, scheduling, and lead tools."
+Social Media Marketing,Scheduling & Management,Shield Analytics,https://www.shieldapp.ai,Paid,LinkedIn analytics for creators and teams.
+Social Media Marketing,Scheduling & Management,Planable,https://planable.io,Freemium,Collaborative social content approvals.
+Social Media Marketing,Scheduling & Management,Linktree,https://linktr.ee,Freemium,Link-in-bio pages.
+Social Media Marketing,Scheduling & Management,Beacons,https://beacons.ai,Freemium,Creator link-in-bio and storefront.
+Social Media Marketing,Listening & Monitoring,Brand24,https://brand24.com,Paid,Social listening and sentiment.
+Social Media Marketing,Listening & Monitoring,Mention,https://mention.com,Paid,Web and social mention monitoring.
+Social Media Marketing,Listening & Monitoring,Brandwatch,https://www.brandwatch.com,Paid,Enterprise consumer intelligence.
+Social Media Marketing,Listening & Monitoring,Talkwalker,https://www.talkwalker.com,Paid,Social listening and analytics.
+Social Media Marketing,Listening & Monitoring,Meltwater,https://www.meltwater.com,Paid,Media and social monitoring plus PR tools.
+Social Media Marketing,Listening & Monitoring,Awario,https://awario.com,Paid,Affordable social listening and lead discovery.
+Social Media Marketing,Listening & Monitoring,F5Bot,https://f5bot.com,Free,Free Reddit/HN/Lobsters keyword email alerts.
+Social Media Marketing,Listening & Monitoring,Google Alerts,https://www.google.com/alerts,Free,Free web keyword alerts.
+Social Media Marketing,Listening & Monitoring,Syften,https://syften.com,Paid,"Real-time alerts for social, forum, and Reddit mentions."
+Social Media Marketing,Listening & Monitoring,Redreach,https://redreach.ai,Paid,Find Reddit threads where your product fits.
+Social Media Marketing,Listening & Monitoring,Social Blade,https://socialblade.com,Free,"Public stats for YouTube, Twitch, and more."
+Social Media Marketing,Short-form & Community Platforms,Instagram,https://business.instagram.com,Free,Business tools and insights for Reels and Stories.
+Social Media Marketing,Short-form & Community Platforms,TikTok for Business,https://www.tiktok.com/business/,Free,"Ads, organic tools, and Creative Center."
+Social Media Marketing,Short-form & Community Platforms,YouTube Studio,https://studio.youtube.com,Free,Channel analytics and publishing.
+Social Media Marketing,Short-form & Community Platforms,LinkedIn Campaign Manager,https://www.linkedin.com/campaignmanager,Free,LinkedIn ads management.
+Social Media Marketing,Short-form & Community Platforms,Pinterest Business,https://business.pinterest.com,Free,Pinterest ads and analytics.
+Social Media Marketing,Short-form & Community Platforms,Discord,https://discord.com,Free,Real-time community platform.
+Social Media Marketing,Short-form & Community Platforms,Slack Communities Directory,https://slofile.com,Free,Directory of public Slack communities.
+Social Media Marketing,Short-form & Community Platforms,Reddit Ads,https://ads.reddit.com,Freemium,Paid placements on Reddit.
+Email & Newsletter Marketing,Email Service Providers (Marketing),Mailchimp,https://mailchimp.com,Freemium,Long-standing all-in-one email platform.
+Email & Newsletter Marketing,Email Service Providers (Marketing),Kit,https://kit.com,Freemium,Email for creators (formerly ConvertKit).
+Email & Newsletter Marketing,Email Service Providers (Marketing),MailerLite,https://www.mailerlite.com,Freemium,"Affordable, clean email and automations."
+Email & Newsletter Marketing,Email Service Providers (Marketing),Brevo,https://www.brevo.com,Freemium,"Email, SMS, and CRM (formerly Sendinblue)."
+Email & Newsletter Marketing,Email Service Providers (Marketing),ActiveCampaign,https://www.activecampaign.com,Paid,Email with deep automation and CRM.
+Email & Newsletter Marketing,Email Service Providers (Marketing),Klaviyo,https://www.klaviyo.com,Freemium,Leading ecommerce email and SMS.
+Email & Newsletter Marketing,Email Service Providers (Marketing),Drip,https://www.drip.com,Paid,Ecommerce-focused email automation.
+Email & Newsletter Marketing,Email Service Providers (Marketing),Customer.io,https://customer.io,Paid,Behavior-triggered messaging for product-led companies.
+Email & Newsletter Marketing,Email Service Providers (Marketing),Loops,https://loops.so,Freemium,"Email for SaaS: product, transactional, and campaigns."
+Email & Newsletter Marketing,Email Service Providers (Marketing),Campaign Monitor,https://www.campaignmonitor.com,Paid,Email design and automation.
+Email & Newsletter Marketing,Email Service Providers (Marketing),Constant Contact,https://www.constantcontact.com,Paid,SMB email and events marketing.
+Email & Newsletter Marketing,Email Service Providers (Marketing),GetResponse,https://www.getresponse.com,Paid,"Email, webinars, and funnels."
+Email & Newsletter Marketing,Email Service Providers (Marketing),AWeber,https://www.aweber.com,Freemium,Veteran email platform for small businesses.
+Email & Newsletter Marketing,Email Service Providers (Marketing),Moosend,https://moosend.com,Paid,Affordable email automation.
+Email & Newsletter Marketing,Email Service Providers (Marketing),EmailOctopus,https://emailoctopus.com,Freemium,Low-cost email using Amazon SES.
+Email & Newsletter Marketing,Email Service Providers (Marketing),Omnisend,https://www.omnisend.com,Freemium,Ecommerce email + SMS.
+Email & Newsletter Marketing,Email Service Providers (Marketing),Ortto,https://ortto.com,Paid,Customer-data and journey platform (formerly Autopilot).
+Email & Newsletter Marketing,Email Service Providers (Marketing),Encharge,https://encharge.io,Paid,Behavior-based email automation for SaaS.
+Email & Newsletter Marketing,Email Service Providers (Marketing),Userlist,https://userlist.com,Paid,Lifecycle email for B2B SaaS.
+Email & Newsletter Marketing,Email Service Providers (Marketing),Sequenzy,https://www.sequenzy.com,Paid,Email for SaaS with AI-assisted sequences.
+Email & Newsletter Marketing,Newsletter Platforms,beehiiv,https://www.beehiiv.com,Freemium,Newsletter platform with growth network and monetization.
+Email & Newsletter Marketing,Newsletter Platforms,Substack,https://substack.com,Freemium,Newsletter publishing with built-in discovery.
+Email & Newsletter Marketing,Newsletter Platforms,Ghost,https://ghost.org,Open source,Publishing + memberships + newsletters.
+Email & Newsletter Marketing,Newsletter Platforms,Buttondown,https://buttondown.com,Freemium,Minimal newsletter tool loved by indie writers.
+Email & Newsletter Marketing,Newsletter Platforms,Letterdrop,https://letterdrop.com,Freemium,Newsletter hosting with RSS-to-email.
+Email & Newsletter Marketing,Newsletter Platforms,Flodesk,https://flodesk.com,Paid,Design-forward email for creators.
+Email & Newsletter Marketing,Newsletter Platforms,SparkLoop,https://sparkloop.app,Freemium,Newsletter referral and recommendation growth.
+Email & Newsletter Marketing,Newsletter Platforms,Paved,https://www.paved.com,Paid,Newsletter sponsorship marketplace.
+Email & Newsletter Marketing,Newsletter Platforms,Swapstack,https://swapstack.co,Freemium,Newsletter ad and swap marketplace.
+Email & Newsletter Marketing,Newsletter Platforms,Letterlist,https://letterlist.com,Free,Directory of newsletters.
+Email & Newsletter Marketing,Open-Source & Self-Hosted,listmonk,https://listmonk.app,Open source,Self-hosted newsletter and mailing-list manager.
+Email & Newsletter Marketing,Open-Source & Self-Hosted,Mautic,https://www.mautic.org,Open source,Open-source marketing automation.
+Email & Newsletter Marketing,Open-Source & Self-Hosted,Keila,https://www.keila.io,Open source,Open-source newsletter tool.
+Email & Newsletter Marketing,Open-Source & Self-Hosted,Sendy,https://sendy.co,Paid,Self-hosted newsletter app on Amazon SES (one-time license).
+Email & Newsletter Marketing,Open-Source & Self-Hosted,Postal,https://postalserver.io,Open source,Self-hosted mail server for delivery.
+Email & Newsletter Marketing,Open-Source & Self-Hosted,Plunk,https://www.useplunk.com,Open source,Open-source email platform for developers.
+Email & Newsletter Marketing,Open-Source & Self-Hosted,MailPoet,https://www.mailpoet.com,Freemium,Email marketing for WordPress.
+Email & Newsletter Marketing,Transactional Email,Postmark,https://postmarkapp.com,Paid,Reliable transactional email with great deliverability.
+Email & Newsletter Marketing,Transactional Email,Resend,https://resend.com,Freemium,Developer-first email API.
+Email & Newsletter Marketing,Transactional Email,SendGrid,https://sendgrid.com,Freemium,High-volume email API from Twilio.
+Email & Newsletter Marketing,Transactional Email,Mailgun,https://www.mailgun.com,Freemium,Email API for developers.
+Email & Newsletter Marketing,Transactional Email,Amazon SES,https://aws.amazon.com/ses/,Paid,Cheapest bulk email delivery at scale.
+Email & Newsletter Marketing,Transactional Email,MailerSend,https://www.mailersend.com,Freemium,Transactional email by MailerLite.
+Email & Newsletter Marketing,Transactional Email,Mailtrap,https://mailtrap.io,Freemium,Email testing sandbox and sending.
+Email & Newsletter Marketing,"Design, Templates & Inspiration",Really Good Emails,https://reallygoodemails.com,Free,Gallery of email design inspiration.
+Email & Newsletter Marketing,"Design, Templates & Inspiration",Milled,https://milled.com,Free,Archive of brand marketing emails.
+Email & Newsletter Marketing,"Design, Templates & Inspiration",MJML,https://mjml.io,Open source,Responsive email markup framework.
+Email & Newsletter Marketing,"Design, Templates & Inspiration",React Email,https://react.email,Open source,Build email templates with React components.
+Email & Newsletter Marketing,"Design, Templates & Inspiration",Maizzle,https://maizzle.com,Open source,Tailwind-based HTML email framework.
+Email & Newsletter Marketing,"Design, Templates & Inspiration",Stripo,https://stripo.email,Freemium,Drag-and-drop email template builder.
+Email & Newsletter Marketing,"Design, Templates & Inspiration",Beefree,https://beefree.io,Freemium,Email editor with SDK for embedding.
+Email & Newsletter Marketing,"Design, Templates & Inspiration",Unlayer,https://unlayer.com,Freemium,Embeddable drag-and-drop email builder.
+Email & Newsletter Marketing,"Design, Templates & Inspiration",Chamaileon,https://chamaileon.io,Freemium,Collaborative email design and review.
+Email & Newsletter Marketing,"Design, Templates & Inspiration",Litmus,https://www.litmus.com,Paid,"Email previews, QA, and analytics."
+Email & Newsletter Marketing,"Design, Templates & Inspiration",Email on Acid,https://www.emailonacid.com,Paid,Email testing and previews.
+Email & Newsletter Marketing,"Design, Templates & Inspiration",Can I email,https://www.caniemail.com,Free,CSS and HTML support across email clients.
+Email & Newsletter Marketing,Deliverability & List Hygiene,Mail-Tester,https://www.mail-tester.com,Free,Spam score test for your emails.
+Email & Newsletter Marketing,Deliverability & List Hygiene,GlockApps,https://glockapps.com,Paid,Inbox placement and spam testing.
+Email & Newsletter Marketing,Deliverability & List Hygiene,Google Postmaster Tools,https://postmaster.google.com,Free,Domain reputation for Gmail senders.
+Email & Newsletter Marketing,Deliverability & List Hygiene,MXToolbox,https://mxtoolbox.com,Freemium,"DNS, blacklist, and SPF/DKIM/DMARC checks."
+Email & Newsletter Marketing,Deliverability & List Hygiene,dmarcian,https://dmarcian.com,Freemium,DMARC monitoring and reporting.
+Email & Newsletter Marketing,Deliverability & List Hygiene,Warmup Inbox,https://www.warmupinbox.com,Paid,Email warm-up for new sending domains.
+Email & Newsletter Marketing,Deliverability & List Hygiene,ZeroBounce,https://www.zerobounce.net,Freemium,Email verification and validation.
+Email & Newsletter Marketing,Deliverability & List Hygiene,NeverBounce,https://neverbounce.com,Paid,Real-time email verification.
+Email & Newsletter Marketing,Deliverability & List Hygiene,Kickbox,https://kickbox.com,Freemium,Email verification service.
+Email & Newsletter Marketing,Deliverability & List Hygiene,Bouncer,https://www.usebouncer.com,Freemium,Email verification and deliverability toolkit.
+Email & Newsletter Marketing,Deliverability & List Hygiene,Sender Score,https://senderscore.org,Free,Check your sending IP reputation.
+Email & Newsletter Marketing,Learning,Email Geeks Slack,https://email.geeks.chat,Free,Community of email professionals.
+Email & Newsletter Marketing,Learning,Litmus Blog,https://www.litmus.com/blog/,Free,Email marketing best practices.
+Marketing Automation & CRM,Marketing Automation Platforms,HubSpot,https://www.hubspot.com,Freemium,"CRM + marketing, sales, service hubs with free tier."
+Marketing Automation & CRM,Marketing Automation Platforms,Marketo Engage,https://business.adobe.com/products/marketo/adobe-marketo.html,Paid,Enterprise B2B marketing automation (Adobe).
+Marketing Automation & CRM,Marketing Automation Platforms,Salesforce Marketing Cloud Account Engagement,https://www.salesforce.com/marketing/b2b-automation/,Paid,B2B automation formerly known as Pardot.
+Marketing Automation & CRM,Marketing Automation Platforms,Eloqua,https://www.oracle.com/cx/marketing/automation/,Paid,Oracle's enterprise marketing automation.
+Marketing Automation & CRM,Marketing Automation Platforms,Zoho Marketing Automation,https://www.zoho.com/marketingautomation/,Paid,Affordable automation in the Zoho suite.
+Marketing Automation & CRM,Marketing Automation Platforms,Keap,https://keap.com,Paid,CRM and automation for small businesses (formerly Infusionsoft).
+Marketing Automation & CRM,Marketing Automation Platforms,Brevo,https://www.brevo.com,Freemium,"Email, SMS, WhatsApp, and CRM in one."
+Marketing Automation & CRM,Marketing Automation Platforms,Mautic,https://www.mautic.org,Open source,Open-source marketing automation platform.
+Marketing Automation & CRM,Marketing Automation Platforms,Dittofeed,https://www.dittofeed.com,Open source,Open-source customer-engagement platform.
+Marketing Automation & CRM,Marketing Automation Platforms,Listmonk,https://listmonk.app,Open source,Lightweight self-hosted campaign manager.
+Marketing Automation & CRM,Marketing Automation Platforms,Hightouch,https://hightouch.com,Paid,Reverse ETL that syncs warehouse data to marketing tools.
+Marketing Automation & CRM,Marketing Automation Platforms,Census,https://www.getcensus.com,Paid,Reverse ETL for activating warehouse data.
+Marketing Automation & CRM,CRM,HubSpot CRM,https://www.hubspot.com/products/crm,Freemium,Generous free CRM used by many startups.
+Marketing Automation & CRM,CRM,Salesforce,https://www.salesforce.com,Paid,Enterprise CRM standard.
+Marketing Automation & CRM,CRM,Pipedrive,https://www.pipedrive.com,Paid,Sales-pipeline-focused CRM.
+Marketing Automation & CRM,CRM,Zoho CRM,https://www.zoho.com/crm/,Freemium,"Flexible, affordable CRM."
+Marketing Automation & CRM,CRM,Attio,https://attio.com,Freemium,"Modern, customizable CRM built on a data model."
+Marketing Automation & CRM,CRM,Folk,https://www.folk.app,Freemium,Lightweight CRM for relationships.
+Marketing Automation & CRM,CRM,Close,https://www.close.com,Paid,CRM with built-in calling and email for sales teams.
+Marketing Automation & CRM,CRM,Freshsales,https://www.freshworks.com/crm/sales/,Freemium,"CRM with phone, email, and AI scoring."
+Marketing Automation & CRM,CRM,Copper,https://www.copper.com,Paid,CRM that integrates natively with Google Workspace.
+Marketing Automation & CRM,CRM,Twenty,https://twenty.com,Open source,Open-source CRM.
+Marketing Automation & CRM,CRM,Monica,https://www.monicahq.com,Open source,Open-source personal relationship CRM.
+Marketing Automation & CRM,CRM,EspoCRM,https://www.espocrm.com,Open source,Open-source CRM.
+Marketing Automation & CRM,CRM,SuiteCRM,https://suitecrm.com,Open source,Open-source CRM.
+Marketing Automation & CRM,Integration & Workflow Automation,Zapier,https://zapier.com,Freemium,The most popular app-to-app automation platform.
+Marketing Automation & CRM,Integration & Workflow Automation,Make,https://www.make.com,Freemium,Visual automation builder (formerly Integromat).
+Marketing Automation & CRM,Integration & Workflow Automation,n8n,https://n8n.io,Open source,"Open-source, self-hostable workflow automation with AI nodes."
+Marketing Automation & CRM,Integration & Workflow Automation,Activepieces,https://www.activepieces.com,Open source,Open-source Zapier alternative.
+Marketing Automation & CRM,Integration & Workflow Automation,Pipedream,https://pipedream.com,Freemium,Code-friendly workflow automation.
+Marketing Automation & CRM,Integration & Workflow Automation,IFTTT,https://ifttt.com,Freemium,Simple consumer-grade triggers and actions.
+Marketing Automation & CRM,Integration & Workflow Automation,Workato,https://www.workato.com,Paid,Enterprise integration and automation.
+Marketing Automation & CRM,Integration & Workflow Automation,Tray.ai,https://tray.ai,Paid,Enterprise automation and AI agents.
+Marketing Automation & CRM,Integration & Workflow Automation,Clay,https://www.clay.com,Paid,Data enrichment and outbound workflows from 100+ sources.
+Marketing Automation & CRM,"Chat, Support & Engagement",Intercom,https://www.intercom.com,Paid,"Messenger, support, and AI agent (Fin)."
+Marketing Automation & CRM,"Chat, Support & Engagement",Drift,https://www.drift.com,Paid,Conversational marketing (now Salesloft).
+Marketing Automation & CRM,"Chat, Support & Engagement",Crisp,https://crisp.chat,Freemium,Affordable chat and support inbox.
+Marketing Automation & CRM,"Chat, Support & Engagement",Tidio,https://www.tidio.com,Freemium,Chat and AI bots for SMBs.
+Marketing Automation & CRM,"Chat, Support & Engagement",Zendesk,https://www.zendesk.com,Paid,Customer service platform.
+Marketing Automation & CRM,"Chat, Support & Engagement",Freshdesk,https://freshdesk.com,Freemium,Helpdesk with generous free plan.
+Marketing Automation & CRM,"Chat, Support & Engagement",Help Scout,https://www.helpscout.com,Paid,Customer support inbox and help center.
+Marketing Automation & CRM,"Chat, Support & Engagement",Chatwoot,https://www.chatwoot.com,Open source,Open-source customer engagement suite.
+Marketing Automation & CRM,"Chat, Support & Engagement",Typebot,https://typebot.io,Open source,Open-source conversational forms and chatbots.
+Marketing Automation & CRM,"Chat, Support & Engagement",ManyChat,https://manychat.com,Freemium,Instagram/WhatsApp/Messenger automation.
+"Lead Generation, Prospecting & Outbound",Data & Enrichment,Apollo,https://www.apollo.io,Freemium,B2B contact database plus sequences.
+"Lead Generation, Prospecting & Outbound",Data & Enrichment,ZoomInfo,https://www.zoominfo.com,Paid,Enterprise B2B data and intent.
+"Lead Generation, Prospecting & Outbound",Data & Enrichment,Cognism,https://www.cognism.com,Paid,Compliant B2B contact data (strong in EMEA).
+"Lead Generation, Prospecting & Outbound",Data & Enrichment,Lusha,https://www.lusha.com,Freemium,Contact data and browser extension.
+"Lead Generation, Prospecting & Outbound",Data & Enrichment,UpLead,https://www.uplead.com,Paid,B2B data with verification.
+"Lead Generation, Prospecting & Outbound",Data & Enrichment,Clearbit / Breeze Intelligence,https://www.hubspot.com/artificial-intelligence,Paid,Enrichment now inside HubSpot.
+"Lead Generation, Prospecting & Outbound",Data & Enrichment,People Data Labs,https://www.peopledatalabs.com,Paid,Enrichment API for people and companies.
+"Lead Generation, Prospecting & Outbound",Data & Enrichment,Prospeo,https://prospeo.io,Freemium,Email finder and verification.
+"Lead Generation, Prospecting & Outbound",Data & Enrichment,Findymail,https://www.findymail.com,Paid,Verified email finder.
+"Lead Generation, Prospecting & Outbound",Data & Enrichment,Dropcontact,https://www.dropcontact.com,Paid,GDPR-compliant enrichment.
+"Lead Generation, Prospecting & Outbound",Data & Enrichment,Wiza,https://wiza.co,Freemium,Export LinkedIn leads with verified emails.
+"Lead Generation, Prospecting & Outbound",Data & Enrichment,Hunter,https://hunter.io,Freemium,Domain search and email verification.
+"Lead Generation, Prospecting & Outbound",Data & Enrichment,Snov.io,https://snov.io,Freemium,Lead finder plus drip campaigns.
+"Lead Generation, Prospecting & Outbound",Data & Enrichment,LinkedIn Sales Navigator,https://business.linkedin.com/sales-solutions/sales-navigator,Paid,Advanced LinkedIn prospecting.
+"Lead Generation, Prospecting & Outbound",Data & Enrichment,Crunchbase,https://www.crunchbase.com,Freemium,Company and funding lead lists.
+"Lead Generation, Prospecting & Outbound",Data & Enrichment,Common Room,https://www.commonroom.io,Paid,Community and signal-based prospecting.
+"Lead Generation, Prospecting & Outbound",Data & Enrichment,RB2B,https://www.rb2b.com,Freemium,Identify anonymous US website visitors.
+"Lead Generation, Prospecting & Outbound",Data & Enrichment,Koala,https://getkoala.com,Paid,Intent signals for B2B sites.
+"Lead Generation, Prospecting & Outbound",Cold Email & Sequencing,Instantly,https://instantly.ai,Paid,High-volume cold email with warm-up.
+"Lead Generation, Prospecting & Outbound",Cold Email & Sequencing,Smartlead,https://www.smartlead.ai,Paid,Cold email at scale with inbox rotation.
+"Lead Generation, Prospecting & Outbound",Cold Email & Sequencing,Lemlist,https://www.lemlist.com,Paid,Personalized multichannel outreach.
+"Lead Generation, Prospecting & Outbound",Cold Email & Sequencing,Woodpecker,https://woodpecker.co,Paid,Cold email with follow-ups and deliverability tools.
+"Lead Generation, Prospecting & Outbound",Cold Email & Sequencing,Reply.io,https://reply.io,Paid,Multichannel sales engagement.
+"Lead Generation, Prospecting & Outbound",Cold Email & Sequencing,Outreach,https://www.outreach.io,Paid,Enterprise sales engagement.
+"Lead Generation, Prospecting & Outbound",Cold Email & Sequencing,Salesloft,https://www.salesloft.com,Paid,Sales engagement and conversation intelligence.
+"Lead Generation, Prospecting & Outbound",Cold Email & Sequencing,Mailshake,https://mailshake.com,Paid,Simple cold-email and phone outreach.
+"Lead Generation, Prospecting & Outbound",Cold Email & Sequencing,GMass,https://www.gmass.co,Freemium,Mail merge and campaigns from Gmail.
+"Lead Generation, Prospecting & Outbound",Cold Email & Sequencing,Saleshandy,https://www.saleshandy.com,Paid,Cold email with unlimited accounts.
+"Lead Generation, Prospecting & Outbound",Cold Email & Sequencing,Mailforge,https://www.mailforge.ai,Paid,Provision cold-email domains and inboxes.
+"Lead Generation, Prospecting & Outbound",Cold Email & Sequencing,La Growth Machine,https://lagrowthmachine.com,Paid,Multichannel (LinkedIn + email + X) prospecting.
+"Lead Generation, Prospecting & Outbound",Cold Email & Sequencing,Expandi,https://expandi.io,Paid,LinkedIn outreach automation.
+"Lead Generation, Prospecting & Outbound",Cold Email & Sequencing,HeyReach,https://www.heyreach.io,Paid,LinkedIn outreach at scale across accounts.
+"Lead Generation, Prospecting & Outbound",Lead Capture,OptinMonster,https://optinmonster.com,Paid,Popups and on-site lead capture.
+"Lead Generation, Prospecting & Outbound",Lead Capture,Sleeknote,https://sleeknote.com,Paid,Popups and on-site messages for ecommerce.
+"Lead Generation, Prospecting & Outbound",Lead Capture,Poptin,https://www.poptin.com,Freemium,Popups and forms.
+"Lead Generation, Prospecting & Outbound",Lead Capture,Typeform,https://www.typeform.com,Freemium,Interactive forms for lead qualification.
+"Lead Generation, Prospecting & Outbound",Lead Capture,Tally,https://tally.so,Freemium,Free form builder with unlimited submissions.
+"Lead Generation, Prospecting & Outbound",Lead Capture,Calendly,https://calendly.com,Freemium,Scheduling links for lead conversion.
+"Lead Generation, Prospecting & Outbound",Lead Capture,Cal.com,https://cal.com,Open source,Open-source scheduling.
+"Lead Generation, Prospecting & Outbound",Lead Capture,SavvyCal,https://savvycal.com,Paid,Scheduling with better UX and booking attribution.
+"Lead Generation, Prospecting & Outbound",Lead Capture,Leadfeeder,https://www.leadfeeder.com,Paid,See which companies visit your site.
+"Lead Generation, Prospecting & Outbound",Lead Capture,Hellobar,https://www.hellobar.com,Freemium,Banners and popups for list building.
+"Lead Generation, Prospecting & Outbound",Lead Magnets & Calculators,Outgrow,https://outgrow.co,Paid,Interactive calculators and quizzes.
+"Lead Generation, Prospecting & Outbound",Lead Magnets & Calculators,Involve.me,https://www.involve.me,Freemium,"Quizzes, calculators, and funnels."
+"Lead Generation, Prospecting & Outbound",Lead Magnets & Calculators,Riddle,https://www.riddle.com,Freemium,Quizzes and polls.
+"Lead Generation, Prospecting & Outbound",Lead Magnets & Calculators,Interact,https://www.tryinteract.com,Freemium,Quiz funnels for lead generation.
+Paid Advertising & Media Buying,Ad Platforms,Google Ads,https://ads.google.com,Paid,"Search, Shopping, YouTube, and Performance Max."
+Paid Advertising & Media Buying,Ad Platforms,Meta Ads Manager,https://www.facebook.com/adsmanager,Paid,"Facebook, Instagram, and Threads ads."
+Paid Advertising & Media Buying,Ad Platforms,LinkedIn Ads,https://business.linkedin.com/marketing-solutions/ads,Paid,"B2B targeting by job, industry, and company."
+Paid Advertising & Media Buying,Ad Platforms,Microsoft Advertising,https://ads.microsoft.com,Paid,"Bing, Copilot, and partner network ads."
+Paid Advertising & Media Buying,Ad Platforms,TikTok Ads,https://ads.tiktok.com,Paid,Short-video ads with strong CPMs.
+Paid Advertising & Media Buying,Ad Platforms,X Ads,https://ads.x.com,Paid,Promoted posts and conversation targeting.
+Paid Advertising & Media Buying,Ad Platforms,Reddit Ads,https://ads.reddit.com,Paid,Community-targeted ads.
+Paid Advertising & Media Buying,Ad Platforms,Pinterest Ads,https://ads.pinterest.com,Paid,Visual discovery ads.
+Paid Advertising & Media Buying,Ad Platforms,Snap Ads,https://forbusiness.snapchat.com,Paid,Snapchat advertising.
+Paid Advertising & Media Buying,Ad Platforms,Amazon Ads,https://advertising.amazon.com,Paid,Sponsored products and DSP.
+Paid Advertising & Media Buying,Ad Platforms,Apple Search Ads,https://searchads.apple.com,Paid,App Store search ads.
+Paid Advertising & Media Buying,Ad Platforms,Google Merchant Center,https://merchants.google.com,Free,Product feeds for Shopping ads.
+Paid Advertising & Media Buying,Ad Management & Optimization,Optmyzr,https://www.optmyzr.com,Paid,PPC optimization and scripts.
+Paid Advertising & Media Buying,Ad Management & Optimization,Adalysis,https://adalysis.com,Paid,PPC testing and audits.
+Paid Advertising & Media Buying,Ad Management & Optimization,WordStream,https://www.wordstream.com,Paid,PPC management and the 20-Minute Work Week.
+Paid Advertising & Media Buying,Ad Management & Optimization,Madgicx,https://madgicx.com,Paid,Meta ads optimization with AI.
+Paid Advertising & Media Buying,Ad Management & Optimization,Bïrch,https://bir.ch,Paid,Meta/Google/TikTok automation rules (formerly Revealbot).
+Paid Advertising & Media Buying,Ad Management & Optimization,Smartly.io,https://www.smartly.io,Paid,Enterprise social ad automation.
+Paid Advertising & Media Buying,Ad Management & Optimization,Albert.ai,https://albert.ai,Paid,Autonomous digital advertising.
+Paid Advertising & Media Buying,Ad Management & Optimization,Supermetrics,https://supermetrics.com,Paid,"Pull ad data into Sheets, Looker Studio, and warehouses."
+Paid Advertising & Media Buying,Ad Management & Optimization,Funnel.io,https://funnel.io,Paid,Marketing data hub for ad spend reporting.
+Paid Advertising & Media Buying,Ad Management & Optimization,Northbeam,https://www.northbeam.io,Paid,Ecommerce attribution for paid media.
+Paid Advertising & Media Buying,Ad Management & Optimization,Triple Whale,https://www.triplewhale.com,Paid,Shopify-first analytics and attribution.
+Paid Advertising & Media Buying,Creative & Ad Intelligence,AdCreative.ai,https://www.adcreative.ai,Paid,Generate ad creatives and predict performance.
+Paid Advertising & Media Buying,Creative & Ad Intelligence,Pencil,https://trypencil.com,Paid,AI ad creative generation and prediction.
+Paid Advertising & Media Buying,Creative & Ad Intelligence,Motion,https://motionapp.com,Paid,Creative analytics for paid social.
+Paid Advertising & Media Buying,Creative & Ad Intelligence,Segwise,https://segwise.ai,Paid,Creative tagging and analysis.
+Paid Advertising & Media Buying,Creative & Ad Intelligence,Minea,https://www.minea.com,Paid,Ad spy tool for social ads.
+Paid Advertising & Media Buying,Creative & Ad Intelligence,BigSpy,https://bigspy.com,Freemium,Ad spy across platforms.
+Paid Advertising & Media Buying,Creative & Ad Intelligence,Foreplay,https://www.foreplay.co,Paid,Swipe file and creative briefs.
+Paid Advertising & Media Buying,Creative & Ad Intelligence,Meta Ad Library,https://www.facebook.com/ads/library/,Free,See any active ad on Meta.
+Paid Advertising & Media Buying,Programmatic & Native,The Trade Desk,https://www.thetradedesk.com,Paid,Independent demand-side platform.
+Paid Advertising & Media Buying,Programmatic & Native,DV360,https://marketingplatform.google.com/about/display-video-360/,Paid,Google's programmatic buying platform.
+Paid Advertising & Media Buying,Programmatic & Native,Criteo,https://www.criteo.com,Paid,Retargeting and commerce media.
+Paid Advertising & Media Buying,Programmatic & Native,AdRoll,https://www.adroll.com,Paid,Retargeting and cross-channel ads for SMBs.
+Paid Advertising & Media Buying,Programmatic & Native,Taboola,https://www.taboola.com,Paid,Native advertising.
+Paid Advertising & Media Buying,Programmatic & Native,Outbrain,https://www.outbrain.com,Paid,Native advertising.
+Paid Advertising & Media Buying,Programmatic & Native,Nativo,https://www.nativo.com,Paid,Native ad platform.
+Paid Advertising & Media Buying,Keywords & Bid Tools,Google Ads Editor,https://ads.google.com/home/tools/ads-editor/,Free,Bulk-edit Google Ads campaigns offline.
+Paid Advertising & Media Buying,Keywords & Bid Tools,Google Ads Scripts,https://developers.google.com/google-ads/scripts,Free,Automate Google Ads with JavaScript.
+"Affiliate, Referral & Partnerships",Affiliate Networks & Software,Impact,https://impact.com,Paid,"Partnership automation across affiliates, creators, and partners."
+"Affiliate, Referral & Partnerships",Affiliate Networks & Software,PartnerStack,https://partnerstack.com,Paid,Partner programs for SaaS.
+"Affiliate, Referral & Partnerships",Affiliate Networks & Software,Rewardful,https://www.rewardful.com,Paid,Affiliate and referral tracking for Stripe businesses.
+"Affiliate, Referral & Partnerships",Affiliate Networks & Software,FirstPromoter,https://firstpromoter.com,Paid,SaaS affiliate tracking.
+"Affiliate, Referral & Partnerships",Affiliate Networks & Software,Tolt,https://tolt.com,Paid,Affiliate tracking for SaaS on Stripe/Paddle.
+"Affiliate, Referral & Partnerships",Affiliate Networks & Software,Tapfiliate,https://tapfiliate.com,Paid,Affiliate tracking software.
+"Affiliate, Referral & Partnerships",Affiliate Networks & Software,Refersion,https://www.refersion.com,Paid,Ecommerce affiliate and influencer tracking.
+"Affiliate, Referral & Partnerships",Affiliate Networks & Software,CJ Affiliate,https://www.cj.com,Paid,Large affiliate network.
+"Affiliate, Referral & Partnerships",Affiliate Networks & Software,ShareASale,https://www.shareasale.com,Paid,Affiliate network (now Awin).
+"Affiliate, Referral & Partnerships",Affiliate Networks & Software,Awin,https://www.awin.com,Paid,Global affiliate network.
+"Affiliate, Referral & Partnerships",Affiliate Networks & Software,Rakuten Advertising,https://rakutenadvertising.com,Paid,Affiliate and performance marketing network.
+"Affiliate, Referral & Partnerships",Affiliate Networks & Software,Everflow,https://everflow.io,Paid,Partner and performance tracking platform.
+"Affiliate, Referral & Partnerships",Affiliate Networks & Software,Post Affiliate Pro,https://www.postaffiliatepro.com,Paid,Self-hosted or cloud affiliate software.
+"Affiliate, Referral & Partnerships",Referral & Loyalty,ReferralCandy,https://www.referralcandy.com,Paid,Ecommerce referral programs.
+"Affiliate, Referral & Partnerships",Referral & Loyalty,Viral Loops,https://viral-loops.com,Paid,Referral and viral campaign templates.
+"Affiliate, Referral & Partnerships",Referral & Loyalty,Mention Me,https://www.mention-me.com,Paid,Enterprise referral marketing.
+"Affiliate, Referral & Partnerships",Referral & Loyalty,Friendbuy,https://www.friendbuy.com,Paid,Referral and loyalty for ecommerce.
+"Affiliate, Referral & Partnerships",Referral & Loyalty,Smile.io,https://smile.io,Freemium,Loyalty and rewards for Shopify.
+"Affiliate, Referral & Partnerships",Referral & Loyalty,LoyaltyLion,https://loyaltylion.com,Paid,Loyalty and referral program platform.
+"Affiliate, Referral & Partnerships",Referral & Loyalty,Yotpo,https://www.yotpo.com,Freemium,"Reviews, loyalty, and referrals."
+Influencer & Creator Marketing,,Aspire,https://www.aspire.io,Paid,Influencer and creator marketing platform (formerly AspireIQ).
+Influencer & Creator Marketing,,Upfluence,https://www.upfluence.com,Paid,Influencer search and management.
+Influencer & Creator Marketing,,GRIN,https://grin.co,Paid,Creator management for ecommerce.
+Influencer & Creator Marketing,,CreatorIQ,https://www.creatoriq.com,Paid,Enterprise influencer marketing.
+Influencer & Creator Marketing,,Traackr,https://www.traackr.com,Paid,Influencer discovery and measurement.
+Influencer & Creator Marketing,,Modash,https://www.modash.io,Paid,Search 250M+ influencer profiles with audience data.
+Influencer & Creator Marketing,,HypeAuditor,https://hypeauditor.com,Paid,Influencer analytics and fraud detection.
+Influencer & Creator Marketing,,Heepsy,https://www.heepsy.com,Freemium,Influencer discovery and analytics.
+Influencer & Creator Marketing,,Collabstr,https://collabstr.com,Freemium,Marketplace for UGC creators and influencers.
+Influencer & Creator Marketing,,Insense,https://insense.pro,Paid,UGC and influencer marketplace for brands.
+Influencer & Creator Marketing,,Billo,https://billo.app,Paid,Quick UGC video ads from creators.
+Influencer & Creator Marketing,,Passionfroot,https://www.passionfroot.xyz,Freemium,B2B creator and newsletter sponsorship marketplace.
+Influencer & Creator Marketing,,Patreon,https://www.patreon.com,Freemium,Membership platform for creators.
+Influencer & Creator Marketing,,Gumroad,https://gumroad.com,Freemium,Sell digital products directly.
+Influencer & Creator Marketing,,Beehiiv Ad Network,https://www.beehiiv.com/ad-network,Freemium,Sponsor or monetize newsletters.
+"Analytics, Attribution & Reporting",Web Analytics,Google Analytics 4,https://analytics.google.com,Free,The default web analytics tool.
+"Analytics, Attribution & Reporting",Web Analytics,Plausible,https://plausible.io,Open source,Privacy-first lightweight analytics (cloud or self-host).
+"Analytics, Attribution & Reporting",Web Analytics,Fathom,https://usefathom.com,Paid,Simple privacy-first analytics.
+"Analytics, Attribution & Reporting",Web Analytics,Umami,https://umami.is,Open source,"Open-source, privacy-focused analytics."
+"Analytics, Attribution & Reporting",Web Analytics,Matomo,https://matomo.org,Open source,Full open-source GA alternative (formerly Piwik).
+"Analytics, Attribution & Reporting",Web Analytics,PostHog,https://posthog.com,Open source,"Product analytics, session replay, flags, and A/B tests in one."
+"Analytics, Attribution & Reporting",Web Analytics,Simple Analytics,https://www.simpleanalytics.com,Paid,Privacy-friendly analytics.
+"Analytics, Attribution & Reporting",Web Analytics,Pirsch,https://pirsch.io,Paid,Cookie-free analytics.
+"Analytics, Attribution & Reporting",Web Analytics,Cloudflare Web Analytics,https://www.cloudflare.com/web-analytics/,Free,"Free, privacy-first analytics."
+"Analytics, Attribution & Reporting",Web Analytics,GoatCounter,https://www.goatcounter.com,Open source,Minimal open-source analytics.
+"Analytics, Attribution & Reporting",Web Analytics,Piwik PRO,https://piwik.pro,Freemium,Enterprise analytics suite with consent management.
+"Analytics, Attribution & Reporting",Web Analytics,Adobe Analytics,https://business.adobe.com/products/analytics/adobe-analytics.html,Paid,Enterprise web analytics.
+"Analytics, Attribution & Reporting",Product Analytics,Mixpanel,https://mixpanel.com,Freemium,Event-based product analytics.
+"Analytics, Attribution & Reporting",Product Analytics,Amplitude,https://amplitude.com,Freemium,Product analytics with experimentation.
+"Analytics, Attribution & Reporting",Product Analytics,Heap,https://www.heap.io,Paid,Autocapture-based product analytics (Contentsquare).
+"Analytics, Attribution & Reporting",Product Analytics,June,https://www.june.so,Paid,Product analytics for B2B SaaS.
+"Analytics, Attribution & Reporting",Product Analytics,Statsig,https://statsig.com,Freemium,"Feature flags, experiments, and analytics."
+"Analytics, Attribution & Reporting",Product Analytics,GrowthBook,https://www.growthbook.io,Open source,Open-source feature flags and experimentation.
+"Analytics, Attribution & Reporting",Product Analytics,Pendo,https://www.pendo.io,Paid,Product analytics and in-app guides.
+"Analytics, Attribution & Reporting",Tag Management & Customer Data,Google Tag Manager,https://tagmanager.google.com,Free,Manage tags without code deploys.
+"Analytics, Attribution & Reporting",Tag Management & Customer Data,Server-side GTM,https://developers.google.com/tag-platform/tag-manager/server-side,Free,First-party tagging and data control.
+"Analytics, Attribution & Reporting",Tag Management & Customer Data,Segment,https://segment.com,Freemium,Customer data platform from Twilio.
+"Analytics, Attribution & Reporting",Tag Management & Customer Data,RudderStack,https://www.rudderstack.com,Freemium,"Warehouse-first, open-core CDP."
+"Analytics, Attribution & Reporting",Tag Management & Customer Data,Jitsu,https://jitsu.com,Open source,Open-source event collection.
+"Analytics, Attribution & Reporting",Tag Management & Customer Data,Snowplow,https://snowplow.io,Open source,Behavioral data collection and CDP.
+"Analytics, Attribution & Reporting",Tag Management & Customer Data,Stape,https://stape.io,Paid,Server-side tagging hosting.
+"Analytics, Attribution & Reporting",Tag Management & Customer Data,Elevar,https://www.getelevar.com,Paid,Server-side tracking for Shopify.
+"Analytics, Attribution & Reporting",Tag Management & Customer Data,Cookiebot,https://www.cookiebot.com,Freemium,Consent management platform.
+"Analytics, Attribution & Reporting",Tag Management & Customer Data,Usercentrics,https://usercentrics.com,Freemium,Consent management platform.
+"Analytics, Attribution & Reporting",Tag Management & Customer Data,Cookie Information,https://cookieinformation.com,Paid,Consent management platform.
+"Analytics, Attribution & Reporting","Heatmaps, Session Replay & UX",Hotjar,https://www.hotjar.com,Freemium,"Heatmaps, recordings, and surveys."
+"Analytics, Attribution & Reporting","Heatmaps, Session Replay & UX",Microsoft Clarity,https://clarity.microsoft.com,Free,Free heatmaps and session recordings.
+"Analytics, Attribution & Reporting","Heatmaps, Session Replay & UX",Crazy Egg,https://www.crazyegg.com,Paid,Heatmaps and A/B testing.
+"Analytics, Attribution & Reporting","Heatmaps, Session Replay & UX",FullStory,https://www.fullstory.com,Paid,Digital experience analytics.
+"Analytics, Attribution & Reporting","Heatmaps, Session Replay & UX",LogRocket,https://logrocket.com,Freemium,Session replay for web apps.
+"Analytics, Attribution & Reporting","Heatmaps, Session Replay & UX",Lucky Orange,https://www.luckyorange.com,Freemium,"Heatmaps, recordings, and chat."
+"Analytics, Attribution & Reporting","Heatmaps, Session Replay & UX",Smartlook,https://www.smartlook.com,Freemium,Session recording and funnels.
+"Analytics, Attribution & Reporting","Heatmaps, Session Replay & UX",Contentsquare,https://contentsquare.com,Paid,Enterprise digital experience analytics.
+"Analytics, Attribution & Reporting",Attribution & Measurement,Triple Whale,https://www.triplewhale.com,Paid,Ecommerce attribution and analytics.
+"Analytics, Attribution & Reporting",Attribution & Measurement,Northbeam,https://www.northbeam.io,Paid,Multi-touch attribution for ecommerce.
+"Analytics, Attribution & Reporting",Attribution & Measurement,Rockerbox,https://www.rockerbox.com,Paid,Multi-touch attribution and MMM.
+"Analytics, Attribution & Reporting",Attribution & Measurement,Dreamdata,https://dreamdata.io,Paid,B2B revenue attribution.
+"Analytics, Attribution & Reporting",Attribution & Measurement,HockeyStack,https://www.hockeystack.com,Paid,B2B revenue analytics.
+"Analytics, Attribution & Reporting",Attribution & Measurement,Hyros,https://hyros.com,Paid,Call and ad tracking attribution.
+"Analytics, Attribution & Reporting",Attribution & Measurement,Wicked Reports,https://www.wickedreports.com,Paid,Attribution for ecommerce and lead gen.
+"Analytics, Attribution & Reporting",Attribution & Measurement,UTM.io,https://utm.io,Paid,UTM governance for teams.
+"Analytics, Attribution & Reporting",Attribution & Measurement,Google Campaign URL Builder,https://ga-dev-tools.google/campaign-url-builder/,Free,Build UTM-tagged URLs.
+"Analytics, Attribution & Reporting",Attribution & Measurement,Bitly,https://bitly.com,Freemium,Short links and click analytics.
+"Analytics, Attribution & Reporting",Attribution & Measurement,Short.io,https://short.io,Freemium,Branded short links.
+"Analytics, Attribution & Reporting",Marketing Mix Modeling & Incrementality (Open Source),Meridian,https://github.com/google/meridian,Open source,Google's Bayesian marketing mix model.
+"Analytics, Attribution & Reporting",Marketing Mix Modeling & Incrementality (Open Source),Robyn,https://github.com/facebookexperimental/Robyn,Open source,Meta's automated MMM in R.
+"Analytics, Attribution & Reporting",Marketing Mix Modeling & Incrementality (Open Source),PyMC-Marketing,https://github.com/pymc-labs/pymc-marketing,Open source,Bayesian MMM and customer lifetime value in Python.
+"Analytics, Attribution & Reporting",Marketing Mix Modeling & Incrementality (Open Source),LightweightMMM,https://github.com/google/lightweight_mmm,Open source,Google's earlier MMM library.
+"Analytics, Attribution & Reporting",Marketing Mix Modeling & Incrementality (Open Source),GeoLift,https://github.com/facebookincubator/GeoLift,Open source,Meta's geo-experiment incrementality tool.
+"Analytics, Attribution & Reporting",Marketing Mix Modeling & Incrementality (Open Source),CausalImpact,https://github.com/google/CausalImpact,Open source,Measure the causal effect of a campaign over time.
+"Analytics, Attribution & Reporting",Marketing Mix Modeling & Incrementality (Open Source),Awesome Marketing Science,https://github.com/shakostats/Awesome-Marketing-Science,Open source,"Curated MMM, attribution, and incrementality resources."
+"Analytics, Attribution & Reporting",Dashboards & Reporting,Looker Studio,https://lookerstudio.google.com,Free,Free dashboards (formerly Data Studio).
+"Analytics, Attribution & Reporting",Dashboards & Reporting,Databox,https://databox.com,Freemium,KPI dashboards from many marketing tools.
+"Analytics, Attribution & Reporting",Dashboards & Reporting,AgencyAnalytics,https://agencyanalytics.com,Paid,White-label client reporting.
+"Analytics, Attribution & Reporting",Dashboards & Reporting,DashThis,https://dashthis.com,Paid,Automated marketing reports.
+"Analytics, Attribution & Reporting",Dashboards & Reporting,Klipfolio,https://www.klipfolio.com,Paid,Metrics dashboards.
+"Analytics, Attribution & Reporting",Dashboards & Reporting,Supermetrics,https://supermetrics.com,Paid,Marketing data connectors.
+"Analytics, Attribution & Reporting",Dashboards & Reporting,Windsor.ai,https://windsor.ai,Freemium,Connect marketing data to dashboards and warehouses.
+"Analytics, Attribution & Reporting",Dashboards & Reporting,Funnel.io,https://funnel.io,Paid,Marketing data hub.
+"Analytics, Attribution & Reporting",Dashboards & Reporting,Metabase,https://www.metabase.com,Open source,Open-source BI for teams.
+"Analytics, Attribution & Reporting",Dashboards & Reporting,Looker,https://cloud.google.com/looker,Paid,Enterprise BI.
+"Analytics, Attribution & Reporting",Dashboards & Reporting,Tableau,https://www.tableau.com,Paid,Enterprise data visualization.
+"Analytics, Attribution & Reporting",Dashboards & Reporting,Power BI,https://powerbi.microsoft.com,Freemium,Microsoft's BI platform.
+"Analytics, Attribution & Reporting",Dashboards & Reporting,Mode,https://mode.com,Paid,SQL-based analytics.
+"Analytics, Attribution & Reporting",Dashboards & Reporting,Hex,https://hex.tech,Freemium,Collaborative data notebooks.
+"Analytics, Attribution & Reporting",Dashboards & Reporting,Julius AI,https://julius.ai,Freemium,Chat with spreadsheets and datasets.
+"Analytics, Attribution & Reporting",Revenue Metrics (SaaS),Baremetrics,https://baremetrics.com,Paid,Stripe-based SaaS metrics.
+"Analytics, Attribution & Reporting",Revenue Metrics (SaaS),ChartMogul,https://chartmogul.com,Freemium,Subscription analytics.
+"Analytics, Attribution & Reporting",Revenue Metrics (SaaS),ProfitWell Metrics (Paddle),https://www.paddle.com/profitwell-metrics,Free,Free subscription metrics from Paddle.
+"Analytics, Attribution & Reporting",Revenue Metrics (SaaS),Stripe Sigma,https://stripe.com/sigma,Paid,SQL on your Stripe data.
+Conversion Rate Optimization & Experimentation,A/B Testing & Personalization,Optimizely,https://www.optimizely.com,Paid,Enterprise experimentation and CMS.
+Conversion Rate Optimization & Experimentation,A/B Testing & Personalization,VWO,https://vwo.com,Paid,"A/B testing, heatmaps, and personalization."
+Conversion Rate Optimization & Experimentation,A/B Testing & Personalization,AB Tasty,https://www.abtasty.com,Paid,Experimentation and personalization.
+Conversion Rate Optimization & Experimentation,A/B Testing & Personalization,Convert,https://www.convert.com,Paid,Privacy-focused A/B testing.
+Conversion Rate Optimization & Experimentation,A/B Testing & Personalization,Statsig,https://statsig.com,Freemium,Experimentation with feature flags.
+Conversion Rate Optimization & Experimentation,A/B Testing & Personalization,GrowthBook,https://www.growthbook.io,Open source,Open-source experimentation platform.
+Conversion Rate Optimization & Experimentation,A/B Testing & Personalization,PostHog Experiments,https://posthog.com/experiments,Open source,A/B tests inside your analytics.
+Conversion Rate Optimization & Experimentation,A/B Testing & Personalization,Kirro,https://www.kirro.io,Paid,Simple A/B testing for small sites.
+Conversion Rate Optimization & Experimentation,A/B Testing & Personalization,Mutiny,https://www.mutinyhq.com,Paid,B2B website personalization.
+Conversion Rate Optimization & Experimentation,A/B Testing & Personalization,Dynamic Yield,https://www.dynamicyield.com,Paid,Enterprise personalization.
+Conversion Rate Optimization & Experimentation,A/B Testing & Personalization,Evan Miller's A/B Calculators,https://www.evanmiller.org/ab-testing/,Free,Sample size and significance calculators.
+Conversion Rate Optimization & Experimentation,A/B Testing & Personalization,CXL Calculators,https://cxl.com/ab-test-calculator/,Free,A/B test significance calculator.
+Conversion Rate Optimization & Experimentation,A/B Testing & Personalization,Speero,https://speero.com,Paid,CRO consultancy and frameworks.
+Conversion Rate Optimization & Experimentation,Landing Page Builders,Unbounce,https://unbounce.com,Paid,Landing pages with AI optimization.
+Conversion Rate Optimization & Experimentation,Landing Page Builders,Instapage,https://instapage.com,Paid,Enterprise landing pages.
+Conversion Rate Optimization & Experimentation,Landing Page Builders,Leadpages,https://www.leadpages.com,Paid,Landing pages and popups for SMBs.
+Conversion Rate Optimization & Experimentation,Landing Page Builders,Carrd,https://carrd.co,Freemium,Cheap single-page sites.
+Conversion Rate Optimization & Experimentation,Landing Page Builders,Framer,https://www.framer.com,Freemium,Design-quality landing pages.
+Conversion Rate Optimization & Experimentation,Landing Page Builders,Webflow,https://webflow.com,Freemium,Visual builder with CMS.
+Conversion Rate Optimization & Experimentation,Landing Page Builders,Landingi,https://landingi.com,Paid,Landing pages and funnels.
+Conversion Rate Optimization & Experimentation,Landing Page Builders,Replo,https://replo.app,Paid,Shopify landing page builder.
+Conversion Rate Optimization & Experimentation,Landing Page Builders,Unicorn Platform,https://unicornplatform.com,Paid,Landing pages for startups.
+Conversion Rate Optimization & Experimentation,Landing Page Builders,Super,https://super.so,Paid,Notion-powered websites.
+Conversion Rate Optimization & Experimentation,Landing Page Builders,Lovable,https://lovable.dev,Freemium,AI app and landing-page builder.
+Conversion Rate Optimization & Experimentation,Landing Page Builders,v0,https://v0.dev,Freemium,AI-generated UI from Vercel.
+Conversion Rate Optimization & Experimentation,Landing Page Builders,Bolt,https://bolt.new,Freemium,AI full-stack app builder in the browser.
+Conversion Rate Optimization & Experimentation,Funnels & Checkout,ClickFunnels,https://www.clickfunnels.com,Paid,Sales funnels and course sales.
+Conversion Rate Optimization & Experimentation,Funnels & Checkout,Kajabi,https://kajabi.com,Paid,"Courses, memberships, and funnels."
+Conversion Rate Optimization & Experimentation,Funnels & Checkout,Systeme.io,https://systeme.io,Freemium,"All-in-one funnel, email, and course tool."
+Conversion Rate Optimization & Experimentation,Funnels & Checkout,Stripe Checkout,https://stripe.com/payments/checkout,Paid,Hosted checkout pages.
+Conversion Rate Optimization & Experimentation,Funnels & Checkout,Paddle,https://www.paddle.com,Paid,Merchant of record for SaaS.
+Conversion Rate Optimization & Experimentation,Funnels & Checkout,Lemon Squeezy,https://www.lemonsqueezy.com,Paid,Merchant of record for digital products.
+Conversion Rate Optimization & Experimentation,Funnels & Checkout,Polar,https://polar.sh,Open source,Open-source merchant of record for developers.
+Conversion Rate Optimization & Experimentation,Popups & On-Site Messaging,OptinMonster,https://optinmonster.com,Paid,Popups and exit-intent offers.
+Conversion Rate Optimization & Experimentation,Popups & On-Site Messaging,Privy,https://www.privy.com,Freemium,Popups and email for ecommerce.
+Conversion Rate Optimization & Experimentation,Popups & On-Site Messaging,Justuno,https://www.justuno.com,Paid,Onsite conversion and merchandising.
+Conversion Rate Optimization & Experimentation,Popups & On-Site Messaging,ConvertBox,https://convertbox.com,Paid,Smart on-site messages.
+Conversion Rate Optimization & Experimentation,Popups & On-Site Messaging,Wisepops,https://wisepops.com,Freemium,Popups and notifications.
+Conversion Rate Optimization & Experimentation,Popups & On-Site Messaging,Proof (UseProof),https://www.useproof.com,Paid,Social proof notifications.
+Conversion Rate Optimization & Experimentation,Popups & On-Site Messaging,Senja,https://senja.io,Freemium,Collect and display testimonials.
+Conversion Rate Optimization & Experimentation,Popups & On-Site Messaging,Testimonial.to,https://testimonial.to,Freemium,Video and text testimonial collection.
+Conversion Rate Optimization & Experimentation,Forms,Tally,https://tally.so,Freemium,Free forms.
+Conversion Rate Optimization & Experimentation,Forms,Fillout,https://www.fillout.com,Freemium,Forms with logic and integrations.
+Conversion Rate Optimization & Experimentation,Forms,Jotform,https://www.jotform.com,Freemium,Form builder.
+Conversion Rate Optimization & Experimentation,Forms,Formspree,https://formspree.io,Freemium,Form backends for static sites.
+Conversion Rate Optimization & Experimentation,Forms,Basin,https://usebasin.com,Freemium,Form endpoint service.
+Conversion Rate Optimization & Experimentation,Forms,Formbricks,https://formbricks.com,Open source,Open-source surveys and forms.
+"Website, SEO-Friendly Hosting & No-Code",,Vercel,https://vercel.com,Freemium,Frontend hosting with fast global edge network.
+"Website, SEO-Friendly Hosting & No-Code",,Netlify,https://www.netlify.com,Freemium,Static hosting and forms.
+"Website, SEO-Friendly Hosting & No-Code",,Cloudflare Pages,https://pages.cloudflare.com,Freemium,Free static hosting at the edge.
+"Website, SEO-Friendly Hosting & No-Code",,Bubble,https://bubble.io,Freemium,No-code web app builder.
+"Website, SEO-Friendly Hosting & No-Code",,Glide,https://www.glideapps.com,Freemium,Apps from spreadsheets.
+"Website, SEO-Friendly Hosting & No-Code",,Softr,https://www.softr.io,Freemium,Portals and apps on Airtable/Sheets.
+"Website, SEO-Friendly Hosting & No-Code",,Zapier Interfaces / Tables,https://zapier.com/interfaces,Freemium,Simple apps and databases with automation.
+"Website, SEO-Friendly Hosting & No-Code",,Notion Sites,https://www.notion.com/product/sites,Freemium,Publish Notion pages as websites.
+"Website, SEO-Friendly Hosting & No-Code",,Cursor,https://cursor.com,Freemium,AI code editor for shipping marketing sites/tools faster.
+"Website, SEO-Friendly Hosting & No-Code",,Claude Code,https://claude.com/product/claude-code,Paid,Terminal AI coding agent; build marketing tools and automations.
+"PR, Brand & Reputation",PR & Media Outreach,Muck Rack,https://muckrack.com,Paid,Journalist database and PR monitoring.
+"PR, Brand & Reputation",PR & Media Outreach,Cision,https://www.cision.com,Paid,PR newswire and media database.
+"PR, Brand & Reputation",PR & Media Outreach,Prezly,https://www.prezly.com,Paid,PR CRM and newsroom.
+"PR, Brand & Reputation",PR & Media Outreach,Notified,https://www.notified.com,Paid,Newswire and IR/PR tools.
+"PR, Brand & Reputation",PR & Media Outreach,PR Newswire,https://www.prnewswire.com,Paid,Press-release distribution.
+"PR, Brand & Reputation",PR & Media Outreach,Business Wire,https://www.businesswire.com,Paid,Press-release distribution.
+"PR, Brand & Reputation",PR & Media Outreach,EIN Presswire,https://www.einpresswire.com,Paid,Low-cost press-release distribution.
+"PR, Brand & Reputation",PR & Media Outreach,Qwoted,https://www.qwoted.com,Freemium,Journalist-source matching.
+"PR, Brand & Reputation",PR & Media Outreach,Featured,https://featured.com,Freemium,Expert quote opportunities.
+"PR, Brand & Reputation",PR & Media Outreach,Help a B2B Writer,https://helpab2bwriter.com,Free,Free journalist queries for B2B experts.
+"PR, Brand & Reputation",PR & Media Outreach,Terkel,https://terkel.io,Freemium,Expert quote requests from publishers.
+"PR, Brand & Reputation",PR & Media Outreach,Podchaser,https://www.podchaser.com,Freemium,Podcast database for guest pitching.
+"PR, Brand & Reputation",PR & Media Outreach,Listen Notes,https://www.listennotes.com,Freemium,Podcast search engine.
+"PR, Brand & Reputation",PR & Media Outreach,Rephonic,https://rephonic.com,Paid,Podcast database for guest outreach.
+"PR, Brand & Reputation",Reputation & Reviews,Trustpilot,https://www.trustpilot.com,Freemium,Consumer review platform.
+"PR, Brand & Reputation",Reputation & Reviews,G2,https://www.g2.com,Freemium,B2B software review marketplace.
+"PR, Brand & Reputation",Reputation & Reviews,Capterra,https://www.capterra.com,Freemium,Software reviews and lead gen.
+"PR, Brand & Reputation",Reputation & Reviews,TrustRadius,https://www.trustradius.com,Paid,B2B tech review platform.
+"PR, Brand & Reputation",Reputation & Reviews,Podium,https://www.podium.com,Paid,Local business messaging and reviews.
+"PR, Brand & Reputation",Reputation & Reviews,Birdeye,https://birdeye.com,Paid,Reviews and local listings management.
+"PR, Brand & Reputation",Reputation & Reviews,Reputology,https://www.reputology.com,Paid,Review monitoring.
+"PR, Brand & Reputation",Reputation & Reviews,Yotpo,https://www.yotpo.com,Freemium,Reviews and loyalty.
+"PR, Brand & Reputation",Reputation & Reviews,Judge.me,https://judge.me,Freemium,Shopify product reviews.
+"PR, Brand & Reputation",Brand Management & Assets,Brandfolder,https://brandfolder.com,Paid,Digital asset management.
+"PR, Brand & Reputation",Brand Management & Assets,Bynder,https://www.bynder.com,Paid,Enterprise DAM.
+"PR, Brand & Reputation",Brand Management & Assets,Frontify,https://www.frontify.com,Paid,Brand guidelines and DAM.
+"PR, Brand & Reputation",Brand Management & Assets,Namelix,https://namelix.com,Free,AI business name and logo generator.
+"PR, Brand & Reputation",Brand Management & Assets,Namecheap,https://www.namecheap.com,Paid,Domain registration.
+"PR, Brand & Reputation",Brand Management & Assets,Instant Domain Search,https://instantdomainsearch.com,Free,Fast domain availability search.
+"PR, Brand & Reputation",Brand Management & Assets,Brand Guidelines Gallery,https://brandguidelines.net,Free,Examples of brand books for inspiration.
+"Community, Events & Webinars",Community Platforms,Discord,https://discord.com,Free,Real-time community chat.
+"Community, Events & Webinars",Community Platforms,Slack,https://slack.com,Freemium,Workspace chat for private communities.
+"Community, Events & Webinars",Community Platforms,Circle,https://circle.so,Paid,"Community, courses, and events."
+"Community, Events & Webinars",Community Platforms,Discourse,https://www.discourse.org,Open source,Open-source forum platform.
+"Community, Events & Webinars",Community Platforms,Skool,https://www.skool.com,Paid,Community plus classroom platform.
+"Community, Events & Webinars",Community Platforms,Mighty Networks,https://www.mightynetworks.com,Paid,Branded communities and courses.
+"Community, Events & Webinars",Community Platforms,Common Room,https://www.commonroom.io,Paid,Community and signal intelligence.
+"Community, Events & Webinars",Community Platforms,Commsor,https://www.commsor.com,Paid,Community-led growth platform.
+"Community, Events & Webinars",Community Platforms,Reddit,https://www.reddit.com,Free,Subreddits for community and listening.
+"Community, Events & Webinars",Community Platforms,Hacker News,https://news.ycombinator.com,Free,Technical audience for launches and discussions.
+"Community, Events & Webinars",Community Platforms,Indie Hackers,https://www.indiehackers.com,Free,Community for bootstrapped founders.
+"Community, Events & Webinars",Webinars & Virtual Events,Zoom Webinars,https://zoom.us/webinar,Paid,Mainstream webinar hosting.
+"Community, Events & Webinars",Webinars & Virtual Events,Riverside,https://riverside.com,Freemium,Studio-quality recording and live streaming.
+"Community, Events & Webinars",Webinars & Virtual Events,StreamYard,https://streamyard.com,Freemium,Browser-based live streaming studio.
+"Community, Events & Webinars",Webinars & Virtual Events,Demio,https://demio.com,Paid,Marketing-focused webinar platform.
+"Community, Events & Webinars",Webinars & Virtual Events,WebinarJam,https://webinarjam.com,Paid,Live webinars for lead gen.
+"Community, Events & Webinars",Webinars & Virtual Events,EverWebinar,https://everwebinar.com,Paid,Evergreen automated webinars.
+"Community, Events & Webinars",Webinars & Virtual Events,Livestorm,https://livestorm.co,Freemium,"Webinars, events, and engagement."
+"Community, Events & Webinars",In-Person Events,Eventbrite,https://www.eventbrite.com,Freemium,Ticketing and event pages.
+"Community, Events & Webinars",In-Person Events,Luma,https://lu.ma,Freemium,Beautiful event pages and RSVPs.
+"Community, Events & Webinars",In-Person Events,Meetup,https://www.meetup.com,Paid,Local community events.
+"Community, Events & Webinars",In-Person Events,Sessionize,https://sessionize.com,Freemium,Call-for-papers management.
+"Community, Events & Webinars",In-Person Events,Bizzabo,https://www.bizzabo.com,Paid,Enterprise event platform.
+"Community, Events & Webinars",In-Person Events,Cvent,https://www.cvent.com,Paid,Event management and lead capture.
+"Launch, Directories & Distribution",Launch Platforms,Product Hunt,https://www.producthunt.com,Free,The main launch platform for new products.
+"Launch, Directories & Distribution",Launch Platforms,Hacker News (Show HN),https://news.ycombinator.com/showhn.html,Free,Show HN launches for technical audiences.
+"Launch, Directories & Distribution",Launch Platforms,BetaList,https://betalist.com,Freemium,Early-stage startup directory.
+"Launch, Directories & Distribution",Launch Platforms,Uneed,https://www.uneed.best,Freemium,Launch platform for indie products.
+"Launch, Directories & Distribution",Launch Platforms,Peerlist,https://peerlist.io,Free,Professional network with Launchpad.
+"Launch, Directories & Distribution",Launch Platforms,MicroLaunch,https://microlaunch.net,Freemium,Indie launch platform.
+"Launch, Directories & Distribution",Launch Platforms,Launching Next,https://www.launchingnext.com,Freemium,Startup discovery list.
+"Launch, Directories & Distribution",Launch Platforms,Indie Hackers,https://www.indiehackers.com,Free,Share milestones and launches.
+"Launch, Directories & Distribution",Launch Platforms,Tiny Startups,https://www.tinystartups.com,Freemium,Showcase for small startups.
+"Launch, Directories & Distribution",Launch Platforms,Fazier,https://fazier.com,Freemium,Launch platform and directory.
+"Launch, Directories & Distribution",Launch Platforms,Startup Stash,https://startupstash.com,Freemium,Directory of startup tools and resources.
+"Launch, Directories & Distribution",Software & Review Directories,G2,https://www.g2.com,Freemium,Largest B2B software review site.
+"Launch, Directories & Distribution",Software & Review Directories,Capterra,https://www.capterra.com,Freemium,Software discovery and reviews.
+"Launch, Directories & Distribution",Software & Review Directories,GetApp,https://www.getapp.com,Freemium,Software discovery (Gartner Digital Markets).
+"Launch, Directories & Distribution",Software & Review Directories,Software Advice,https://www.softwareadvice.com,Freemium,Software discovery (Gartner Digital Markets).
+"Launch, Directories & Distribution",Software & Review Directories,TrustRadius,https://www.trustradius.com,Paid,B2B reviews.
+"Launch, Directories & Distribution",Software & Review Directories,AlternativeTo,https://alternativeto.net,Free,Alternative software discovery.
+"Launch, Directories & Distribution",Software & Review Directories,SaaSHub,https://www.saashub.com,Free,Software alternatives and comparisons.
+"Launch, Directories & Distribution",Software & Review Directories,Slant,https://www.slant.co,Free,Recommendation engine for tools.
+"Launch, Directories & Distribution",Software & Review Directories,Crozdesk,https://crozdesk.com,Freemium,Software discovery.
+"Launch, Directories & Distribution",AI & Agent Directories,There's An AI For That,https://theresanaiforthat.com,Freemium,Largest AI tool directory.
+"Launch, Directories & Distribution",AI & Agent Directories,Futurepedia,https://www.futurepedia.io,Freemium,AI tools directory.
+"Launch, Directories & Distribution",AI & Agent Directories,Toolify,https://www.toolify.ai,Freemium,AI tools directory.
+"Launch, Directories & Distribution",AI & Agent Directories,Future Tools,https://www.futuretools.io,Freemium,Matt Wolfe's AI tool directory.
+"Launch, Directories & Distribution",AI & Agent Directories,Product Hunt AI,https://www.producthunt.com/topics/artificial-intelligence,Free,AI launches on PH.
+"Launch, Directories & Distribution",AI & Agent Directories,MCP Registry,https://registry.modelcontextprotocol.io,Free,Official registry of MCP servers.
+"Launch, Directories & Distribution",AI & Agent Directories,Smithery,https://smithery.ai,Freemium,MCP server marketplace.
+"Launch, Directories & Distribution",AI & Agent Directories,Glama,https://glama.ai/mcp/servers,Free,MCP server directory.
+"Launch, Directories & Distribution",Deal & Lifetime-Deal Platforms,AppSumo,https://appsumo.com,Paid,Lifetime deals to reach early adopters.
+"Launch, Directories & Distribution",Deal & Lifetime-Deal Platforms,PitchGround,https://pitchground.com,Paid,Lifetime deals marketplace.
+"Launch, Directories & Distribution",Deal & Lifetime-Deal Platforms,Stacksocial,https://www.stacksocial.com,Paid,Software deals marketplace.
+"Launch, Directories & Distribution",Directory Submission Aids,Directory lists — awesome-saas-directories,https://github.com/mahseema/awesome-saas-directories,Open source,Community list of SaaS launch directories.
+"Launch, Directories & Distribution",Directory Submission Aids,Directory lists — awesome-launch-directories,https://github.com/0xvibly/awesome-launch-directories,Open source,List of places to launch with costs and rules.
+"Launch, Directories & Distribution",Directory Submission Aids,Dub,https://dub.co,Open source,Short links and link analytics for launch campaigns.
+"Launch, Directories & Distribution",Directory Submission Aids,Open Graph Preview,https://www.opengraph.xyz,Free,Preview social cards before launching.
+"Launch, Directories & Distribution",Directory Submission Aids,OG Image Generators (Vercel OG),https://vercel.com/docs/og-image-generation,Free,Programmatic social preview images.
+Developer & Technical Marketing,,Mintlify,https://mintlify.com,Freemium,Beautiful API docs (also SEO/AI-friendly).
+Developer & Technical Marketing,,ReadMe,https://readme.com,Paid,Interactive API documentation.
+Developer & Technical Marketing,,Docusaurus,https://docusaurus.io,Open source,Open-source docs framework.
+Developer & Technical Marketing,,GitBook,https://www.gitbook.com,Freemium,Docs and knowledge-base publishing.
+Developer & Technical Marketing,,Postman,https://www.postman.com,Freemium,API platform used in dev-rel demos.
+Developer & Technical Marketing,,Swagger,https://swagger.io,Open source,OpenAPI tooling.
+Developer & Technical Marketing,,DevRel.net,https://devrel.net,Free,Developer relations resources.
+Developer & Technical Marketing,,Draft.dev,https://draft.dev,Paid,Technical content writing for developer audiences.
+Developer & Technical Marketing,,Sessionize,https://sessionize.com,Freemium,Manage conference talk submissions.
+Developer & Technical Marketing,,Hashnode,https://hashnode.com,Free,Developer blog platform.
+Developer & Technical Marketing,,DEV Community,https://dev.to,Free,Developer community and blogging.
+Developer & Technical Marketing,,Hacker Noon,https://hackernoon.com,Freemium,Tech publishing platform.
+Developer & Technical Marketing,,freeCodeCamp,https://www.freecodecamp.org,Free,Large developer audience and publication.
+Developer & Technical Marketing,,GitHub Sponsors,https://github.com/sponsors,Free,Monetize open-source work.
+Developer & Technical Marketing,,Open Source Guides,https://opensource.guide,Free,How to run and market open-source projects.
+Developer & Technical Marketing,,EveryDeveloper,https://www.everydeveloper.com,Free,Developer marketing and DevRel community.
+Developer & Technical Marketing,,Markepear,https://www.markepear.dev,Free,Developer-marketing teardowns and guides.
+Developer & Technical Marketing,,Developer Marketing Guide,https://www.devmarketingguide.com,Free,Guide to marketing to developers.
+Developer & Technical Marketing,,Scarf,https://about.scarf.sh,Freemium,Analytics for open-source usage and community.
+Developer & Technical Marketing,,Common Room,https://www.commonroom.io,Paid,"Track developer signals across GitHub, Discord, and more."
+Developer & Technical Marketing,,Reo.dev,https://www.reo.dev,Paid,Developer-intent signals for dev-tool GTM.
+Ecommerce & Retention Marketing,Platforms & Storefronts,Shopify,https://www.shopify.com,Paid,Leading ecommerce platform with huge app ecosystem.
+Ecommerce & Retention Marketing,Platforms & Storefronts,WooCommerce,https://woocommerce.com,Open source,Open-source commerce on WordPress.
+Ecommerce & Retention Marketing,Platforms & Storefronts,BigCommerce,https://www.bigcommerce.com,Paid,SaaS ecommerce platform.
+Ecommerce & Retention Marketing,Platforms & Storefronts,Medusa,https://medusajs.com,Open source,Open-source headless commerce.
+Ecommerce & Retention Marketing,Platforms & Storefronts,Gumroad,https://gumroad.com,Freemium,Sell digital products simply.
+Ecommerce & Retention Marketing,"Retention, SMS & Reviews",Klaviyo,https://www.klaviyo.com,Freemium,Email + SMS built for ecommerce.
+Ecommerce & Retention Marketing,"Retention, SMS & Reviews",Postscript,https://postscript.io,Paid,SMS marketing for Shopify.
+Ecommerce & Retention Marketing,"Retention, SMS & Reviews",Attentive,https://www.attentive.com,Paid,SMS and email personalization.
+Ecommerce & Retention Marketing,"Retention, SMS & Reviews",Yotpo,https://www.yotpo.com,Freemium,"Reviews, loyalty, and SMS."
+Ecommerce & Retention Marketing,"Retention, SMS & Reviews",Okendo,https://www.okendo.io,Paid,Reviews and UGC for Shopify.
+Ecommerce & Retention Marketing,"Retention, SMS & Reviews",Loop Returns,https://www.loopreturns.com,Paid,Returns that drive exchanges.
+Ecommerce & Retention Marketing,"Retention, SMS & Reviews",Recharge,https://rechargepayments.com,Paid,Subscription payments for ecommerce.
+Ecommerce & Retention Marketing,"Retention, SMS & Reviews",Gorgias,https://www.gorgias.com,Paid,Ecommerce helpdesk.
+Ecommerce & Retention Marketing,"Retention, SMS & Reviews",Judge.me,https://judge.me,Freemium,Affordable product reviews.
+Ecommerce & Retention Marketing,Product Feeds & Marketplaces,DataFeedWatch,https://www.datafeedwatch.com,Paid,Product feed management.
+Ecommerce & Retention Marketing,Product Feeds & Marketplaces,Feedonomics,https://feedonomics.com,Paid,Enterprise feed optimization.
+Ecommerce & Retention Marketing,Product Feeds & Marketplaces,Helium 10,https://www.helium10.com,Paid,Amazon seller research and SEO.
+Ecommerce & Retention Marketing,Product Feeds & Marketplaces,Jungle Scout,https://www.junglescout.com,Paid,Amazon product research.
+"Pricing, Churn & Lifecycle",Pricing & Monetization,Stripe,https://stripe.com,Paid,Payments infrastructure and billing.
+"Pricing, Churn & Lifecycle",Pricing & Monetization,Paddle,https://www.paddle.com,Paid,Merchant of record and billing for SaaS.
+"Pricing, Churn & Lifecycle",Pricing & Monetization,Lemon Squeezy,https://www.lemonsqueezy.com,Paid,Merchant of record for digital products.
+"Pricing, Churn & Lifecycle",Pricing & Monetization,Orb,https://www.withorb.com,Paid,Usage-based billing.
+"Pricing, Churn & Lifecycle",Pricing & Monetization,Chargebee,https://www.chargebee.com,Paid,Subscription billing and revenue ops.
+"Pricing, Churn & Lifecycle",Pricing & Monetization,Recurly,https://recurly.com,Paid,Subscription management.
+"Pricing, Churn & Lifecycle",Pricing & Monetization,Superwall,https://superwall.com,Freemium,Paywall testing for mobile apps.
+"Pricing, Churn & Lifecycle",Pricing & Monetization,RevenueCat,https://www.revenuecat.com,Freemium,In-app subscriptions infrastructure.
+"Pricing, Churn & Lifecycle","Onboarding, Retention & Churn",Userflow,https://www.userflow.com,Paid,In-app onboarding flows and checklists.
+"Pricing, Churn & Lifecycle","Onboarding, Retention & Churn",Appcues,https://www.appcues.com,Paid,In-app onboarding and announcements.
+"Pricing, Churn & Lifecycle","Onboarding, Retention & Churn",Chameleon,https://www.chameleon.io,Paid,Product tours and in-app messaging.
+"Pricing, Churn & Lifecycle","Onboarding, Retention & Churn",UserGuiding,https://userguiding.com,Paid,No-code onboarding guides.
+"Pricing, Churn & Lifecycle","Onboarding, Retention & Churn",Churnkey,https://churnkey.co,Paid,Cancel flows and dunning.
+"Pricing, Churn & Lifecycle","Onboarding, Retention & Churn",ProsperStack,https://prosperstack.com,Paid,Cancellation flows and retention offers.
+"Pricing, Churn & Lifecycle","Onboarding, Retention & Churn",Baremetrics Recover,https://baremetrics.com/recover,Paid,Failed-payment recovery.
+"Pricing, Churn & Lifecycle","Onboarding, Retention & Churn",Stunning,https://stunning.co,Paid,Dunning emails for Stripe.
+"Pricing, Churn & Lifecycle","Onboarding, Retention & Churn",Gainsight,https://www.gainsight.com,Paid,Customer success platform.
+"Pricing, Churn & Lifecycle","Onboarding, Retention & Churn",Vitally,https://www.vitally.io,Paid,Customer success platform for B2B SaaS.
+"Pricing, Churn & Lifecycle","Onboarding, Retention & Churn",Planhat,https://www.planhat.com,Paid,Customer platform for retention and growth.
+"Pricing, Churn & Lifecycle","Onboarding, Retention & Churn",Canny,https://canny.io,Freemium,Feature requests and roadmap.
+"Pricing, Churn & Lifecycle","Onboarding, Retention & Churn",Headway,https://headwayapp.co,Freemium,Changelog widgets for product updates.
+"Pricing, Churn & Lifecycle","Onboarding, Retention & Churn",Beamer,https://www.getbeamer.com,Freemium,Changelogs and announcements.
+Sales Enablement & Revenue Operations,,Highspot,https://www.highspot.com,Paid,Sales enablement content and coaching.
+Sales Enablement & Revenue Operations,,Seismic,https://seismic.com,Paid,Enterprise sales enablement.
+Sales Enablement & Revenue Operations,,Showpad,https://www.showpad.com,Paid,Sales content and coaching.
+Sales Enablement & Revenue Operations,,Gong,https://www.gong.io,Paid,Revenue intelligence.
+Sales Enablement & Revenue Operations,,Chorus,https://www.zoominfo.com/products/chorus,Paid,Conversation intelligence.
+Sales Enablement & Revenue Operations,,Pitch,https://pitch.com,Freemium,Collaborative decks.
+Sales Enablement & Revenue Operations,,Gamma,https://gamma.app,Freemium,AI presentations and microsites.
+Sales Enablement & Revenue Operations,,PandaDoc,https://www.pandadoc.com,Paid,Proposals and e-signatures.
+Sales Enablement & Revenue Operations,,DocSend,https://www.docsend.com,Paid,Share and track documents.
+Sales Enablement & Revenue Operations,,Loom,https://www.loom.com,Freemium,Async video for sales and onboarding.
+Sales Enablement & Revenue Operations,,Clari,https://www.clari.com,Paid,Revenue forecasting platform.
+Sales Enablement & Revenue Operations,,Metadata.io,https://metadata.io,Paid,B2B demand-gen automation.
+Sales Enablement & Revenue Operations,,6sense,https://6sense.com,Paid,ABM and intent data.
+Sales Enablement & Revenue Operations,,Demandbase,https://www.demandbase.com,Paid,ABM platform.
+Sales Enablement & Revenue Operations,,Bombora,https://bombora.com,Paid,B2B intent data.
+Sales Enablement & Revenue Operations,,Warmly,https://www.warmly.ai,Freemium,Website visitor identification and outreach.
+"Learning: Blogs, Newsletters, Podcasts, Books, Courses",Blogs & Publications,Search Engine Land,https://searchengineland.com,Free,Authoritative SEO/SEM news.
+"Learning: Blogs, Newsletters, Podcasts, Books, Courses",Blogs & Publications,Search Engine Journal,https://www.searchenginejournal.com,Free,SEO and digital marketing news.
+"Learning: Blogs, Newsletters, Podcasts, Books, Courses",Blogs & Publications,Search Engine Roundtable,https://www.seroundtable.com,Free,Daily SEO news by Barry Schwartz.
+"Learning: Blogs, Newsletters, Podcasts, Books, Courses",Blogs & Publications,Ahrefs Blog,https://ahrefs.com/blog/,Free,In-depth SEO and content guides.
+"Learning: Blogs, Newsletters, Podcasts, Books, Courses",Blogs & Publications,Backlinko,https://backlinko.com,Free,SEO strategy by Brian Dean.
+"Learning: Blogs, Newsletters, Podcasts, Books, Courses",Blogs & Publications,Moz Blog,https://moz.com/blog,Free,SEO education.
+"Learning: Blogs, Newsletters, Podcasts, Books, Courses",Blogs & Publications,HubSpot Marketing Blog,https://blog.hubspot.com/marketing,Free,Broad marketing guides and stats.
+"Learning: Blogs, Newsletters, Podcasts, Books, Courses",Blogs & Publications,Content Marketing Institute,https://contentmarketinginstitute.com,Free,Content marketing strategy.
+"Learning: Blogs, Newsletters, Podcasts, Books, Courses",Blogs & Publications,Marketing Week,https://www.marketingweek.com,Freemium,UK marketing industry news.
+"Learning: Blogs, Newsletters, Podcasts, Books, Courses",Blogs & Publications,Ad Age,https://adage.com,Freemium,Advertising industry news.
+"Learning: Blogs, Newsletters, Podcasts, Books, Courses",Blogs & Publications,Adweek,https://www.adweek.com,Freemium,Advertising and brand news.
+"Learning: Blogs, Newsletters, Podcasts, Books, Courses",Blogs & Publications,Marketing Brew,https://www.marketingbrew.com,Free,Daily marketing news newsletter.
+"Learning: Blogs, Newsletters, Podcasts, Books, Courses",Blogs & Publications,Growth Unhinged,https://www.growthunhinged.com,Freemium,Growth tactics by Kyle Poyar.
+"Learning: Blogs, Newsletters, Podcasts, Books, Courses",Blogs & Publications,Lenny's Newsletter,https://www.lennysnewsletter.com,Freemium,Product and growth insights.
+"Learning: Blogs, Newsletters, Podcasts, Books, Courses",Blogs & Publications,Demand Curve Blog,https://www.demandcurve.com/blog,Free,Startup growth marketing guides.
+"Learning: Blogs, Newsletters, Podcasts, Books, Courses",Blogs & Publications,Reforge Blog,https://www.reforge.com/blog,Free,Growth and product frameworks.
+"Learning: Blogs, Newsletters, Podcasts, Books, Courses",Blogs & Publications,CXL Blog,https://cxl.com/blog/,Free,CRO and analytics research.
+"Learning: Blogs, Newsletters, Podcasts, Books, Courses",Blogs & Publications,Copyhackers,https://copyhackers.com,Freemium,Conversion copywriting resources.
+"Learning: Blogs, Newsletters, Podcasts, Books, Courses",Blogs & Publications,First Round Review,https://review.firstround.com,Free,Startup operator advice.
+"Learning: Blogs, Newsletters, Podcasts, Books, Courses",Blogs & Publications,Y Combinator Library,https://www.ycombinator.com/library,Free,Startup advice including growth and marketing.
+"Learning: Blogs, Newsletters, Podcasts, Books, Courses",Newsletters,The Marketing Newsletter,https://www.themarketingnewsletter.org,Free,Weekly marketing news and tools.
+"Learning: Blogs, Newsletters, Podcasts, Books, Courses",Newsletters,SEOFOMO,https://seofomo.co,Free,Weekly SEO newsletter by Aleyda Solis.
+"Learning: Blogs, Newsletters, Podcasts, Books, Courses",Newsletters,Marketing Examples,https://marketingexamples.com,Freemium,Real-world marketing case studies.
+"Learning: Blogs, Newsletters, Podcasts, Books, Courses",Newsletters,Morning Brew,https://www.morningbrew.com,Free,Daily business news.
+"Learning: Blogs, Newsletters, Podcasts, Books, Courses",Newsletters,Search Engine Land Newsletter,https://searchengineland.com/newsletters,Free,SEO and PPC daily brief.
+"Learning: Blogs, Newsletters, Podcasts, Books, Courses",Newsletters,Indie Hackers Newsletter,https://www.indiehackers.com/newsletter,Free,Stories from bootstrapped founders.
+"Learning: Blogs, Newsletters, Podcasts, Books, Courses",Newsletters,Growth Memo,https://www.growth-memo.com,Freemium,SEO strategy by Kevin Indig.
+"Learning: Blogs, Newsletters, Podcasts, Books, Courses",Newsletters,Marketing Against the Grain,https://blog.hubspot.com/marketing/podcast,Free,HubSpot's marketing strategy podcast.
+"Learning: Blogs, Newsletters, Podcasts, Books, Courses",Newsletters,awesome-newsletters,https://github.com/zudochkin/awesome-newsletters,Open source,Huge curated list of newsletters.
+"Learning: Blogs, Newsletters, Podcasts, Books, Courses",Podcasts,Marketing Over Coffee,https://marketingovercoffee.com,Free,Weekly marketing podcast.
+"Learning: Blogs, Newsletters, Podcasts, Books, Courses",Podcasts,My First Million,https://www.mfmpod.com,Free,Business ideas and marketing tactics.
+"Learning: Blogs, Newsletters, Podcasts, Books, Courses",Podcasts,Lenny's Podcast,https://www.lennyspodcast.com,Free,Product and growth interviews.
+"Learning: Blogs, Newsletters, Podcasts, Books, Courses",Podcasts,Acquired,https://www.acquired.fm,Free,Deep dives on company strategy.
+"Learning: Blogs, Newsletters, Podcasts, Books, Courses",Podcasts,The SaaS Podcast,https://saasclub.io,Free,SaaS growth interviews.
+"Learning: Blogs, Newsletters, Podcasts, Books, Courses",Books,Obviously Awesome,https://www.aprildunford.com/obviously-awesome,Paid,April Dunford on positioning.
+"Learning: Blogs, Newsletters, Podcasts, Books, Courses",Books,Building a StoryBrand,https://buildingastorybrand.com,Paid,Donald Miller on clear messaging.
+"Learning: Blogs, Newsletters, Podcasts, Books, Courses",Books,Hooked,https://www.nirandfar.com/hooked/,Paid,Nir Eyal on habit-forming products.
+"Learning: Blogs, Newsletters, Podcasts, Books, Courses",Books,Influence,https://www.influenceatwork.com,Paid,Cialdini on persuasion.
+"Learning: Blogs, Newsletters, Podcasts, Books, Courses",Books,Contagious,https://jonahberger.com/books/contagious/,Paid,Jonah Berger on why things catch on.
+"Learning: Blogs, Newsletters, Podcasts, Books, Courses",Books,Crossing the Chasm,https://www.harpercollins.com/products/crossing-the-chasm-geoffrey-a-moore,Paid,Geoffrey Moore on tech adoption.
+"Learning: Blogs, Newsletters, Podcasts, Books, Courses",Books,Ca$hvertising,https://www.drewericwhitman.com,Paid,Direct-response copywriting principles.
+"Learning: Blogs, Newsletters, Podcasts, Books, Courses",Books,Don't Make Me Think,https://sensible.com/dont-make-me-think/,Paid,Steve Krug on usability.
+"Learning: Blogs, Newsletters, Podcasts, Books, Courses",Books,Trustworthy Online Controlled Experiments,https://experimentguide.com,Paid,The A/B testing bible.
+"Learning: Blogs, Newsletters, Podcasts, Books, Courses",Books,awesome-marketing-books,https://github.com/marketingtoolslist/awesome-marketing-books,Open source,Hand-curated list of the best digital marketing books.
+"Learning: Blogs, Newsletters, Podcasts, Books, Courses",Courses & Certifications,Google Skillshop,https://skillshop.withgoogle.com,Free,"Free certifications for Google Ads, Analytics, and more."
+"Learning: Blogs, Newsletters, Podcasts, Books, Courses",Courses & Certifications,HubSpot Academy,https://academy.hubspot.com,Free,"Free marketing, sales, and CRM courses."
+"Learning: Blogs, Newsletters, Podcasts, Books, Courses",Courses & Certifications,Meta Blueprint,https://www.facebook.com/business/learn,Free,Free Meta advertising training.
+"Learning: Blogs, Newsletters, Podcasts, Books, Courses",Courses & Certifications,Semrush Academy,https://www.semrush.com/academy/,Free,Free SEO and marketing courses.
+"Learning: Blogs, Newsletters, Podcasts, Books, Courses",Courses & Certifications,Ahrefs Academy,https://ahrefs.com/academy,Free,Free SEO courses.
+"Learning: Blogs, Newsletters, Podcasts, Books, Courses",Courses & Certifications,CXL,https://cxl.com,Paid,Evidence-based marketing training.
+"Learning: Blogs, Newsletters, Podcasts, Books, Courses",Courses & Certifications,Reforge,https://www.reforge.com,Paid,Advanced growth programs.
+"Learning: Blogs, Newsletters, Podcasts, Books, Courses",Courses & Certifications,Coursera Digital Marketing,https://www.coursera.org/browse/business/marketing,Freemium,University and Google marketing certificates.
+"Learning: Blogs, Newsletters, Podcasts, Books, Courses",Courses & Certifications,Google Digital Garage,https://learndigital.withgoogle.com/digitalgarage,Free,Free digital marketing fundamentals.
+"Learning: Blogs, Newsletters, Podcasts, Books, Courses",Communities,Indie Hackers,https://www.indiehackers.com,Free,Community for bootstrapped founders.
+"Learning: Blogs, Newsletters, Podcasts, Books, Courses",Communities,Online Geniuses,https://www.onlinegeniuses.com,Free,Large Slack community for digital marketers.
+"Learning: Blogs, Newsletters, Podcasts, Books, Courses",Communities,GrowthHackers,https://growthhackers.com,Free,Growth marketing community (now Sean Ellis' community).
+"Learning: Blogs, Newsletters, Podcasts, Books, Courses",Communities,Superpath,https://www.superpath.co,Freemium,Community for content marketers.
+"Learning: Blogs, Newsletters, Podcasts, Books, Courses",Communities,RevGenius,https://www.revgenius.com,Free,Revenue and go-to-market community.
+"Learning: Blogs, Newsletters, Podcasts, Books, Courses",Communities,Demand Curve Community,https://www.demandcurve.com,Freemium,Startup marketers community.
+"Learning: Blogs, Newsletters, Podcasts, Books, Courses",Communities,Women in Tech SEO,https://womenintechseo.com,Free,Community for women in SEO.
+"Learning: Blogs, Newsletters, Podcasts, Books, Courses",Communities,r/marketing,https://www.reddit.com/r/marketing/,Free,General marketing subreddit.
+"Learning: Blogs, Newsletters, Podcasts, Books, Courses",Communities,r/SEO,https://www.reddit.com/r/SEO/,Free,SEO subreddit.
+"Learning: Blogs, Newsletters, Podcasts, Books, Courses",Communities,r/PPC,https://www.reddit.com/r/PPC/,Free,Paid media subreddit.
+"Learning: Blogs, Newsletters, Podcasts, Books, Courses",Communities,r/emailmarketing,https://www.reddit.com/r/emailmarketing/,Free,Email marketing subreddit.
+"Learning: Blogs, Newsletters, Podcasts, Books, Courses",Communities,r/startups,https://www.reddit.com/r/startups/,Free,Startup founders subreddit.
+"Learning: Blogs, Newsletters, Podcasts, Books, Courses",Communities,r/SaaS,https://www.reddit.com/r/SaaS/,Free,SaaS founders subreddit.
+Related Awesome Lists (Sources),,awesome-marketing (marketingtoolslist),https://github.com/marketingtoolslist/awesome-marketing,Open source,The list that inspired this repo.
+Related Awesome Lists (Sources),,awesome-marketing (ronakganatra),https://github.com/ronakganatra/awesome-marketing,Open source,Living document of marketer resources.
+Related Awesome Lists (Sources),,awesome-marketing (ninjasort),https://github.com/ninjasort/awesome-marketing,Open source,Original internet-marketing list.
+Related Awesome Lists (Sources),,awesome-seo-tools (serpapi),https://github.com/serpapi/awesome-seo-tools,Open source,"Curated SEO tools, including AI visibility."
+Related Awesome Lists (Sources),,awesome-seo-tools (Suganthan),https://github.com/Suganthan-Mohanadasan/awesome-seo-tools,Open source,200+ SEO tools by category.
+Related Awesome Lists (Sources),,awesome-ai-marketing,https://github.com/alternbits/awesome-ai-marketing,Open source,AI tools for marketing.
+Related Awesome Lists (Sources),,awesome-ai-visibility,https://github.com/alternbits/awesome-ai-visibility,Open source,AI search visibility and GEO resources.
+Related Awesome Lists (Sources),,awesome-growth-hacking,https://github.com/bekatom/awesome-growth-hacking,Open source,Growth hacking resources.
+Related Awesome Lists (Sources),,awesome-digital-marketing,https://github.com/paulbradish/awesome-digital-marketing,Open source,Digital marketing guides and services.
+Related Awesome Lists (Sources),,awesome-email-marketing,https://github.com/LLazyEmail/awesome-email-marketing,Open source,Email marketing resources.
+Related Awesome Lists (Sources),,awesome-newsletter-tools,https://github.com/marcelkooi/awesome-newsletter-tools,Open source,"Newsletter tools, platforms, and media."
+Related Awesome Lists (Sources),,awesome-marketing-newsletters,https://github.com/marketinguys/awesome-marketing-newsletters,Open source,Top marketing newsletters.
+Related Awesome Lists (Sources),,awesome-content-marketing,https://github.com/marketinguys/awesome-content-marketing,Open source,Content marketing tools.
+Related Awesome Lists (Sources),,awesome-saas-directories,https://github.com/mahseema/awesome-saas-directories,Open source,Places to launch a SaaS.
+Related Awesome Lists (Sources),,awesome-indie-hackers-tools,https://github.com/Alex0x47/awesome-indie-hackers-tools,Open source,Tools for indie makers.
+Related Awesome Lists (Sources),,awesome-marketing-tools (tractiongroup),https://github.com/tractiongroup/awesome-marketing-tools,Open source,Marketing tools list.
+Related Awesome Lists (Sources),,awesome-developer-tools-marketing,https://github.com/tyaga001/awesome-developer-tools-marketing,Open source,Developer-tools marketing resources.
+Related Awesome Lists (Sources),,awesome-marketing-machine-learning,https://github.com/station-10/awesome-marketing-machine-learning,Open source,"ML libraries for marketing (MMM, attribution, uplift)."
+Related Awesome Lists (Sources),,Awesome-Marketing-Science,https://github.com/shakostats/Awesome-Marketing-Science,Open source,"MMM, incrementality, and causal inference resources."
+Related Awesome Lists (Sources),,awesome-Marketing-Analytics,https://github.com/vkoul/awesome-Marketing-Analytics,Open source,Marketing analytics learning resources.
+Related Awesome Lists (Sources),,awesome-saas-services,https://github.com/GetStream/awesome-saas-services,Open source,SaaS services for developers and business owners.
+Related Awesome Lists (Sources),,awesome-newsletters,https://github.com/zudochkin/awesome-newsletters,Open source,Newsletters across topics.
+Related Awesome Lists (Sources),,Mautic,https://github.com/mautic/mautic,Open source,Open-source marketing automation (10k+ stars).
